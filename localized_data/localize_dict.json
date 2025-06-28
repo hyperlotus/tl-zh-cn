@@ -7257,5 +7257,20 @@
     "Steam671017": "快捷键：编队信息",
     "Steam671018": "快捷键：轮替",
     "Steam671019": "快捷键：道具请求",
-    "Steam671020": "快捷键：菜单"
+    "Steam671020": "快捷键：菜单",
+    "LiveTheater6000001": "无法穿着的服装不会被显示",
+    "LiveTheater6000002": "本歌曲仅限部分服装适用",
+    "SingleMode419119": "下一回合，{0}的擅长率<color=#FF6D26>将提升{1}点</color>",
+    "SingleMode585001": "训练效果提升",
+    "SingleMode585002": "擅长率提升",
+    "SingleMode585003": "效果详情",
+    "SingleMode585004": "↓发动中",
+    "SingleMode648001": "在该活动结束前  \n不再显示此弹窗",
+    "SingleModeAutoPlay508001": "使用此功能后，可以使用闹钟来继续比赛",
+    "SingleModeAutoPlay508002": "如果无法继续比赛，或者闹钟数量不足，则无法继续比赛",
+    "SingleModeAutoPlay508003": "由于未设置继续功能，无法进行编辑",
+    "SingleModeScenarioPioneer359007": "<color=#FF4400>{0}</color>/{1}",
+    "SingleModeScenarioPioneer359008": "{0}/{1}",
+    "Title467001": "游戏结束确认",
+    "Title467002": "确定要结束游戏吗？"
 }
