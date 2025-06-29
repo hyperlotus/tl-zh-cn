@@ -1,4 +1,4 @@
-name: 仓库更新推送
+name: 推送仓库更新
 
 on:
   workflow_dispatch:
@@ -8,12 +8,6 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
-    env:
-      GIT_AUTHOR_NAME:  github-actions[bot]
-      GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
-      GIT_COMMITTER_NAME:  github-actions[bot]
-      GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
 
     steps:
     - name: Checkout dev branch
@@ -33,27 +27,42 @@ jobs:
     - name: Generate index.json
       run: python gen_index.py
 
-    - name: Commit & push to dev (if changed)
-      id: commit_dev
+    - name: Backup index.json for later use
       run: |
-        git add index.json
+        cp index.json /tmp/index.json
+        rm index.json
 
-        if git diff --cached --quiet; then
-          echo "no_change=true" >> $GITHUB_OUTPUT
-          echo "No changes to commit on dev"
-        else
-          git commit -m "生成 index.json"
-          git push origin dev
-          echo "no_change=false" >> $GITHUB_OUTPUT
-        fi
-
-    - name: Merge dev -> main
-      if: steps.commit_dev.outputs.no_change == 'false'
+    - name: Merge dev into main and commit
+      env:
+        TZ: Asia/Shanghai
       run: |
+        set -e
+
+        git config user.name  "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
         git fetch origin main
 
-        git checkout main
-        git merge --no-ff origin/dev \
-          -m "Hachimi 简体中文仓库更新 $(date -u +'%Y/%m/%d')"
+        git switch main
+
+        git merge --no-ff --no-commit origin/dev
+
+        cp /tmp/index.json ./index.json
+        git add index.json
+
+        if git ls-files -u | grep .; then
+          for f in $(git ls-files -u | cut -f2 | sort -u); do
+            git checkout origin/dev -- "$f" || true
+            git add "$f" || true
+          done
+        fi
+
+        if git diff --cached --quiet; then
+          echo "Nothing to commit, workflow ends."
+          exit 0
+        fi
+
+        COMMIT_DATE=$(date +'%Y/%m/%d')
+        git commit -m "Hachimi 简体中文仓库更新 ${COMMIT_DATE}"
 
         git push origin main
