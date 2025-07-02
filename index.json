@@ -67949,6 +67949,16 @@
       "size": 472
     },
     {
+      "path": "assets/story/data/50/1085/storytimeline_501085800.json",
+      "hash": "a7121ad04b11dead563d05e33e97c41fcff4dd180a4eef0eefe32614c91d1e21",
+      "size": 7079
+    },
+    {
+      "path": "assets/story/data/50/1085/storytimeline_501085802.json",
+      "hash": "0bb1c91c540d4df704091eaf573652e4587fb89c11f038f467c4610df3eaf189",
+      "size": 6707
+    },
+    {
       "path": "assets/story/data/50/1085/storytimeline_501085900.json",
       "hash": "f0602238db8b953f3cb6804449751456ed18782f0364624a91d1fbac7d5ff3c7",
       "size": 1067
@@ -83054,6 +83064,21 @@
       "size": 2165
     },
     {
+      "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_badge_shimatraining00.json",
+      "hash": "c02e4e8cea7faee01a8251cf36236abb45b4b5814bd8e81c71c60fd5b69c592e",
+      "size": 255
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_btn_trainingmenu_shima00.json",
+      "hash": "4dde7c5df1732443750f887d37b185c23641daef7f6e47112ce7d3420d5e32d2",
+      "size": 250
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_header_turncounter00.json",
+      "hash": "1cfe8d00fb8ce1025746651491747b9a10ab23aea6832839da8f215019120ddb",
+      "size": 992
+    },
+    {
       "path": "character_system_text_dict.json",
       "hash": "daaa3160a158dd6219bf2051fab5dc8f8a2ea95680a0b7619f4e47b4d1371b7d",
       "size": 2313620
@@ -83075,8 +83100,8 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "883657ca2ed84d1846b1ded60a8cdcaf75088cf9db95b1b1131eb8d1f2af46fb",
-      "size": 413063
+      "hash": "eafcc89aef5c10a1c2f665b7bb661d364c73157c044be67fa9eacd0825a3a1d3",
+      "size": 413304
     },
     {
       "path": "localize_dict.json",
