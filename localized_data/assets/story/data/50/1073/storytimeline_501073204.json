@@ -1,0 +1,322 @@
+{
+  "Title": "天皇赏（春）にむけて",
+  "TextBlockList": [
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（每次拼尽全力、勉强自己直到昏倒时。\n能从医务室的窗户看到外面的景象）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（她们在奔跑着）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（每当看到同龄的她们展现出干劲的时候、\n我都会心潮澎湃地颤抖……想要像她们一样去努力）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（就这样，我透过玻璃遥望着那幅光景）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "樱花盛开时节。\n随着『天皇赏（春）』的临近、\n各大媒体的预测纷纷出炉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "稳居支持率榜首的、\n是去年的霸者・目白光明。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "而被寄予厚望、甚至认为她能力压目白光明的、\n是时代的宠儿・特别周。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后第三个是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "呐――、小鹤。要不要一起并跑啊？\n小特也来吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『天皇赏（春）』三强之一・星云天空。\n擅长领跑的节奏掌控者。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我从鹤丸刚志那里接到联络来到训练场、\n这里已经聚集了前来观摩的人们。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中坚训练员A",
+      "Text": "没想到春天的夺冠大热门们竟然在并跑……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中坚训练员B",
+      "Text": "来了、星云天空会怎么应对呢……？\n特别周的末脚很恐怖哦……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……而对身为另一位并跑对手的鹤丸刚志、\n周围的关注度就很低了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "或许鹤丸刚志在众人眼里、\n……只是个碰巧在场的对手而已吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……呼――。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "嘛啊、毕竟是在正式比赛前。\n负担轻点、就跑个泥地1600m吧。",
+      "ChoiceDataList": [
+        "可以去、没问题",
+        "可以去、没问题"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……训练员。你能给这次并跑录像吗？",
+      "ChoiceDataList": [
+        "……！交给我吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我模仿鹤丸刚志的语气说道、\n然后拿出来摄像机。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "接着让三人到起跑位置就位――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――发出了比赛开始的信号。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸＆小特",
+      "Text": "哈啊啊啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中坚训练员A",
+      "Text": "欸、咦咦～……！？\n星云天空的那个跑法、是怎么回事啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中坚训练员B",
+      "Text": "哈哈哈哈、完全没有领跑啊！\n甚至紧贴着特别周选手！\n打算采取先行策略吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "小星连『预备――跑』都能临时变战术吗～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "嗯～、谁知道呢～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "咦咦～～！？\u3000怎怎怎么办！\n小鹤有对策吗――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "有！\u3000就是拼尽全力！\n即便是诱导我的陷阱也一样！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "…………嘿～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "呼――……。收拾完器材之后、\n再去找训练员查看录像――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "小鹤～！\n……呐呐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "――你动摇了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "欸――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（――那双眼睛）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（小星的目光、\n竟然和感谢祭时的光明学姐的如此相似）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "这之后的训练、你准备做什么呢～？\n……用帮忙不？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……啊、没、没事的！\n是秘密啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我的训练是……\n针对小星的――秘密哦！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（看来一番较量在所难免）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后到了『天皇赏（春）』当天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "吼哇～。小鹤大人也一样呢、\n能看出来您得到了十足的锻炼呢～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "学姐看出来啦！？\n正是如此！\u3000我接受了非常严格的训练！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "嗯嗯～。从表现出来的紧绷感到平衡性。\n简直像是为了长距离比赛打造的身体呢……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "您是抱着必胜的决心来的呢～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……是的。\n除此以外、别无他想。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "因为――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（我已经来到了玻璃窗的另一侧）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（我要站在同样的舞台、去竞技、证明自己更强大。\n……即使是面对我心中认定的、强大的对手）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "如今的我\n已不再『想成为你们的对手』……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――因为我、就是你们的对手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

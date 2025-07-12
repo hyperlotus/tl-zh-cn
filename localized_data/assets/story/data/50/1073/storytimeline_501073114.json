@@ -1,0 +1,479 @@
+{
+  "Title": "だから、今回こそは",
+  "TextBlockList": [
+    {
+      "Name": "以前的刚志",
+      "Text": "哈……哈……哈……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "那孩子、又在用B班的跑道了。\n本来应该升上特进班的A班才对……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "筋疲力尽的赛马娘",
+      "Text": "是啊。看来又掉回B班了。\n因为身子弱、没能参加之前的测试。\n……好可怜啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "以前的刚志",
+      "Text": "――！\u3000哈……哈……哈……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "――那、她一定是个很努力的人吧！\n那样子自主训练、\n肯定又干劲十足地备战下次测试呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "以前的刚志",
+      "Text": "――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小特＆天空＆圣王",
+      "Text": "嘿呀啊啊啊啊――――――！\n哈啊啊啊啊啊――！！\n咿啊啊啊啊啊――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者A",
+      "Text": "噢噢、特别和天空还有2世都参赛……\n『皐月赏』的大热门来了呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "特别"
+      ]
+    },
+    {
+      "Name": "记者B",
+      "Text": "是啊。鉴于草上飞正在休养、\n神鹰也宣布要挑战别的路线。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者B",
+      "Text": "今年的经典三冠、\n注定会是这“三强”之间的战斗了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "哈……哈……\n――小鹤――――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "既然目标是三冠的话、\n小鹤也会参加『皐月赏』吧――――！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "大家一起、加油吧――――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……！\u3000嗯！！\n我不会输哒――――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我可是绝对要成为！\n“绝对强大”的三冠赛马娘啊――！！",
+      "ChoiceDataList": [
+        "刚志！开始今天的训练吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "好！\n刚志准备完毕！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "眼看不久“三冠”的舞台――\n经典三冠比赛的初战『皐月赏』就要到了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "为此我在训练中不时地加入一些高强度的内容。\n虽然自认为现在应该没问题了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哈……咿……哈……！！",
+      "ChoiceDataList": [
+        "……抱歉、我测量下脚部温度"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……好的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……顺便问一下、训练员。\n今天、就到这里了……是吗？",
+      "ChoiceDataList": [
+        "稍等一下、让我想想"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……！\u3000好、好的！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我绞尽脑汁思考着。\n鹤丸刚志的脚部状态如何。\n还能继续训练吗、还是需要先做诊断呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "说到底这次发热的原因是什么呢？\n难道不能预防、只能等到出现再治疗吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――既然再怎么想\n单凭我的大脑也得不出正确答案的话。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那么就去寻找能得出答案的方法就好了！\n――借用他人的智慧也是一个办法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训练员。\n说要见面、是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "谜之老爷爷",
+      "Text": "你好～、早上好啊～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊、你好。\n早上好啊～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "不对、应该是初次见面吧！？\n请问您是哪位！？",
+      "ChoiceDataList": [
+        "从今天起、这位就是你的专属医生了！",
+        "从今天起、这位就是你的专属医生了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "欸。专属！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――专属医生。\n要寻找一位的门槛实在太高。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我自己还只是个初出茅庐的训练员。\n无论信用还是能提供的报酬都很少。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "即使如此我仍旧四处奔走。\n从大医院到地方诊所。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不停地到四处恳求――\n恳请与我一起支持鹤丸刚志。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "哎呀呀～。训练员。\n真是的～、请交给我吧～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "话说回来、\n这里是哪啊～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "特雷森学园的训练员室！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……虽然偶尔会表现得有些脱线、\n但他是一位医术高明的独立医生。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "据说不仅持有运动医师的资质、\n还担任过国际大赛顶尖选手的主治医生……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训、训练员？\n真的没问题吗～……？",
+      "ChoiceDataList": [
+        "没、没问题。技术是货真价实的……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "吼吼、这就是～。\n特雷森学园的训练场啊～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "哈啊～、这就是跑道里的木屑啊。\n实物差不多有手指第一关节那么大欸～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "没、没问题没问题！首先跑一圈看看吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "了、了解～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哈……哈……。\n呼……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "鹤丸刚志按照前几天的训练项开始奔跑。\n记得昨天是在跑完后没多久就发热了――",
+      "ChoiceDataList": [
+        "刚志、也做一下冰敷吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "然后也消消毒吧～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "消毒……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "嗯啊～。\n跑道虽然维护得非常好……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "但是以赛马娘的速度奔跑、\n砂土和木屑都会飞溅起来吧？\n即使那些颗粒再小……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "也可能会造成肉眼看不见的细小伤口吧？\n患处发热的原因、可能就是这些小伤口。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "当然啊、\n这可能不是最佳方案。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "但我们可以把除了免疫问题以外、\n注意到的地方逐一排查验证一下～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "一起加油吧～。\n鹤丸选手、训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……！\u3000好、好的！！\n请多指教！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训、训练员！\n这位医生……！",
+      "ChoiceDataList": [
+        "很可靠吧！！",
+        "很可靠吧！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "鹤丸刚志喘着粗气连连点头。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――这样一来、\n应该向着经典三冠的目标迈进了一步吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………。\n……今天脚也不痛呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――……嘿嘿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（……买到了。买到啦！\n『皐月赏』特集！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（就算现在讨论的焦点都是“三强”。\n比赛当天我也――！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "啊咧、在那里的是……\n……小鹤？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "～～！\u3000啊、啊啊啊～～好久不见！\n我们以前在俱乐部是同班呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "是啊是啊、在B班短暂地同班过啊！\n虽然我最后转去了别的学校～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "小鹤还在追逐你那时候的梦想吗？\n――成为三冠赛马娘的梦想！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "！\u3000那当然啦！！\n尽情期待『皐月赏』吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我和对手们都很强的！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（敲门声）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……训练员。方便吗～。",
+      "ChoiceDataList": [
+        "方便、请问有什么事？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "我决定作为专属医生加入你们、\n然后今天实际见到了那孩子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "所以为了这份觉悟、\n请允许我问一个问题。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……那位鹤丸选手真的、\n要参加『皐月赏』吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

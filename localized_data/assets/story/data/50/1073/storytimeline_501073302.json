@@ -1,0 +1,560 @@
+{
+  "Title": "抽奖试手气！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "某天我与努力训练的鹤丸刚志回去的路上――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "瞧一瞧看一看、现在正在举办新春・大抽奖～！\n特等奖可是『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "一等奖是『上等胡萝卜肉排汉堡』\n二等奖是『一筐胡萝卜』\n三等奖是『一根胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "来来来、快乐又开心的抽奖哦！\n任何人都可以来试一试～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "唔姆姆姆！！",
+      "ChoiceDataList": [
+        "嗯、是抽奖呢。等吃完再说吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "咕嘟――吃完了！\n有抽奖欸、训练员！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看着她笑眯眯的样子、\n不用说我也明白她的想法。",
+      "ChoiceDataList": [
+        "好、抽一回试试吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "好耶！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后她急急忙忙吃起剩下的肉包……\n结果中途呛到了、\n照顾了她一阵后我们才去排抽奖的队伍。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训练员、训练员！\n我要、抽到特等奖呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "请你把日程空出来哦！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "鹤丸刚志兴致勃勃地转动起抽奖机的摇杆！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "结果是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "不得了！\u3000恭喜你啊啊啊啊！！\n抽到了特等奖『温泉旅行券』呀～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哇呀～～～！？",
+      "ChoiceDataList": [
+        "抽、抽中了――――！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "抽到了特等奖。\n突如其来的冲击让我们两个愣在了原地。",
+      "ChoiceDataList": [
+        "原来真的能抽中特等奖啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（姆姆！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就连一直嚷嚷着要『抽到特等奖』的本人、\n也连连点头表示感同身受。\n看来她也没想到真的会中吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………那、个。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训练员、就是。\n我真抽到了……特等奖欸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "～～～……、\n本来以为反正也中不了、\n才随口一说的呀――！",
+      "ChoiceDataList": [
+        "啊啊、真厉害！说到做到啊！",
+        "啊啊、真厉害！说到做到啊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我确认了一下奖券上写的目的地。\n记得那里是作为赛马娘的疗养胜地\n也十分出名的人气设施！",
+      "ChoiceDataList": [
+        "太好了、其实我也正想带你去呢！",
+        "太好了、其实我也正想带你去呢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……！\n真、真的吗……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嘿嘿……诶嘿嘿嘿……！\n太好了、看你这么开心……！\n真是太好啦……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那么那么两个人一起去吧！\n你一直都那么努力、这次就放下所有工作、\n好好放松一下吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "既然是温泉……\n可以看看自然景色、赏赏雪景吧？\n啊、樱花季节去也不错呢！",
+      "ChoiceDataList": [
+        "刚志想什么时候去？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我的话……嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "就选我们俩都能悠哉度过的时候吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是我和鹤丸刚志约定好、\n等她安定下来后就去温泉旅行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "恭喜、一等奖～！\n奖品是『上等胡萝卜肉排汉堡』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "好可惜～～～！\n差一点就是特等奖了！",
+      "ChoiceDataList": [
+        "但是看上去很好吃的样子啊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "！\u3000真的诶！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咕呜呜呜～……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "可我！？\n刚吃完肉包子欸！？",
+      "ChoiceDataList": [
+        "啊哈哈、这是你的身体在渴求营养啦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "身为赛马娘\n如今的鹤丸刚志的身体在逐渐走向成熟。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因此需要获取比以往更多的能量、\n这一事实着实令人欢喜。",
+      "ChoiceDataList": [
+        "真切地感受到了你的成长啊",
+        "真切地感受到了你的成长啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……姆姆。\n听你这么说……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "说实话我超级开心的！\n肚子都咕咕叫嘞！",
+      "ChoiceDataList": [
+        "把汉堡肉通通吃光光吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "包在我身上！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是作为奖品的汉堡肉、\n变作鹤丸刚志的点心消失在她的肚子里。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "二等奖～！！\n奖品是『一筐胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "噢、噢噢噢……！\n胡萝卜一根、两根、三……。",
+      "ChoiceDataList": [
+        "……收到了、好多好多啊！",
+        "……收到了、好多好多啊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "因为今年胡萝卜大丰收嘛！\n所以比平时堆得还要高！\n我可是使劲儿塞了好多哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "名副其实堆成小山的胡萝卜把箱子塞得满满的、\n多到几乎要溢出来。",
+      "ChoiceDataList": [
+        "那么、该怎么把这些搬回去呢……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "欸。这么多――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "好嘞、我们回去吧。\n训练员！",
+      "ChoiceDataList": [
+        "哇、不愧是赛马娘……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……？\u3000那当然――？\n我也是赛马娘啊――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……该不会、训练员。\n你刚才是不是在想\n搞不好连这些胡萝卜我都搬不动……吧？",
+      "ChoiceDataList": [
+        "没有、我的意思是应该由我来搬",
+        "没有、我的意思是应该由我来搬"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "欸、是这样吗！？\n是那样想的啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……但是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我啊、可是赛马娘哦。\n所以比训练员还要结实。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "力气活啊、农活啊。\n要是有什么需要帮忙的事情、\n请一定要好好跟我讲哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "关键时刻靠刚志！\n好好地写进心灵备忘录里吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是我和鹤丸刚志一同、\n一点点消灭掉胡萝卜山的生活开始了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "三等奖～！\n奖品是『一根胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哎呀――！\u3000三等奖吗――！",
+      "ChoiceDataList": [
+        "嘛啊嘛啊、常有的事",
+        "嘛啊嘛啊、常有的事"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "不好不坏。\n……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福来",
+      "Text": "你在因为占卜结果而烦恼不已吗！\n这种时候、才更要靠占卜打破僵局呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "咦、福来学姐！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "福来"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "现身的正是特雷森学园引以为豪的\n占卜赛马娘・待兼福来。",
+      "ChoiceDataList": [
+        "话说回来抽奖不算占卜吧？"
+      ],
+      "ColorTextInfoList": [
+        "待兼福来"
+      ]
+    },
+    {
+      "Name": "待兼福来",
+      "Text": "不过此刻感受到的烦恼是毋庸置疑的\n事实！\u3000这里就该靠占卜才对啦！",
+      "ChoiceDataList": [
+        "是这样啊……？",
+        "是这样啊……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福来",
+      "Text": "哼哼哼――好啦、结果出来啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "待兼福来",
+      "Text": "鹤丸同学、你呀――\n就用那跟胡萝卜变得更健康吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哈、健康……！\u3000也就是说――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――就是这样吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是、她做出来了一种混合了胡萝卜\n……羽衣甘蓝、豆浆、苹果醋、苦瓜、裙带菜\n还有其他东西的饮料。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训练员！\u3000我们干杯吧！\n共饮刚志特制饮料！",
+      "ChoiceDataList": [
+        "…………干杯！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我闭上眼一饮而尽。\n至于味道嘛――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嗯、好苦！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……嘛啊、应该能变得更健康吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "很遗憾、没抽中！\n参与奖是纸巾』哦～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……咿。",
+      "ChoiceDataList": [
+        "也有这样的时候啦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "是啊……。\n啊啊、话是这么说啦\n但是真的什么也没抽到欸……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………就算拿到纸巾、\n也实在高兴不起来欸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样、我带着垂头丧气的鹤丸刚志返回了学园……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

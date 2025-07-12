@@ -1,0 +1,579 @@
+{
+  "Title": "鹤丸刚志登場！",
+  "TextBlockList": [
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（从小、我就喜欢奔跑）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（啪嗒啪嗒啪嗒啪嗒！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "刚志的姐姐",
+      "Text": "喂、不许踢被子！\u3000也不许在被窝里跑！\n你还发着烧呢！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "没事没事！\u3000出出汗反而好得更快――\n――……咳咳咳、咳呕！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小鹤的妹妹A",
+      "Text": "妈妈――！！\n小鹤呛着啦――――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小鹤"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（从小、我就想成为强大的赛马娘）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "大家――、好久不见啦――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "育成俱乐部的赛马娘",
+      "Text": "哇～小鹤回来啦！！\n你的腿已经好了吗？\u3000可以跑步了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小鹤"
+      ]
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "哼……我今天就要把被大家超过的记录、\n一口气全追回来……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "育成俱乐部的赛马娘",
+      "Text": "咻～～！\n小鹤状态绝佳呢～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（从小、我就――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "育成俱乐部的老师",
+      "Text": "――诶！？\u3000鹤丸同学昏倒了！？\n怎么会――……快叫救护车！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "鹤丸"
+      ]
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "……我、不能参加比赛了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医生",
+      "Text": "恕我直言、\n以你现在的身体状况……\n恐怕不可能在比赛里有所作为了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "医生",
+      "Text": "当然并非绝对不可能。\n只是……作为一名运动员活跃在赛场上、\n不得不说……十分困难。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "看来这世上并没有“绝对”、\n有的……似乎只有可能性而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "有依据的哦！\u3000医生也没说『绝对不行』！\n也就是说只要努力、就不是不可能――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……――也许吧、但是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "无论是『努力绝对不会背叛你』这样的格言、\n还是『绝对没问题』这样的鼓励。\n……我都无法坦率地相信了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "因为这意味着、\n无论多么努力……\n……也并没有所谓的“绝对”啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（――但是、就在那时）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "电视",
+      "Text": "『鲁道夫象征！\n鲁道夫象征从内侧冲上来了！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "鲁道夫象征"
+      ]
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『鲁道夫象征！\u3000鲁道夫啊！\n无败的三冠赛马娘此刻！\u3000这个瞬间――……！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "鲁道夫象征",
+        "鲁道夫",
+        "三冠赛马娘"
+      ]
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『鲁道夫象征、三冠啦！\n达成三冠啦！\u3000不灭的辉煌记录！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『这位赛马娘只要说出会赢\n便是“绝对”的！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（哇啊啊啊啊啊！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "――“绝对”……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "真……真的。绝对啊！\n这个赛马娘、绝对很强啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "有啦！\u3000有了有了！\n绝对、是存在的――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『鲁道夫象征获胜啦！\n鲁道夫象征登上了世界之巅！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛解说",
+      "Text": "『哎呀～、这话我可不得不讲了。\n“皇帝”鲁道夫象征身上确实有着绝对啊』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "皇帝"
+      ]
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "咿呀呀呀～、鲁道夫小姐好强啊～！\n好帅啊～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "……哼哼！\u3000绝对果然是存在的嘛！\n我也要成为强大的赛马娘呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "无论受伤多少次！\u3000住院多少回！\n我也绝对要跑起来。\n绝～～对要变强。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（就像鲁道夫象征一样！\u3000“绝对”！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（为了这个目标、\n我才来到了特雷森学院啊！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "特雷森学院"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "呼～……。吸～……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "早上好――――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "小的们、把小鹤围起来嘚――――斯！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "班级同学＆小鹤",
+      "Text": "嗷嗷～～～！\n咦咦～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（然后我就被同班同学兼朋友的\n“同期”的5人――团团包围了）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "欸、为什么为什么！！？？\n……噗噫哈哈哈啊！\u3000等……啊哈哈哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "该问『为什么』的是我们这边嘚斯！\n好啦好啦、老实交代你的秘密罢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "停、停一下――！？\n秘密什么的……我哪有――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青云天空",
+      "Text": "肯定有吧～？\u3000你不是背着我们\n偷偷和训练员签约了吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊、那件事！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣王光环",
+      "Text": "就是啊！\u3000选拔赛那天、\n你明明因为医生禁令在休息的啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣王光环",
+      "Text": "该不会是在身体不适、晕晕乎乎的时候、\n被可疑的人给骗了――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "才不是被骗呢！\u3000就是那个、\n我和现在搭档的训练员呢……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『我来照亮你的前路』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『我来照亮你的前路』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『不管发生什么我都会一直支持你』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『不管发生什么我都会一直支持你』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嘿嘿……嘛、发生了很多事吧？\n所以顺势就这么签约了～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "……很多事……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飞",
+      "Text": "看来这其中既有美妙的回忆\n也有不得不问清楚的事情呢～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "青云天空",
+      "Text": "是呢。\n那我们……再来一次？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小特＆小鹤",
+      "Text": "嗷嗷～～～！\n诶～～、还来～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "呀、呀哈哈啊啊！\n饶了我……呀哈哈哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "所以今天早上开始就叽叽喳喳的\n被折腾坏了！",
+      "ChoiceDataList": [
+        "啊哈哈、你们的感情真好啊",
+        "啊哈哈、你们的感情真好啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "是的！\u3000这点我不否认！！\n因为她们是我最喜欢的朋友也是同期呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我看着自己的担当赛马娘・鹤丸刚志、\n在训练前露出的笑容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "鹤丸刚志"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "但是在她刚才讲述的故事中登场的\n同班同学的同期们。她们――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――正是鹤丸刚志的\n“最强的对手候补”们。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "例如、出身名门的大小姐・圣王光环。\n据说她的母亲曾是叱咤美国比赛界的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "圣王光环"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "此外还有神鹰、\n被高度评价为“有问鼎世界第一潜力的奇才”……\n据说已经制定好了远征计划。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "神鹰"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "说到实力派还有草上飞。\n虽然目前暂时蛰伏、\n青云天空也是值得关注的一员――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "草上飞",
+        "青云天空"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "再加上即将展现未知实力的、\n从北海道而来的转学生特别周。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "特别周"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "在不久的将来、\n必定会与她们在赛场碰面吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……我明白的、训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "如果我不能超越那些同期、\n就无法成为“三冠赛马娘”。",
+      "ChoiceDataList": [
+        "……是啊、你的目标是三冠",
+        "……是啊、你的目标是三冠"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "三冠赛马娘。是指经典三冠\n『皐月赏』『日本德比』『菊花赏』\n全部获胜之人的称号。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "经典三冠",
+        "皐月赏",
+        "日本德比",
+        "菊花赏"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "正因为其中的每一场、\n都是只有经典级的赛马娘才能角逐顶点的、\n一生仅一次的比赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "经典级"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "所以我绝对不能输。\n我要赢、我要像鲁道夫会长一样――……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……嘿嘿！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训练员！\n今天我也要全力以赴！",
+      "ChoiceDataList": [
+        "哦哦、干劲十足啊！",
+        "哦哦、干劲十足啊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "是的！\u3000因为我们的目标是\n成为强大的、强大的三冠赛马娘呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我对她的气势点头表示认可、拿出训练资料。\n首先要根据鹤丸刚志的体质来……。",
+      "ChoiceDataList": [
+        "今天就从轻量的热身开始吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "了解！\n让我们踏踏实实地大干一场吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "不管50圈还是100圈！\n唔哦哦哦哦哦哦哦～～～～～～～～！！",
+      "ChoiceDataList": [
+        "啥、100！？等下、小鹤！",
+        "啥、100！？等下、小鹤！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哦哦哦～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我连忙想要阻止她、\n但是赛马娘既出便已难追。\n她就那样全力奔跑了起来――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哈呀……呜呀……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――唔呕噗……。",
+      "ChoiceDataList": [
+        "小鹤――――！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后“很快”地、\n我不得不去搀扶跪倒在地的鹤丸刚志。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样、与这位全力赛马娘鹤丸刚志一起、\n挑战闪耀系列赛的日子开始了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "闪耀系列赛"
+      ]
+    }
+  ]
+}
