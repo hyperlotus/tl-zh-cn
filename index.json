@@ -24,9 +24,24 @@
       "size": 161836
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_gacha_icon_new00/tx_uTex_fl_gacha_icon_new00_0.diff.png",
+      "hash": "dd17e9bbfffa0f78d894daed6139a8444cd7a8ab21e4129b1b21ae2bbc39ff8f",
+      "size": 95966
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_login_item_list00/tx_uTex_fl_login_item_list00_0.diff.png",
       "hash": "e8040b4eec56267125861962fe21a9c4fbe1bd1bbc931dccbb542245bf96bac7",
       "size": 76819
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_all_target_acchieve00/tx_uTex_fl_singlemode_all_target_achieve00_0.diff.png",
+      "hash": "035e18baa13f26195cd54d301e896379a1e7b1d6311270d2671c322149ce2d63",
+      "size": 664347
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_break_resultpoint/tx_uTex_fl_singlemode_break_resultpoint_record00_0.diff.png",
+      "hash": "d14d8df3f5c01b1fe4d821b2859a460786b720f41805ae047365d9005a5aee70",
+      "size": 209402
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_btn_factor_succession00/tx_uTex_fl_singlemode_btn_factor_succession00_0.diff.png",
@@ -154,6 +169,11 @@
       "size": 280816
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_title_chararank00/tx_uTex_fl_singlemode_title_chararank00_0.diff.png",
+      "hash": "2066372928ec6ce30e472e71b575df5318f277ff431fe040694726a1f4a533da",
+      "size": 85047
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_title_chararesult00/tx_uTex_fl_singlemode_title_chararesult00_0.diff.png",
       "hash": "fccedd33e806a08212e5545ea7491baa5da09cdef578feb050a8cded0d1f8604",
       "size": 143702
@@ -202,6 +222,11 @@
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.diff.png",
       "hash": "3b7132dc64f638f136cc80a877529af517a98c7cb4b7260100089a8c2189f47a",
       "size": 185156
+    },
+    {
+      "path": "assets/atlas/teamstadium/teamstadium.diff.png",
+      "hash": "249499a32c9181726f3a83c3af4cdabc7ce90737756fcd2528734a75999e97f7",
+      "size": 652915
     },
     {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1001001.json",
@@ -2732,6 +2757,11 @@
       "path": "assets/home/data/00000/03/hometimeline_00000_03_0000082.json",
       "hash": "0ed784158bf08c59e5abbcd7864a23a5e15fa50c7f6d01bad74ce74db2fab2d4",
       "size": 1920
+    },
+    {
+      "path": "assets/home/data/00000/03/hometimeline_00000_03_0000101.json",
+      "hash": "d275aa2220a22782804bd476b1a5fad6c5bba6afe97c246cee24ecfe8a83b7ed",
+      "size": 2028
     },
     {
       "path": "assets/home/data/00000/03/hometimeline_00000_03_0000103.json",
@@ -83084,6 +83114,31 @@
       "size": 793153
     },
     {
+      "path": "assets/textures/race/teamstadium/logo/tex_race_teamstadium_00.png",
+      "hash": "5e9a9116456ed9cb579795fe1c8ab187edf3d1f9c458b8c50af1476f50d24e2a",
+      "size": 85901
+    },
+    {
+      "path": "assets/textures/race/teamstadium/logo/tex_race_teamstadium_txt_00.png",
+      "hash": "d568b0ca2722d05efd58cf474815757252ce15cba56740c73cb7eef1cd096903",
+      "size": 112329
+    },
+    {
+      "path": "assets/textures/race/teamstadium/logo/tex_race_teamstadium_txt_01.png",
+      "hash": "2e9574025301a31574296d32b2d8c2690e2bb77f415cb3c6d0c1aee2adf59688",
+      "size": 106540
+    },
+    {
+      "path": "assets/textures/race/teamstadium/logo/tex_race_teamstadium_txt_02.png",
+      "hash": "8d51ef5b1e83aef09a277d4e738f5bea485530429f49ed7c71a6df9ccacf8840",
+      "size": 112665
+    },
+    {
+      "path": "assets/textures/transferevent/00001/transfer_event_logo_00001.png",
+      "hash": "144ef0ebd910a0dc33754d16882fae6346ff5e38b7ef09905cf0b57ffc70cfa0",
+      "size": 161604
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/legend/pf_fl_singlemode_legend_header_turncounter00.json",
       "hash": "1996b946a51021413cf9415f0428d8a383e403eec13f252f6e4741b15929fe33",
       "size": 2165
@@ -83145,8 +83200,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "5e65abf593382ffd757d4081772a55a73d4cdaf9e10f5541ecfc9e7521c061a0",
-      "size": 4714785
+      "hash": "5e80b46f194dd4df61bac5ba857e017348b0e42aa01ff00672019bd46db8964d",
+      "size": 4716453
     }
   ]
 }
