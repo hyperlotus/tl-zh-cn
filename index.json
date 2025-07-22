@@ -4144,6 +4144,11 @@
       "size": 3360
     },
     {
+      "path": "assets/lyrics/m1155_lyrics.json",
+      "hash": "e7405e7a1edbed1069116bc0b7b5cd41e4837ec083dc3e517b3c4a8bbf6fe223",
+      "size": 2487
+    },
+    {
       "path": "assets/lyrics/m9051_lyrics.json",
       "hash": "f436cfd88b3636fba028a50c7beb078f7ce8df2fa48d1563c711f9dc4c422691",
       "size": 934
@@ -4292,6 +4297,16 @@
       "path": "assets/race/storyrace/text/storyrace_020202132.json",
       "hash": "b0fa5692356e4864739810166d27a48d3ef6d825e7b69250b93196fea142d11a",
       "size": 2763
+    },
+    {
+      "path": "assets/race/storyrace/text/storyrace_020203132.json",
+      "hash": "178c200a3ee3627f6753d0876909a5b4ed93c87f5b76dc1a1173991b4c3b8522",
+      "size": 1367
+    },
+    {
+      "path": "assets/race/storyrace/text/storyrace_020203133.json",
+      "hash": "b8ce0f4e38b5ceee579fd1c1ec56385f3a8aa5b0a514d55a98f892ac580ec521",
+      "size": 1419
     },
     {
       "path": "assets/story/data/00/0000/storytimeline_000000001.json",
@@ -5162,6 +5177,31 @@
       "path": "assets/story/data/02/0202/storytimeline_020202133.json",
       "hash": "53ed0e2de50864371555032a4b9ae95d17472ae54087b828b1cc554d992fdcaa",
       "size": 6310
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203011.json",
+      "hash": "ab76f93b9fced2817ea68547701b9ebb71d5b7e4dd66a8a519cb538b5b4bd7e4",
+      "size": 9332
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203021.json",
+      "hash": "21f57b66996987c2b35e6e549c1088f64106550deec10b1c8a3b69d7e463f2c5",
+      "size": 12891
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203031.json",
+      "hash": "87c69accd44ef726bf56d63949824c738b1034be77f8ff6d5b0f3a70b79f5e73",
+      "size": 10627
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203041.json",
+      "hash": "48e244584b2af2bcbdf030e0c0c4361daf496b04ec26ed331eb254f3df0d2d0c",
+      "size": 15498
+    },
+    {
+      "path": "assets/story/data/02/0203/storytimeline_020203051.json",
+      "hash": "559abe05293cb804bb185bececac3f5fb6eb03c8442834612290eb93dfdcff50",
+      "size": 16658
     },
     {
       "path": "assets/story/data/04/1001/storytimeline_041001001.json",
@@ -83200,8 +83240,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "5e80b46f194dd4df61bac5ba857e017348b0e42aa01ff00672019bd46db8964d",
-      "size": 4716453
+      "hash": "500f1bebe91eef7344967bed4b24dba0eebfdc1189fb11b99be6ccc2ce8134d3",
+      "size": 4718441
     }
   ]
 }
