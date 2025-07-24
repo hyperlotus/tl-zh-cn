@@ -20,7 +20,7 @@
         },
         {
             "name": "实况",
-            "text": "――Loves Only You is fifth\njust in behind the leaders!\n(――唯独爱你目前第五，\n紧随领头马之后！)"
+            "text": "――Loves Only You is fifth\njust in behind the leaders!\n(――唯独爱你目前第五，紧随领头马之后！)"
         },
         {
             "name": "社群成员们",
@@ -30,7 +30,7 @@
             "name": "唯独爱你",
             "text": "（没关系。我能感受到。我们是相连的。\n跨越大海与大家――）",
             "choice_data_list": [
-                "唯爱————！！！冲啊————————！！！！"
+                "唯爱————！！！冲啊————！！！！"
             ]
         },
         {
@@ -51,15 +51,15 @@
         },
         {
             "name": "实况",
-            "text": "Here comes Loves Only You\nto win it for Japan!!!!\n（唯独爱你冲向终点，\n为日本夺冠！！）"
+            "text": "Here comes Loves Only You\nto win it for Japan!!!!\n（唯独爱你冲向终点，为日本夺冠！！）"
         },
         {
             "name": "欢呼声",
-            "text": "（哇啊啊啊啊啊啊————————！！！！！）"
+            "text": "（哇啊啊啊啊啊啊——————！！！！！）"
         },
         {
             "name": "旁白",
-            "text": "……她终于在\n『育马者杯』上，\n作为日本赛马娘史上首位获得了冠军。"
+            "text": "……她终于在\n『育马者杯』上，\n作为史上首位日本赛马娘获得了冠军。"
         },
         {
             "name": "旁白",
@@ -78,7 +78,7 @@
         },
         {
             "name": "唯独爱你",
-            "text": "这里是唯独爱你with训练员君♡"
+            "text": "这里是唯独爱你with训练员♡"
         },
         {
             "name": "记者们",
