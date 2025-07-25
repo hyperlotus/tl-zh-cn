@@ -9,6 +9,21 @@
       "size": 1477652
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_champions_result_finalranking00/tx_uTex_fl_champions_result_finalranking00_0.diff.png",
+      "hash": "bf053bfb422a04fd5c6895ada4c9fa4ddd78e43a208ebbf44cb057a4f8357f8a",
+      "size": 333560
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_champions_result_roundadvance00/tx_uTex_fl_champions_result_roundadvance00_0.diff.png",
+      "hash": "136eb7fb32bd14be0ec9bcadf1e23da16255db4092d8260a63443cc27975043c",
+      "size": 353705
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_champions_txt_round_reward00/tx_uTex_fl_champions_txt_round_reward00_0.diff.png",
+      "hash": "9f92c164d7cafa46b8ffd6c0afc7590ff5d32f704237197ab6ee39965e086bd9",
+      "size": 362833
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_chara_limit_break00/tx_uTex_fl_chara_limit_break00_0.diff.png",
       "hash": "e06a418d49dd5c12b3c3814a84d02dca5995c5024dd86cf04e8a6e62bced9d6f",
       "size": 951030
@@ -202,6 +217,11 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_txt_trainingresult00/tx_uTex_fl_singlemode_txt_trainingresult00_0.diff.png",
       "hash": "710889409c876c52b52aa3a3419c4851663912a5b478b34a9413275d6ab0894f",
       "size": 692933
+    },
+    {
+      "path": "assets/atlas/championsmeeting/championsmeeting.diff.png",
+      "hash": "fae4a3625c16492261965752fb02ecf7bab3c23326ae3fdd7cdf3b82777a6798",
+      "size": 1014006
     },
     {
       "path": "assets/atlas/home/home.diff.png",
@@ -82419,6 +82439,31 @@
       "size": 84544
     },
     {
+      "path": "assets/textures/home/ui/texture/champions/utx_txt_home_race_round_00.png",
+      "hash": "90ee7c8e9b166aeed78f5783b31f33415d2008c35a153ebcf9779a182dd5527f",
+      "size": 21545
+    },
+    {
+      "path": "assets/textures/home/ui/texture/champions/utx_txt_home_race_round_01.png",
+      "hash": "42c1aa8e78a54008abc7c01cf0efb527af5886303ce9a94345e3f12e2b5582c7",
+      "size": 21828
+    },
+    {
+      "path": "assets/textures/home/ui/texture/champions/utx_txt_home_race_round_02.png",
+      "hash": "5574c836165fc35dad3a4f3d4041522c04484a340ed0e6d6f00d8008219457a6",
+      "size": 33072
+    },
+    {
+      "path": "assets/textures/home/ui/texture/champions/utx_txt_home_race_round_03.png",
+      "hash": "8e7321f3a9831e6aae31588f86e9d4ffc6decb867b9201ac983954ee2c20af18",
+      "size": 24954
+    },
+    {
+      "path": "assets/textures/home/ui/texture/champions/utx_txt_home_race_round_04.png",
+      "hash": "afbe9894404e4a6da92b1281ae0839eb6e6bbf823e6cc5d7ad637ba5841782a3",
+      "size": 23748
+    },
+    {
       "path": "assets/textures/home/ui/texture/utx_btn_home_race_down_01.png",
       "hash": "a468f7cacac548b056e555250163f8f72da48fb5d9380ee2db7c1b5dfe57ceb9",
       "size": 169609
@@ -83204,6 +83249,16 @@
       "size": 793153
     },
     {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_15_01.png",
+      "hash": "54fbdc25884e590d08a49f07f801ce2d48160a9e880445967265218b1b0bebb1",
+      "size": 264815
+    },
+    {
+      "path": "assets/textures/race/champions/texture/logo/tex_champions_logo_15_02.png",
+      "hash": "63b287db365f7f206eb6caaf1d59259e513eada440df5b438308c35fa41668ff",
+      "size": 126734
+    },
+    {
       "path": "assets/textures/race/teamstadium/logo/tex_race_teamstadium_00.png",
       "hash": "5e9a9116456ed9cb579795fe1c8ab187edf3d1f9c458b8c50af1476f50d24e2a",
       "size": 85901
@@ -83290,8 +83345,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "ba7e015a571b259c3d03ee34fa11a99c29b6059999aeff9f556786bb6654486f",
-      "size": 4721795
+      "hash": "d9766b635928d53094eb0db15a1d5cedbd79b4b28197b92113d6538feb229372",
+      "size": 4724191
     }
   ]
 }
