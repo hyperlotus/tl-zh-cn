@@ -1,0 +1,68 @@
+name: 推送仓库更新
+
+on:
+  workflow_dispatch:
+
+jobs:
+  build-and-merge:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+    - name: Checkout dev branch
+      uses: actions/checkout@v4
+      with:
+        ref: dev
+        fetch-depth: 0
+
+    - name: Set up Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.x'
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt
+
+    - name: Generate index.json
+      run: python gen_index.py
+
+    - name: Backup index.json for later use
+      run: |
+        cp index.json /tmp/index.json
+        rm index.json
+
+    - name: Merge dev into main and commit
+      env:
+        TZ: Asia/Shanghai
+      run: |
+        set -e
+
+        git config user.name  "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+        git fetch origin main
+
+        git switch main
+
+        git merge --no-ff --no-commit origin/dev
+
+        cp /tmp/index.json ./index.json
+        git add index.json
+
+        if git ls-files -u | grep .; then
+          for f in $(git ls-files -u | cut -f2 | sort -u); do
+            git checkout origin/dev -- "$f" || true
+            git add "$f" || true
+          done
+        fi
+
+        if git diff --cached --quiet; then
+          echo "Nothing to commit, workflow ends."
+          exit 0
+        fi
+
+        COMMIT_DATE=$(date +'%Y/%m/%d')
+        git commit -m "Hachimi 简体中文仓库更新 ${COMMIT_DATE}"
+
+        git push origin main
