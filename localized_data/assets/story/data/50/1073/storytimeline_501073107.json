@@ -1,0 +1,326 @@
+{
+  "Title": "バレンタイン",
+  "TextBlockList": [
+    {
+      "Name": "东海帝王",
+      "Text": "心跳加速～？\u3000小鹿乱撞～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "刚志＆帝王",
+      "Text": "情人节烘焙课堂！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "刚志的姐姐",
+      "Text": "所以今天担任两位老师的就是小鹤的姐姐我。\n西点界的新星♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "话说小鹤的姐姐！\n为什么想成为西点师呢！？\n明明也是赛马娘嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "刚志的姐姐",
+      "Text": "哼哼哼、那是因为～……。\n我发现自己是做点心的天才啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "姐姐、谢谢你。\n明明你那边学校也很忙的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "刚志的姐姐",
+      "Text": "小意思、这可是为了小鹤嘛！\n你不是想用巧克力向照顾自己的人表示感谢嘛？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "刚志的姐姐",
+      "Text": "……缘分必须好好珍惜呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今天鹤丸刚志带来了点心。\n机会难得、我也在桌上准备了珍藏的红茶……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哇哇、训练员！\n连茶都准备好了谢谢你！",
+      "ChoiceDataList": [
+        "哪里哪里、我才要谢谢你的点心呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "诶嘿嘿……快打开看看吧！\n我带来的、是姐姐亲传的巧克力蛋糕！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "情人节是传达羁绊与感谢的日子。\n为了体现珍惜缘分的寓意特意做成了圆形！",
+      "ChoiceDataList": [
+        "噢噢～！原来如此～！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "吼吼吼。\n缘分吗……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "说起来我们能组到一起也是缘分呢。\n1年前受到训练员邀请时。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "『我想培养憧憬着鲁道夫的赛马娘』\n……那句话就是契机啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……？\u3000那句话就是契机？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……吼吼吼。\n其实我也有憧憬的对象呢～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "在我还只是个普通大夫的时候。\n偶然在电视上播出的比赛里\n看到了一位非常强大的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "即使那时毫无相关知识的我、\n也对她的强大拍案叫绝。\n自那以后、我便对大型比赛翘首以盼……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "可是从某天起、\n无论什么样的比赛到来、\n都再也听不到她活跃的消息了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "一查才知道、\n原来她在远征的时候受了伤。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……在远征时受伤。\n那位赛马娘该不会――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "明明我不是当事人、却也为此懊悔不已。\n后悔自己也许也该去帮什么忙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "痛苦、懊悔……\n这样一段时间后、我就遇到了训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "『有一位能成为鲁道夫象征那样的赛马娘』\n……他是这样邀请我的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――……。",
+      "ChoiceDataList": [
+        "原来大夫您也是鲁道夫的粉丝啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "只是个跟风粉罢了。\n当时对特雷森学园一点也不了解。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "但是。所以大夫您才愿意和训练员搭档啊――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……好厉害啊。这也是缘分啊。",
+      "ChoiceDataList": [
+        "……是啊、这就是缘分啊",
+        "……是啊、这就是缘分啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "送大夫回去后、我收拾好茶具。\n接下来就没什么特别的安排了。",
+      "ChoiceDataList": [
+        "刚志你先回去吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "咦！？\u3000不行、我要帮忙到最后！\n今天是向训练员表达感谢的日子嘛！",
+      "ChoiceDataList": [
+        "……是吗？那就恭敬不如从命啦",
+        "……是吗？那就恭敬不如从命啦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "好耶！\u3000交给我吧！\n…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那个、就是！\n我的缘分、好像很多都是通过会长和训练员产生的呢！",
+      "ChoiceDataList": [
+        "啊！说起来你送会长巧克力了吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "送、送啦！\n她一下子就想到缘和圆的谐音梗、\n还笑了呢――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――唉不是啦！\n今天我想和训练员好好说会儿话再回去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……那个。\n我可能有点任性。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "但现在我手中的每一份羁绊都不想放手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "所以那个……\n虽然是很老套的话。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……今后也请继续和我在一起。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……因为训练员很厉害。",
+      "ChoiceDataList": [
+        "咦、怎么突然？",
+        "咦、怎么突然？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "不是突然。\n我一直都这么认为的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……正因为有您这样的人在、\n我才得以遇见大夫。才能和会长说上话。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "没有您在的人生、光是想象就让我无比抗拒。\n您就是如此重要的人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……所以、就是。\n虽然只是假设的话。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "即使我长大成人了、\n即使我从这个学园毕业了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我、还可以来这里吗？\n……来见训练员。",
+      "ChoiceDataList": [
+        "……？当然啦、随时欢迎来找我玩！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "～～！\u3000好耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "到那个时候、\n我也会像今天一样带着点心来的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "到时再一起吃蛋糕吧。\n配上好喝的茶一起！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "也请和长大后的我、继续结缘哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

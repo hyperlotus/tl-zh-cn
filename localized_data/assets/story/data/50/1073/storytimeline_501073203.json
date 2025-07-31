@@ -1,0 +1,521 @@
+{
+  "Title": "菊花赏にむけて",
+  "TextBlockList": [
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――喂喂、姐姐？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "刚志的姐姐",
+      "Text": "『――所以说到底嘛、做你想做的就好啦！\n爸爸他们也支持小鹤参加菊花赏呢……』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嗯、我明白的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "刚志的姐姐",
+      "Text": "『你呀――！\u3000真的明白吗――！？』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "明白明白――！\n……啊、我要开始训练啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……谢谢姐姐。\n一直在支持我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "好――嘞、今天也要加油上――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（即使我再次以『菊花赏』为目标、\n也并没有发生什么戏剧性的改变）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（我的身体终究还是那个样子。……但是）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……好了、稍微休息了一下后、\n又到训练员的回合喽～。",
+      "ChoiceDataList": [
+        "刚志、再跑一圈看看吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――是！\n麻烦你们了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（我、依然是那个我、\n却不再是从前的我了！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（因为那个曾辜负过他人心意的日子也好。\n那个几乎迷失前进方向的日子也罢。\n跨越了这一切的我，“绝对”存在于此）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（正因为有着可供回首的过去\n――我才拥有能够向前迈进的“可能性”！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "顺利得仿佛那两次的事情没有过一样啊。\n暂且可以放心了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……不过说到放心、训练员似乎还嫌不够啊～。",
+      "ChoiceDataList": [
+        "因为目标是赢下比赛啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……！\u3000吼吼吼、说的是啊～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "鹤丸刚志因为身体的关系、\n至今一直在回避参加模拟赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "所以、她缺少被周围的赛马娘施压的经验。\n然而『菊花赏』、\n恰恰是一场考验能否保持自身节奏的比赛。",
+      "ChoiceDataList": [
+        "接下来的关键就是我们能否提供足够的支援了",
+        "接下来的关键就是我们能否提供足够的支援了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "一如既往、把能做到的事情都做到位吧。\n动用不管是人脉还是什么的一切――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "哦吼吼！\n小鹤、挺卖力的嘛～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "小帝王！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麦昆",
+      "Text": "鹤丸同学、您好。\n我是目白麦昆。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "目白麦昆。\n目白家引以为豪的最强长距离赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "还有小麦昆！？\n为什么两个人会来这里……！",
+      "ChoiceDataList": [
+        "是我请两位过来帮忙的",
+        "是我请两位过来帮忙的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "真是的。本大忙人特地过来相助\n你可得好好谢谢我呀～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麦昆",
+      "Text": "少来了。\n明明一直坐立不安地、\n巴不得人家快点来找你呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "哇哇、麦昆！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麦昆",
+      "Text": "我这边听闻光明也接受过鹤丸同学的帮助。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麦昆",
+      "Text": "有恩必报。\n特此前来向训练员阁下献上目白家的智慧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白家的主治医生",
+      "Text": "我是目白家的主治医生。\n这是我的名片。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哇啊啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……训练员！",
+      "ChoiceDataList": [
+        "一起努力到『菊花赏』吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "～～、是！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "好嘞！\u3000赶快、开始模拟赛吧！\n对手是我、东海帝王和……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "与帝王君多少有些缘分的琵琶晨光以及。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "琵琶晨光"
+      ]
+    },
+    {
+      "Name": "优秀素质",
+      "Text": "以及帝王在同年的『菊花赏』对决过的优秀素质哟。\n……说真的、我没来错地方吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "优秀素质"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "不只有小帝王！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "那当然嘛！\n训练员可是交代了\n要我给你好好地上一课呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "嘿嘿……做好觉悟吧、小鹤。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "连我因伤没能参加的份一起、\n把『菊花赏』赢下来呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……！\u3000小帝王。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "既然你还有未来、说不定能做到呢。\n来吧――我们上～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "原来如此……。\n隔绝蹄铁层面的接触就能预防的病症竟然这么……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白家的主治医生",
+      "Text": "此外若步态出现异常、\n不仅需要触诊、也推荐采用诊断性麻醉法。\n关于这一点――",
+      "ChoiceDataList": [
+        "原来如此……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麦昆",
+      "Text": "呵呵。这边授课的进展也很顺利呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是直到『菊花赏』、\n鹤丸刚志为了获胜而训练。\n我们则为了帮助她获胜而学习。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "日复一日、一步一个脚印地。\n踏实地积累着进步――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――终于到了『菊花赏』当天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "………………。",
+      "ChoiceDataList": [
+        "……紧张吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……有点。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那个曾会突然身体不适的自己、\n也是我过往的一部分啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――但是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……训练员、大夫！！\n以后也请多多指教！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "鹤丸选手……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "正是因为有你们的支持、\n我今天才能来到『菊花赏』的舞台。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "即使在我走投无路的时候、\n即使在我想要放弃的时候、正因为有你们在。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "今天、我才会站在这里。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "所以呢！\u3000我要重新宣言！\n刚志还是想要成为像会长一样的人！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "头衔或者称号之类的或许不一样！\n但是我有着变成那样的“可能性”！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――变成无比“强大的”赛马娘的“可能性”！",
+      "ChoiceDataList": [
+        "……嗯、刚志！上吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――是！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……她走上亮相圈了啊。",
+      "ChoiceDataList": [
+        "是啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……训练员。\n我想再次向您道歉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "我在今年夏天断言过她的体力最多只能跑1800m。\n断言挑战『菊花赏』对她来说是不可能的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "然而此刻……\n我却只能满怀期待地想着\n……说不定会出现颠覆不可能的奇迹呢。",
+      "ChoiceDataList": [
+        "奇迹吗……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――奇迹。\n它究竟怎样能出现呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "其实在这次『菊花赏』之前的训练本身、\n就是某种奇迹了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "能够与东海帝王她们并跑。\n能够得到目白家的帮助。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然而、之所以会有这些――\n正是因为鹤丸刚志与她们缔结了深厚的缘分。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她和东海帝王交情甚好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她曾真心地支持过目白家的目白光明。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就是因为她在过去结下了这样的【绝对】、\n才拥有了开辟未来的【可能性】――",
+      "ChoiceDataList": [
+        "也因为有大夫您在、这个奇迹才得以出现"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因为有大夫的倾力相助、\n她才能安然无恙地奔跑至今。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这绝非、\n某种偶然出现的奇迹……\n这类可能性的东西。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "鹤丸刚志此刻、\n之所以能作为一名赛马娘持续奔跑――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――是因为有怀抱着『想要鹤丸刚志大放异彩』\n这般心愿的人们在啊。",
+      "ChoiceDataList": [
+        "一起去见证她的可能性吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因为有层层叠叠的过去、才有可以展开的未来。\n正因为过去有着【绝对】――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――崭新的未来【可能性】才得以诞生。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

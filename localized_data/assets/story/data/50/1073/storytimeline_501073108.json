@@ -1,0 +1,591 @@
+{
+  "Title": "粉丝感谢祭",
+  "TextBlockList": [
+    {
+      "Name": "目白光明",
+      "Text": "小鹤大人。\n明天就是粉丝感谢祭了呢～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "今年的刚志可不同于往日！\n我要和小特她们参加同样的项目！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "即使有差距、也要相互竞争、讨教学习！！\n无论有什么样的机会……都要努力把握住！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "嘛啊～。人家也热血沸腾了呢～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后在春季粉丝大感谢祭当天。\n鹤丸刚志选择的项目是――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "负责实况解说的赛马娘",
+      "Text": "好嘞～、终于到啦！\n『世代分组拔棒大战』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "负责实况解说的赛马娘",
+      "Text": "今年的对战阵容格外火爆！！\n气势如虹的经典级1年级军团、\n由经典级2年级军团正面迎战！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "我们是一个团队！\n齐心协力干掉前辈们吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊咧……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣王光环",
+      "Text": "一脸茫然呢……。\n明明自己率先抢的位置的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "告诉我呗～！\u3000小特你们准备参加哪个项目呀～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "把我的名字也加进去好吗～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "不过没想到是团队作战型欸……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "现在可不是哭鼻子的时候！\n燃烧吧、沸腾吧、拼命吧！\n我们的对手是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（邦！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "采珠",
+      "Text": "吼――吼吼吼！\u3000颤栗吧、姑娘们！\n珠世代登场喽～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "珠"
+      ]
+    },
+    {
+      "Name": "大树＆福来",
+      "Text": "HOWDY～～！\n欧拉～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "多伯＆光明",
+      "Text": "什么时候、有这样的看板的……。\n邦～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "无声铃鹿",
+      "Text": "呐、多伯。\n这个项目是在什么时候跑起来？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "多伯"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………好强的威压！\n不是怎么光明学姐也在――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "是呀～。我们是敌人了呀、小鹤大人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "您是人家的对手了哦。\n不只是这场较量、『天皇赏（春）』也是呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――！\n…………对手――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "……您还记得吗？\n去年春天的霸主是人家。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "那一天的我、在您眼中想必很强吧。\n人家当时、也想变得强大呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "因为我在比赛中听到了您的声音啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "那是同样憧憬着远方、\n闪闪发光～的室友的声音。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "那是与人家同样深知、\n持续朝着憧憬伸手多么痛苦之人的声音。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "那是即使走在荆棘遍布的道路上、被尖刺所伤。\n也依然不会被绝望所困的坚强之人的声音啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "听到那样的鹤丸刚志的声音、\n人家的战意熊熊燃烧了啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――……光明学姐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "小鹤大人、您很强大。\n在您的心中、矗立着一棵永不动摇的玉树。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "可是人家也很强的哦。\n人家有、比您还要强大的自负呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "人家、会让您见识到我的固执～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（那位光明学姐的眼睛）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（……她眼里）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（并非闪闪发光、而是熊熊燃烧）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "来较量一番吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "您与人家互为相互竞争、\n然后高声宣扬自己才是更强一方的对手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "……无论是哪场胜负、人家都要赢。\n因为人家是比您更强大的赛马娘嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――……、\n………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……『菊花赏』的时候真是多谢学姐了。\n托您的福、我才得以借助目白家各位的力量。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "彼此都是大人了。\n即便有恩情在、输赢就是输赢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "人家的连霸之路绝对不会被阻挡的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（哔―――――――！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "负责实况解说的赛马娘",
+      "Text": "在『世代分组拔棒大战』里、\n将设置在中央的9根棒子\n拖入己方阵地最多的队伍即为胜者！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "负责实况解说的赛马娘",
+      "Text": "那么、比赛――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "负责实况解说的赛马娘",
+      "Text": "――开始！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "呜哦哦哦哦哦哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "负责实况解说的赛马娘",
+      "Text": "好嘞、开始啦开始啦！\n首先赛马娘们冲向的棒子是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "刚志同期所有人",
+      "Text": "咦！？\u3000啊呀？\u3000什！\n嘛啊！\u3000咕！？\u3000哇！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "负责实况解说的赛马娘",
+      "Text": "哎哟！\n特别周世代的战术失误了吗！\n所有人都冲向同一根棒子啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大树快车",
+      "Text": "啊哈哈！\nVERY VERY 轻的棒子、我拿走啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白多伯",
+      "Text": "我去拿左边的那根！\n谁来支援我！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "负责实况解说的赛马娘",
+      "Text": "与之相对上一世代组漂亮地分散开来！\n她们正在有条不紊地把棒子一根一根运往阵地！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "咕呜呜呜～～……\n小草、我们也分散开吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飞",
+      "Text": "小特你们去抢多伯前辈的棒子！\n小鹤、这里的这根就交给你了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "欸。但是让小鹤一个人――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣王光环",
+      "Text": "没时间犹豫了！\n我们走、小特！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "那么这一根、看来要与小鹤大人您竞争了呢～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――光明学姐！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "休想得手！\n这根棒子我要定了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "负责实况解说的赛马娘",
+      "Text": "噢噢、中央区域终于开始争夺战啦！\n是目白光明与鹤丸刚志的较量！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "哇哇。\n我、我还是去支援小鹤――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "小特、集中！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "……我可没忘记『菊花赏』时的感觉啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "诶――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哈……哈……光明学姐！\n我――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我也想、把自己的强大刻在学姐的心里！\n想要你嫉妒我的强大！\n嫉妒曾与你同在一处的我！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "因为――我也是！\u3000我也有啊！！\n能让你引以为豪的“绝对”的强大！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "――！\u3000我知道！\n正因如此、人家才――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "负责实况解说的赛马娘",
+      "Text": "好嘞、结果会如何呢\n『世代分组拔棒大战』！\u3000获胜的是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "负责实况解说的赛马娘",
+      "Text": "获胜的是经典级2年级军团～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "光明＆刚志",
+      "Text": "赢啦～。\n输啦……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "Noooo！\nONEMORE……ONEMORE――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飞",
+      "Text": "行了。输了就爽快地承认。\n与其无能狂吠不如为了下次的胜利做准备。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "哦――……小草好严厉啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "小特、\n小鹤在那之后也一直在奋战呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "嗯、嗯。是呀！\n我也看到了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "小鹤面对光明学姐也不落下风……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "――……变强了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "到手啦啊啊啊啊啊啊啊啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "负责实况解说的赛马娘",
+      "Text": "获胜的是经典级1年级军团～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣王光环",
+      "Text": "……好呀！\u3000赢啦赢啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "NICENICE、小鹤！\n没放弃那一根……而是交给你真是正确的决定！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嘿嘿。\n我是关键时刻靠得住的赛马娘……呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飞",
+      "Text": "呼呼。啊啦啊啦……♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "干得漂亮～。小鹤从光明学姐手里拿下一分呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "嗯、嗯！\n多亏这样我们才能获胜呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "你好厉害呀～、小鹤！\n下次比赛也能大活跃吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "嘿。这样好吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "咦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "因为啊――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "小鹤下次参加的比赛\n跟我们一样是『天皇赏（春）』哦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "Title": "夏合宿（3年目）スタート！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "今年的夏季集训也如期而至。\n今年的夏天比起往常――更加喧闹。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者A",
+      "Text": "听说神鹰临时回国了！\n好像马上又会出发、得快去采访她。\n赶快！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者B",
+      "Text": "她可是在法国GⅠ比赛获胜、\n『凯旋门赏』的夺冠热门呀！\n库～……日本终于也要诞生世界第一了吗……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "摄影师",
+      "Text": "这次圣王光环和草上飞要在『毎日王冠』上对决了。\n得快去拍下她们俩的影像！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "毎日王冠"
+      ]
+    },
+    {
+      "Name": "采访",
+      "Text": "星云天空的动向也得跟进。\n据说她要在夏天的『札幌纪念』小试身手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "札幌纪念"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "呜呀～、\n我的对手们、在夏天也是关注的焦点欸……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……我看着不知不觉间已不再称呼为同期\n而是唤作对手的她、嘴角不禁上扬。",
+      "ChoiceDataList": [
+        "不过你也和那些对手们在宝冢交战过哦",
+        "不过你也和那些对手们在宝冢交战过哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……哼哼。然后因为备受关注、结果～……\n被大大地刊载上了报纸呀……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "『鹤丸刚志、宣布出战京都大赏典！』\n库～～、连小标题都专门做了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嘿嘿、看来这个嘛。\n我们也要……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "被狗仔盯上啦！\u3000在那样之前、\n还是转移到能集中精神训练的地方吧！",
+      "ChoiceDataList": [
+        "啊哈哈。嗯、说的是啊",
+        "啊哈哈。嗯、说的是啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者C",
+      "Text": "特别周选手！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者D",
+      "Text": "我听闻您的秋季征程将从『京都大赏典』开始！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者E",
+      "Text": "凭您的实力完全可以直接挑战『天皇赏（秋）』的！\n为什么要先插入一场前哨战！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川缰绳",
+      "Text": "行啦行啦、过度采访不可取哦。\n特别周同学、请先回房间吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "好、好的！\n失陪了――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "――……是小鹤欸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者C",
+      "Text": "小鹤……啊！\n真的、是鹤丸刚志选手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者C",
+      "Text": "对、对了！\n刚志选手也会出战『京都大赏典』！\n莫非您这次参赛跟她有什么关系――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川缰绳",
+      "Text": "STOP！\u3000请停下！\n特别周同学、快进去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "哇……。\n失、失礼了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者陣",
+      "Text": "咦咦咦咦！？\u3000请等一下！\n一句话！\u3000就一句话～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……好厉害。找小特的采访、压倒性的多啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者陣",
+      "Text": "（咣啷！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "咿呀！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者C",
+      "Text": "请问～……鹤丸刚志选手？\n现在～、有空吗～……？",
+      "ChoiceDataList": [
+        "――咱们快撤、刚志！",
+        "――咱们快撤、刚志！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "是、是～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样、忙乱喧嚣且被烈日炙烤的夏天开始了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
