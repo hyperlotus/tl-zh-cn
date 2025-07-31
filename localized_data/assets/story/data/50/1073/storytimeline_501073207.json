@@ -1,0 +1,339 @@
+{
+  "Title": "天皇赏（秋）にむけて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "这是发生在为『天皇赏（秋）』\n做最后调整时的事情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "好的、那么鹤丸选手。\n肩膀和手臂用力～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "然后一口气放松。\n手臂伸直甩啊甩～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "甩啊甩甩啊甩～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "吼吼吼。\n嗯、手部周围的反应也很好――哦呀？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（哇啊啊啊啊啊啊啊！）",
+      "ChoiceDataList": [
+        "……旁边、真是热闹啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "关于那个原因、昨天我就收到了。\n只有今天这个时候是、\n紧急特批的媒体的采访许可时段。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "都是为了那位在一夜之间改写了世界的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者A",
+      "Text": "神鹰选手！\n出战『凯旋门赏』辛苦了！\n感谢您为我们实现载入史册的梦想！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者B",
+      "Text": "请问您今后的计划是！？\n国内的粉丝还有机会拜见、\n您这双从法国归来的飞毛腿吗！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "……这个嘛～。\n嘿咻――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "哈哈――……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "小鹤！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――！？\u3000小鹰！？\n明明刚才还在那边的――！",
+      "ChoiceDataList": [
+        "真的、什么时候……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "啊哈哈哈哈、我等不及啦！\n有话必须先跟你说呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "小鹤。\n你――打败了小特对吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――！\n…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我不是侥幸获胜的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "在下次的『天皇赏（秋）』、\n我也会击败小特。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "无论是同台竞技的小星还是小圣王。\n我会用自己的双脚、超越所有到场的赛马娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "……呼、哼哼哼哼！\n啊哈哈哈哈哈哈！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "有趣！\u3000简直是经典三冠的重演啊！\n这是在最高峰的舞台角逐最强的战争！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "那样的舞台……真是令人羡慕啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者A",
+      "Text": "呼……哈……。\n神鹰选手……\n莫非对秋天的比赛有兴趣……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "秋天"
+      ]
+    },
+    {
+      "Name": "神鹰",
+      "Text": "――兴趣是有的！\n但是、看看现在的小鹰吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "实在是、怎么说呢、累趴啦！！\n得好好休养一阵子才行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者B",
+      "Text": "欸……欸欸～～！？\n可您看起来完全不像那回事啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……那等你休息好了来吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者陣",
+      "Text": "――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "……哼哼哼！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "小鹰是真的需要休息。\n今年、能让大家见识到我的英姿的机会\n大概只有一次了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "我会一直期待着哦？\u3000一直到最后。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "那么那么、拜拜～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "神鹰转身离开了。\n她像是从拳击台退场般、\n手搭在围栏上――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者B",
+      "Text": "翻、飞走了……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "将一切抛之身后、\n她的身影消失在观众席的另一侧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众A",
+      "Text": "哎呀～、已经到了秋天的季节啦！\n争夺秋之盾的庄严一战、\n今天的胜者会是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众B",
+      "Text": "星云天空！\u3000绝～对是天空！\n她在夏天的状态就很好嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众C",
+      "Text": "哈。无论从数据还是情怀来看都是鹤丸刚志吧。\n我赌她在『京都大赏典』展现出来的末脚……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众D",
+      "Text": "不对！\u3000今天目白光明\n必将为目白家带回秋之盾啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众E",
+      "Text": "哼哒、你们都不懂呀！\n赢的肯定是小特啦……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『天皇赏（秋）』当天。\n即使在地下也能感受到来自粉丝的热切期待。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――我们真不愧是黄金世代啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "黄金世代"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "无论在国内还是国外都在争夺着最强之名、\n每一场比赛都夺人眼球……\n……真可谓是宝物般的世代呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "这个秋天、不论对我而言。还是对大家来说。\n都将成为一次难忘的比赛啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "鹤丸刚志的语气虽然爽朗、\n但其中潜藏着对胜利的强烈渴望。",
+      "ChoiceDataList": [
+        "去成为能战胜所有人的强大赛马娘吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嗯嗯、我会变成像会长那样比任何人都强的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――这就是我的可能性！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "……哦呀哦呀、小鹤。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "今天也开始了呢、\n属于我们的比赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嗯。大家都在看着啊。\n所有人的视线、都聚焦在这个舞台――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――走吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

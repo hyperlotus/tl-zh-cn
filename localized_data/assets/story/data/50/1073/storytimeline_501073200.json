@@ -1,0 +1,417 @@
+{
+  "Title": "出道战にむけて",
+  "TextBlockList": [
+    {
+      "Name": "实况解说",
+      "Text": "『鲁道夫象征、三冠啦！\n达成三冠啦！\u3000不灭的伟大纪录！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "哇啊啊啊～～……！\n果然好帅――……咳、咳！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志的姐姐",
+      "Text": "！\u3000小鹤。\n……张嘴、润喉糖。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "诶嘿嘿、谢谢姐姐。\n哈唔……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "……那个呢、姐姐。\n鲁道夫小姐也曾修养过哦。\n但她好好地养好了伤、跑赢了下一场比赛呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "所以将来的我、\n一定也能成为超～～级厉害的赛马娘呀。绝对！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――终于我也迎来了出道战。\n马上就要……上场了～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "今天要做100回双摇跳！\n嘿、嘿――嗯嗯？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣王的小跟班儿",
+      "Text": "好厉害呀圣王！\n加油啊～、圣王～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "圣王"
+      ]
+    },
+    {
+      "Name": "圣王光环",
+      "Text": "哦吼吼――！\u3000量它200还是300回！\n圣王、没有、不可能！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣王的小跟班儿",
+      "Text": "咿呀啊啊～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我也、做500回啊啊啊啊啊！！\n呜嗷嗷嗷嗷嗷嗷！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "对不起～呀！\u3000训练员～！\n我做过头了～～！！",
+      "ChoiceDataList": [
+        "啊、嗯嗯……那脚踝的疼痛怎么样了？",
+        "啊、嗯嗯……那脚踝的疼痛怎么样了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "稍微好一点啦！\n所以训练是不是――",
+      "ChoiceDataList": [
+        "…………"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "不～嘛……\n真的不行吗～……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我对着可怜巴巴的她露出魔鬼般的表情、\n同时脑海里思考着。",
+      "ChoiceDataList": [
+        "（那么、该怎么办呢……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――鹤丸刚志的身体很弱。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "通常、赛马娘们在迎来“本格化”的时期后、\n为了竞速而生的能力会开始突飞猛进。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "力量和身体状况也在提升、\n也会出现即使增加负荷也不易疲劳的现象……。",
+      "ChoiceDataList": [
+        "（但是天生的体质不会因此改变）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "即便进入了本格化、也必须对这方面谨慎对待。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我整理好思绪、拿出笔记本电脑。\n她需要面对的课题很明确。那么――",
+      "ChoiceDataList": [
+        "刚志、现在正是做『正确的努力』的时候了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "『正确的努力』……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "第二天、在开始训练前、\n我叫来了鹤丸刚志、\n决定和她谈谈今后的训练计划。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "『正确的努力』的意思是……\n要用正确的方式努力对吧！",
+      "ChoiceDataList": [
+        "嗯、话是这么说没错、我还是解释一下吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我把笔记本电脑的屏幕转向她、\n展示出名为『出道战前的训练计划』的资料。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "唔姆唔姆。\n『为了在出道战发挥出最佳表现』……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "方针上、并非采用『超回复理论』、\n而是优先选择『FITNESS-疲劳理论』。\n通过严格控制运动量以消除疲劳的同时――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "好难懂……。",
+      "ChoiceDataList": [
+        "……那好！要不从这边开始看？",
+        "……那好！要不从这边开始看？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "好的！\u3000那个……\n『除了减量训练（TAPERING）之外\n还需要注意“运动前后的适当补食”』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "比方说运动后要吃肉包子或者香蕉。\n吼吼……真不错啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "相反的在运动一小时前、除了碳水化合物、\n还要喝富含维生素和矿物质的果汁――",
+      "ChoiceDataList": [
+        "对、就像橙汁之类的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊、维生素！\n所以训练员才没让我带运动饮料而是果汁――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "呜嗷嗷嗷～～～！？\n这、这就是所谓的正确的努力吗～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嗷嗷嗷～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "要锻炼运动员的身体、\n单纯地增加训练次数并非唯一的正道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "将训练的质量与内容转变为以理论为基础的、\n适当的努力方式。\n这就是我所构想的『正确的努力』。",
+      "ChoiceDataList": [
+        "来吧、刚志！开始『正确的努力』吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――！\u3000好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "感觉在训练员的培养下、\n我会变成一个前所未有的自己呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………哼……\n呼――……！\u3000哈――……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "噢噢噢噢噢噢噢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "轻松、轻松！\u3000这种程度的负荷、\n对小鹰来讲小菜一碟嘚――――斯！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小鹰"
+      ]
+    },
+    {
+      "Name": "草上飞",
+      "Text": "呼呼。就当做没看见你那颤得像小鹿一样的胳膊吧。\n嘿咻――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飞",
+      "Text": "――……呼、呼……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………嗷嗷……！\n居然在用那么吓人的器械……。",
+      "ChoiceDataList": [
+        "刚志！专心做你自己的训练！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……！\u3000是！！\n哈――……！\u3000呼――……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "正确的努力……！\n正确的努力呀～、刚志～～！！",
+      "ChoiceDataList": [
+        "没错、你“绝对”会在正式比赛里取得好成绩的",
+        "没错、你“绝对”会在正式比赛里取得好成绩的"
+      ],
+      "ColorTextInfoList": [
+        "刚志"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "是――――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "绝对要变强呀啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是为了『在出道战使出全力』的日子\n一天天累积起来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――然后在出道战当天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……哦、哦哦。\n哦哦哦……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "呜嗷嗷嗷嗷嗷嗷～～～！\n训练员！\u3000训练员――！\n训练员――――！！",
+      "ChoiceDataList": [
+        "怎么了！？刚志！！",
+        "怎么了！？刚志！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "总觉得――身体好轻啊！\n感觉肌肉……紧绷绷的～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "今天的我、好像很厉害！",
+      "ChoiceDataList": [
+        "是吗！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "是的！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我也觉得她调整得已臻完美。\n对雀跃不已的她回以笑容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那个那个、\n训练员！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我、一定会拿出好成绩的！\n所以请你放心地看着我吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "刚志、上场了！！",
+      "ChoiceDataList": [
+        "嗯、加油！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "正确的努力、想必已化作她的双翼。\n我目送着即将在出道战的舞台\n展翅高飞的她走上亮相圈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "出道战"
+      ]
+    }
+  ]
+}

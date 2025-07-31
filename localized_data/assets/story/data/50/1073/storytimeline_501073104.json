@@ -1,0 +1,243 @@
+{
+  "Title": "夏合宿（2年目）にて",
+  "TextBlockList": [
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……喂喂、姐姐？\n不好意思啊、突然打过去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "诶嘿嘿……其实呢。我啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "终于想明白了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "鹤丸刚志倒下后的第二天。\n训练重启定在了明天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在夏天身体垮掉\n却能在秋天赶上比赛的赛马娘比比皆是。\n更何况现在夏天都还没有结束呢。",
+      "ChoiceDataList": [
+        "还有余地――！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……岂能在此时轻言放弃。\n我记录下一个、两个训练方法。\n只要是她所期望的、我就要把最好的带给她――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训练员。",
+      "ChoiceDataList": [
+        "刚志！明天的清单――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那个、\n在那之前有件事想要问问你！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……请告诉我、\n训练员小时候的梦想！！",
+      "ChoiceDataList": [
+        "小时候的梦想？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那个、就是很常见的那种啦！\n比如想当偶像啊、英雄啊什么的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "或者说想变成一朵花之类的。\n那种实际做不到的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……那种过去的憧憬\n到底要怎么做才能放下呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "此刻她询问着的脸庞、\n比起昨天去探病时、前日去陪护时\n――都更显成熟。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……训练员。\n干脆放弃算了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "憧憬是憧憬！\u3000我是我！\n从今天起聊聊适合我的事情不好吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "因为我身上没有“絶対”啊！\n再怎么努力也只是白费力气！",
+      "ChoiceDataList": [
+        "……不必放弃、你一定会变强的",
+        "……不必放弃、你一定会变强的",
+        "不是的、你也有着绝对！更有着骨气！",
+        "不是的、你也有着绝对！更有着骨气！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "因为我身上没有“絶対”啊！\n再怎么努力也只是白费力气！",
+      "ChoiceDataList": [
+        "……不必放弃、你一定会变强的",
+        "……不必放弃、你一定会变强的",
+        "不是的、你也有着绝对！更有着骨气！",
+        "不是的、你也有着绝对！更有着骨气！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――一定能像鲁道夫象征那样。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我、曾经是渴望变强的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "该认清自己的斤两了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――所以请告诉我吧。\n从憧憬毕业的方法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――已经够了啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "请不要勉强自己配合我了。\n我也不想再给大家添麻烦了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……我的憧憬、对我而言太遥远了。\n仅此而已。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――所以告诉我吧。\n从憧憬毕业的方法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "毕竟训练员你知道正确的努力、\n无所不知。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……求求你了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……于是鹤丸刚志低下头。\n也避开了其他伸向她的援手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "祈求着抛弃憧憬的方法。",
+      "ChoiceDataList": [
+        "……这样真的好吗？",
+        "……这样真的好吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――真的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "正因为她、如此用力地在强颜欢笑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "无论我说什么挽留的话、\n都无法传入她的耳朵里了。",
+      "ChoiceDataList": [
+        "让我最后再支持你一次吧",
+        "让我最后再支持你一次吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……不好意思呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我能做的、\n只有请求她等待到集训的最后一夜。\n等待到彼此都冷静下来时再谈谈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "只能这样告诉她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
