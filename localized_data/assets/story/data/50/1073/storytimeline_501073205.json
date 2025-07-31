@@ -1,0 +1,318 @@
+{
+  "Title": "宝冢纪念にむけて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "『宝冢纪念』的数周前。\n在另一个舞台上、刚志的同期们也在展开激烈交锋。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝A",
+      "Text": "呀～～～、草上飞！\n春季的英里王者非你莫属～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝B",
+      "Text": "不不不、要说王者还得是圣王光环吧！\n开春以来就豪夺重赏赛二连胜！\nGⅠ的桂冠非她莫属！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "重赏赛"
+      ]
+    },
+    {
+      "Name": "无声铃鹿",
+      "Text": "这两位也是小特的同期吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "是的！\u3000两人都很强大！\n也会出战今年的『宝冢纪念』哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "除此之外、一直努力至今的小鹤、\n也会参加『宝冢纪念』、将会与她们一战――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "…………………――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "……铃鹿同学你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "铃鹿"
+      ]
+    },
+    {
+      "Name": "特别周",
+      "Text": "铃鹿同学在比赛之后、\n有没有变得不太对劲的时候？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "比方说、明明心里想说的是『辛苦了』\n或者『好厉害』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "以前是能说出口的。直到『菊花赏』之前。\n还能好好地称赞别人的努力的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "可是到了春天\n喉咙里就像是紧紧堵住了一样。\n……变得什么也说不出口了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "无声铃鹿",
+      "Text": "……那个、小特。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "无声铃鹿",
+      "Text": "小特是在观众席上为那个孩子加油助威的吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "不、不是的。我是指跑完比赛以后！\n我、和那个孩子是在同一场比赛里奔跑过之后！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "无声铃鹿",
+      "Text": "……？\u3000这样啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "无声铃鹿",
+      "Text": "――那样的话不是很自然吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "无声铃鹿",
+      "Text": "小特你、\n不想把前面的风景让给那孩子的吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "为迎向『宝冢纪念』、我们持续进行调整。\n鹤丸刚志的身体已经变得能够承受更长、\n更严苛的训练项目了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哈……呼……。\n大夫、麻烦您帮我做下脚部的检查。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "好。交给我吧～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训练员。\n今天我还能继续努力吗？",
+      "ChoiceDataList": [
+        "可以、我就是这样打算的",
+        "可以、我就是这样打算的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……谢谢您！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "或许是受在『天皇赏（春）』经历的那一幕影响、\n她对于胜利的执着变得愈发强烈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训练员。下周能增加坡道训练吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "阪神赛道的最终直线是坡道。\n这次比赛将会是末脚的比拼、\n我觉得必须要适应坡道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她为了打倒对手持续锤炼至深夜\n增强力量、分析讨论、研究战术、推敲对策。\n然后――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "呼――……。\n接下来再把所有比赛录像复盘一遍吧……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "小圣王！\u3000小草！\n两位现在回去吗！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飞",
+      "Text": "是的～。\n小鹤也――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飞",
+      "Text": "……哎哟。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "小草！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飞",
+      "Text": "呵呵。我没事的。\n看来比赛的余热还没有褪去呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飞",
+      "Text": "只是普通的苦夏症状。\n我没有任何问题的、小鹤。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飞",
+      "Text": "我依然和去年夏天一样、\n渴望战胜各位。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飞",
+      "Text": "小鹤你呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……我也一样啊。\n我作为小草和小圣王的同期――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "比起我所尊敬的你们、\n更以自己的“绝对”为豪。\n――因为我是你们的对手鹤丸刚志啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "好啦、万众瞩目的『宝冢纪念』终于拉开帷幕！\n粉丝们翘首以盼的梦幻对决即将上演！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "果然还是今年的经典级赛马娘备受瞩目啊。\n特别周、草上飞。以及――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飞",
+      "Text": "准备好了吗、\n小鹤。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嗯。放马过来吧。我一步也不会退让的！\n不论是小草、还是小圣王――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "还有小特！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "――……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "做好觉悟吧、小特。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "…………嗯……嗯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "……一起加油吧、小鹤！\n我也――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "…………不会输的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

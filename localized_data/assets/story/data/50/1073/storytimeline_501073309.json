@@ -1,0 +1,398 @@
+{
+  "Title": "日本德比结束后・代价",
+  "TextBlockList": [
+    {
+      "Name": "东海帝王",
+      "Text": "会长――！！\n你在看的那个是、德比？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鲁道夫象征",
+      "Text": "……是啊。\n今年的德比赛马娘会是谁呢。\n我也必须亲眼见证啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "哼――嗯……。这样啊、\n说到德比、有个像是格言的说法呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鲁道夫象征",
+      "Text": "『成为德比赛马娘的训练员、\n比成为一国的宰相还要难』？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "虽然有这个说法。\n其实还有一个！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『德比里潜藏着魔物』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "什、什么！\u3000人气前列的圣王光环！\n一反常态、选择了逃跑的奇袭战术！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "“府中比赛场的2400m”。\n想在一生只有一次的德比中获胜。\n这份念想令场上赛马娘们的节奏陷入混乱。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那是抛弃一切、赌上一切\n也要抓住的梦之称号。正因如此――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……何等激烈啊……。\n用这种速度、跑完2400m……全程吗……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "好嘞、在此集结的18名赛马娘之中、\n夺得日本第一称号的会是谁呢！\n抓住梦想的会是――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哈啊……哈啊……、\n哈咿……咕――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "鹤丸刚志！\u3000鹤丸刚志冲上来啦！\n在德比赛场上、高唱凯歌的会是――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊゛啊啊啊啊啊啊啊！\n啊゛啊゛啊゛啊゛啊゛啊゛啊゛啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（――噔噔咚）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "是鹤丸刚志！\u3000鹤丸刚志！\n第一个冲――――――――――线！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（――噔噔咚）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（呜哦哦哦哦！！）",
+      "ChoiceDataList": [
+        "刚志她、赢了……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她此刻、确确实实地缔造了伟业。\n我们拨开人群――朝着她飞奔而去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "恭喜你……！\n恭喜你啊、小鹤……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "从观众席上爆发出欢呼的声浪。\n现在、鹤丸刚志站在了日本的顶点――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训、练――yuan……员……。",
+      "ChoiceDataList": [
+        "咦――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――我好……开心。像做梦、一样。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（这真的是在做梦可咋办啊！\n明明心脏咚咚咚得跳的这么厉害！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（世界在整个摇晃、好热啊。\n脚、手。全身、都像是烧起来了一样――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（……感觉、刺刺的、痛、诶）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "小鹤！？\u3000小鹤！！",
+      "ChoiceDataList": [
+        "――刚志！！刚志！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（――我、拉开了、几个身位呢）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "不要、不要……！\u3000醒醒！\n快醒醒啊！！\u3000――小鹤！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "观众席传来的悲鸣刺痛我的脊背。\n这种情况下首先……首先要――",
+      "ChoiceDataList": [
+        "刚志！！振作点、刚志！！",
+        "刚志！！振作点、刚志！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（――我有像会长一样、“绝对”地、赢了吗）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（成为了、绝对、吗？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "URA工作人员",
+      "Text": "救护车！\u3000快叫救护车！\n鹤丸刚志选手的训练员怎么办！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "URA工作人员",
+      "Text": "首先用担架把她抬出去！\n动作快！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（――那个人是我的光）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『鲁道夫象征！\u3000达成三冠！\n她傲然地朝天空竖起三根手指！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鲁道夫象征",
+      "Text": "――然而这里并非终点。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鲁道夫象征",
+      "Text": "我要创造。\n所有赛马娘都能幸福的世界。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鲁道夫象征",
+      "Text": "作为众人信奉的“皇帝”！\n我要证明希望永存！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "『“皇帝”……！\u3000嗷嗷嗷嗷～～！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（会长的话对于当时的我来说还太难了。\n我并不是全部都理解了）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "『好强啊……好厉害啊……！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（尽管不明白、却被深深地吸引了。\n心里涌动着无比焦灼的热切）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "『咦。鲁道夫小姐\n也有不是第一人气的时候啊。\n而且也受过伤――……』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "『嘿诶～……！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『鲁道夫象征获胜啦！\n鲁道夫象征站上了世界的顶点！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众",
+      "Text": "『就是啊！\u3000“皇帝”是绝对哒！』\n『没错、她不会输给任何人！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "『诶嘿哼！\n鲁道夫小姐的胜利是“绝对”哒！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "『――我也绝对要』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "『――绝对要健健康康的。\n绝对要、变强呀』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "『不要、不要……！\u3000醒醒！\n快醒醒啊！！\u3000――小鹤！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『刚志！！\u3000振作点、刚志！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『刚志！！\u3000振作点、刚志！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "病房外的声音",
+      "Text": "怎么……刚志她……――\n训练员――……、那孩子――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（……爸爸和、妈妈的声音）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（还有训练员的声音。\n啊、这样啊――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（这里、是病房啊……――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "病房外的声音",
+      "Text": "――德比就――那么――\n『菊花赏』什么的――那孩子该不会――……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……不是训练员的错。\n也不是妈妈她们的错。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………。\n……康复训练不知道要多久啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "希望比上次的短些就好了。\n因为马上就到夏季集训了欸……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――下一次的『菊花赏』、\n获胜的会是“最强的”赛马娘吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

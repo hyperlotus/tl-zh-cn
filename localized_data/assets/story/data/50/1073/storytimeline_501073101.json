@@ -1,0 +1,576 @@
+{
+  "Title": "新年の抱負",
+  "TextBlockList": [
+    {
+      "Name": "年幼的刚志",
+      "Text": "哼！\u3000唔姆姆姆～……！\n……库……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志的姐姐",
+      "Text": "啊哈哈、小鹤累倒了。\n怎么了、突然练起腹肌了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "因为啊――。前几天去训练俱乐部的时候、\n我发现比赛成绩被人超过了啊――。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "――所以来干劲啦！\n我可不想掉队呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "新年快乐～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣王光环",
+      "Text": "阿拉、欢迎回来。\n回家探亲结束了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "嗯。因为打算参加明年年初的比赛嘛。\n话说――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "啊咧？\u3000小鹤呢？\n她明明很期待今天的年糕汤派对来着。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "她说有事情。\n所以叫我来替她多吃点年糕汤。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣王光环",
+      "Text": "为什么美浦宿舍的天空对栗东宿舍的事这么清楚……。\n该不会又在搞什么怪事――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "天空"
+      ]
+    },
+    {
+      "Name": "富士奇迹",
+      "Text": "啊哈哈。好了大家排好队――。\n不管哪个宿舍的、只要是饿肚子的赛马娘都欢迎♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "好的――。栗东的宿舍长、真大方呀～♪\n圣王――、快排队吧――？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣王光环",
+      "Text": "啊、等下！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "那个～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "富士奇迹",
+      "Text": "嗯？\u3000光明、怎么啦？\n有什么烦心事吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "光明"
+      ]
+    },
+    {
+      "Name": "目白光明",
+      "Text": "没有、不是烦心事～。\n是关于年糕汤的事、能稍微～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哈――……秋！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室的老师",
+      "Text": "阿拉。应该没发烧才是啊……。\n以防万一、再检查下喉咙吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室的老师",
+      "Text": "脚部状况也一并检查喽。",
+      "ChoiceDataList": [
+        "新年伊始就给您添麻烦了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室的老师",
+      "Text": "哪里哪里。保健室从这个时候就开门啊、\n就是为了赛马娘们嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『根据每周的身体状况来决定是否参赛』\n这个方针即使到了新年也在贯彻。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "鹤丸刚志的身体状况依然极不稳定。\n……至今仍无法制定长远目标。",
+      "ChoiceDataList": [
+        "（虽然为了改善一直在努力……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我翻遍了论文、在网上成天地搜寻、\n所有能找到的症状与她相近的改善方案都试了一遍。\n即便如此依然看不到好转的迹象。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "是因为还没找到恰当的预防措施吗。\n还是因为身为训练员的自己\n没能掌握到足够准确的信息呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "虽然也有找保健室的老师多次帮忙……\n但要求对方全天候陪护也不现实。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "现在能做的、\n就是根据昨天的状态来制定训练菜单、\n然后一点一点地观察变化。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……继续这样下去绝对不行。\n必须采取更根本性的行动才是――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……――员。\n训――练――员？",
+      "ChoiceDataList": [
+        "哎呦！对不起、刚志――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "给～您、\n训练员大人的年糕汤也准备好啦～。",
+      "ChoiceDataList": [
+        "――……嗯嗯嗯！？谢谢你！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是我拿到了年糕汤。",
+      "ChoiceDataList": [
+        "哎不是什么情况！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊、啊哈哈～。其实刚才光明学姐突然过来了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "目白光明。\n她是出身于目白家的悠哉大小姐\n也是鹤丸刚志的室友。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "目白光明",
+        "目白家"
+      ]
+    },
+    {
+      "Name": "目白光明",
+      "Text": "因为是新年嘛～♪\n人家也想和小鹤大人一起吃年糕呀～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嘿嘿。谢谢你。\n这年糕汤……对了。今天是栗东宿舍的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "年糕汤派对呢～。\n在这个房间里也要开派对哦～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "呼呼。看来中途加入的诸位也到齐了呢～。",
+      "ChoiceDataList": [
+        "……？诸位……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "走廊传来的声音",
+      "Text": "『哎呀～、让我送过来也可以的嘛～』\n『好啦！\u3000这点小事就交给我帮忙吧……』\n『啊、已经到了呀！\u3000就在那儿――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "小鹤！\n栗东特别年糕汤来喽――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊、啊咧、大家都来了！？\n为什么……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣王光环",
+      "Text": "那是这边的台词啦！\n还以为只有我们来保健室呢……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "这可真是吓一跳啊。\n哎呀――、没想到会被光明抢先呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "嘛、既然大家的份都齐了就开吃吧。\n训练员你们也请吧。\n趁还没凉掉呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嗯、嗯嗯！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我吃了一口还没动过的年糕汤。\n舌尖上、温暖的感觉和鲣鱼的鲜味逐渐扩散开来――",
+      "ChoiceDataList": [
+        "……嗯、是新年的味道呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嘿嘿……是啊。\n……真好吃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室的老师",
+      "Text": "……呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室的老师",
+      "Text": "鹤丸同学的身边啊\n围满了想把你拉进圈子里的赛马娘呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "因为我们都是朋友嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "一起走过四季、一起奔跑。\n因为是朋友啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………！\n小特、大家……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "呜、呜呜呜～……！\u3000感动、刚志深受感动！\n大家竟然、对我这么温柔――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "请务必也让我回报大家吧！\n就用我珍藏的……刚志特制饮料！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "刚志的同期们",
+      "Text": "诶。\n咦……。\n啊～、那个就～……。",
+      "ChoiceDataList": [
+        "刚志特制饮料……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "嘛啊～小鹤大人的秘制混合液呀～。\n为了健康特制的～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "是的！\u3000今日用到的材料要营养第一的～\n所以有蜂蜜、青花鱼、纳豆、葱和大蒜、\n……然后还有辣椒和……。",
+      "ChoiceDataList": [
+        "嗷、嗷嗷……这么……",
+        "嗷、嗷嗷……这么……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "啊――……。我、最喜欢蜂蜜的啦――。\n嗯嗯、很喜欢超喜欢――。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣王光环",
+      "Text": "圣、圣王只喝主题明确的饮品哦！\n要么辣到底、要么甜到底的那种！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "是这样吗？\n那么……嗯～……综合来看……？",
+      "ChoiceDataList": [
+        "想喝充满力量的饮料！！",
+        "超稳定的健康蜂蜜饮料",
+        "能刺激灵感的微辣饮料？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――果然是这样呢！\n主题就该清楚地定在『健康』上呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "因为我希望大家都能元气满满地度过每一天呀！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣王光环",
+      "Text": "――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室的老师",
+      "Text": "啊哈哈……。\n顺便问下这个饮料有几人份……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（哔哩哩！\u3000哔哩哩！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "嗯嗯嗯！\u3000赞成、我也超赞成！！\n既美味又健康！\u3000这样最棒啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我知道啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那么就用蜂蜜和……\n健康的代表THE・青花鱼！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "……嗯？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室的老师",
+      "Text": "啊哈哈……。\n顺便问下这个饮料有几人份……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（哔哩哩！\u3000哔哩哩！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "……圣王～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣王光环",
+      "Text": "什、什么嘛！\n我只是想让情况变得对我们有利啦……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "……没事的。\n大家。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "――放马过来吧！\u3000小鹤！\n我的胃袋是无敌哒！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室的老师",
+      "Text": "啊哈哈……。\n顺便问下这个饮料有几人份……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（哔哩哩！\u3000哔哩哩！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "保健室的老师",
+      "Text": "啊――、哎哟真不巧被叫出去了～～！\n不好意思呢――、我的份就算了吧～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（啪嗒啪嗒啪嗒……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哎呀呀……也没有办法啊。\n因为老师是保健室的老师呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "毕竟老师不可能只照看我们啊。",
+      "ChoiceDataList": [
+        "不过真能那样的话、就太好了",
+        "不过真能那样的话、就太好了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "既然如此、要不要找一位『专属医生』呀～？",
+      "ChoiceDataList": [
+        "……专属医生？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "是的。在目白家、\n就有专门负责诊治目白赛马娘的主治医生哦～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "噢噢……不愧是目白家的大小姐……。\n跳过普通大夫直接安排专属医生……。",
+      "ChoiceDataList": [
+        "是吗、专属……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "嚯嚯……？\u3000喂、小鹤。\n你的训练员好像在嘀咕什――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "好嘞！\u3000训练员那份也做好了！\n所有人的健康饮料都准备完毕！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣王光环",
+      "Text": "――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "诶嘿嘿。那么那么我开始分发啦！\n我那份就最后再――好嘞！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那么大家再来一次双手合十！\n我开动啦！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是我和鹤丸刚志她们一起\n度过了一个充满了惊喜、新发现与活力的新年。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

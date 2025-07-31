@@ -1,0 +1,582 @@
+{
+  "Title": "圣诞节",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "进入12月份、几天过去之后。\n那份礼物终于送到了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哇哇、缰绳小姐。\n这个纸箱是――",
+      "ChoiceDataList": [
+        "是给刚志的粉丝信吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川缰绳",
+      "Text": "没错♪\u3000因为鹤丸刚志同学最近在\n『京都大赏典』和『天皇赏（秋）』中\n都取得了好成绩呀♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "已经是名副其实的\n大家心中的本命赛马娘了呢～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "本命……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川缰绳",
+      "Text": "还有这次的『有马纪念』选手采访日程也定下来了\n稍后请确认哦。",
+      "ChoiceDataList": [
+        "谢谢您！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哇呀～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "呜哇～……！\n欧吼吼吼～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "每次打开粉丝信、\n她都会脸颊泛红、眯起眼睛、\n开心地一封一封仔细阅读。",
+      "ChoiceDataList": [
+        "必须在有马好好回应他们的支持啊",
+        "必须在有马好好回应他们的支持啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……嗯、是！\u3000当然会的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "正因为在那场有马上奔跑、\n有些东西才能传达出去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "传达给那些支持着我的人们――\n――……啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后在她想从纸箱里拿出粉丝信的时候……\n……她发现了什么、整个人僵住了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……那个、训练员。\n『有马纪念』的采访定在了什么时候？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "经她这么一问、我再度打开缰绳小姐送来的资料。\n根据上面写的――",
+      "ChoiceDataList": [
+        "定在2周后"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……2周后。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那么！\n我有一个请求！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "……给。小鹤！\n这是我折的纸鹤哦～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麦昆",
+      "Text": "您最近在做千纸鹤对吧？\n这是目白的主治医生和我做的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "欸。哇、谢谢你们！\n明明两人都那么忙……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "顺便问下我们也能送吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "优秀素质",
+      "Text": "嘛啊、好歹也算沾点边？\n……『有马纪念』要加油啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "～～嗯、好的！\n谢谢你们！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "收集到的纸鹤我放在桌子上了哦～。",
+      "ChoiceDataList": [
+        "刚志、这是你的爸爸他们寄来的",
+        "刚志、这是你的爸爸他们寄来的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "真的吗！？\n明明几天前才跟他们说的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『想做千纸鹤』、鹤丸刚志这样说之后\n第二天就带来了几个可爱的容器。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "并排的容器里装满了纸鹤。\n总数大约有――900多只。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看来她把出道以来粉丝们送来的纸鹤全部收藏起来了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她曾干劲十足地表示『不够的部分我会自己折』、\n但是听她这么说、亲朋好友中没有谁会不帮忙的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那个、训练员？\n大夫？\u3000我也来做针线活吧……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "不行不行、比赛之前你可不能受伤啊～。\n对吧、训练员。",
+      "ChoiceDataList": [
+        "就是！真是的……疼疼疼！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训练员！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她说着没事的重新拿起针、\n开始把纸鹤们串起来。",
+      "ChoiceDataList": [
+        "话说、桌子上的那些纸鹤就是全部的了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊是的、然后还有――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……这个纸鶴也。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她最后拿出来的纸鹤、\n……与其他的相比布满了褶皱。",
+      "ChoiceDataList": [
+        "……知道啦、我给你串好"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "拜托你了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后、日子一天天过去――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡店的客人A",
+      "Text": "哇、快看快看！\n『有马纪念』的采访开始啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡店的客人B",
+      "Text": "真的欸、直播已经开始了！\n不得不说、今年的阵容真是豪华呀～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主持人",
+      "Text": "接下来有请鹤丸刚志选手！\n请谈谈您对『有马纪念』的抱负！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "好的、在那之前――\n有样东西想给大家看看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "主持人",
+      "Text": "『啊啦真漂亮……！这是千纸鹤对吧！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "『这是我的……支柱』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "『这串千纸鹤、是来自家人和朋友们――\n以及一直支持着我的人们\n送来的纸鹤做成的“护身符”！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "――咦。\n系在千纸鹤最上面的是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "保佑小鹤能够平安奔跑的。\n……护身符！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "是我折的纸鹤吧……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "……一直在留着吗？\n小鹤……一直在、留着它……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "当做自己的护身符……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "因为我从许许多多的人那里收到了祝福、\n才得以参加今年的『有马纪念』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "所以、我要向至今赠予我无数心意的你们、\n这次换我来回赠一个令你们心潮澎湃的梦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "敬请见证吧！\n受你们支持的鹤丸刚志\n就是最强的赛马娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "今年的『有马纪念』\n――我绝对会赢！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "说完、鹤丸刚志露出微笑。\n如同将珍贵的心意化作礼物、\n与重要的人们相互赠予一般。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "呼呀～……。",
+      "ChoiceDataList": [
+        "发布会上讲得很棒啊、刚志"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "诶嘿嘿……。\n多亏了训练员你们的支持啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "本来是我突然说要折千纸鹤的、\n这次也帮助我到最后……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……呵呵。小意思。\n还有啊……鹤丸选手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "圣诞老人的工作还没结束吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……！\u3000啊――",
+      "ChoiceDataList": [
+        "圣诞老人的工作？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "那么我先失陪了。\n吼吼吼吼……♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是专属医生快步离开了、\n只剩下鹤丸刚志和我两个人\n开起了小小的庆功会。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哇啊……真好看……。",
+      "ChoiceDataList": [
+        "刚志、有什么想吃的吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "咦。想吃的东西吗？\n嗯――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训练员想吃什么呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……训练员、你注意到了吗？\n这也是『感谢您帮忙会』哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "所以……首先请收下这个！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "鹤丸刚志猛地把什么东西递到我手里。\n那是――",
+      "ChoiceDataList": [
+        "……手套？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "没错！\n这是刚志圣诞老人送你的礼物！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "送给今天也在最近处为我加油的你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "顺便一提这副手套……请仔细看哦。\n左手手背上有一只袖珍的小鹤呢。",
+      "ChoiceDataList": [
+        "啊、真的欸。好可爱啊",
+        "啊、真的欸。好可爱啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "对吧对吧！？\n我总觉得从店里买太没意思了、\n就自己缝了的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "跟宿舍长借了熨斗！\n为了不烫伤、在大夫的指导下、\n好小心、好小心地弄的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "即使是给有了很多东西的训练员、\n我也想送一份只有我能送出的、特别的东西。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训练员。\n这副……手套、你喜欢吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那只小鹤一直陪在训练员身边\n应该……不会显得奇怪吧。",
+      "ChoiceDataList": [
+        "啊哈哈、当然不会。每年都会陪着我的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――！\u3000好耶！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "为了不让这只小鹤感到寂寞、\n请您每年都要健健康康的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "要注意别感冒了。\n穿得暖暖的才行哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "只要为此需要帮忙的话，我什么都愿意做。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "请您一定要长命百岁。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "请永远、永远和我在一起。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "鶴能活1000年呢。",
+      "ChoiceDataList": [
+        "……嗯"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我把收到的手套戴在手上、\n然后放在胸前。",
+      "ChoiceDataList": [
+        "那我们去吃拉面暖暖身子吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊、好呀！\n我要点超大碗的、还要吃10碗！",
+      "ChoiceDataList": [
+        "哦哟、吃得完吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "小意思！\n现在的我完全不在话下呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "鹤丸刚志蹦蹦跳跳地走在前面。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "祝愿那只小鹤――也能长命百岁活千年。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

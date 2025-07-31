@@ -1,0 +1,382 @@
+{
+  "Title": "温泉旅行",
+  "TextBlockList": [
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哼哼哼……训练员。\n这一天终于来啦……！",
+      "ChoiceDataList": [
+        "嗯啊、我这边也准备完毕喽……！",
+        "嗯啊、我这边也准备完毕喽……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "租来的车已经停在了校门口、\n我取出了准备好的旅行券。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "好嘞、咱们出发！\u3000去温泉旅行啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "晕车药有啦！\u3000导航软件有啦！\n乘客刚志、也有啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "上副驾驶喽！",
+      "ChoiceDataList": [
+        "啊！你已经上车啦！",
+        "啊！你已经上车啦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "诶嘿嘿～、\n训练员也快快～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是我和坐在副驾的鹤丸刚志开车去往目的地。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "坐车的时候就该听些提神的曲子才行～。\n我看看哪首好……啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "先听这首吧！\n刚出发的时候就要活泼点的、讨个好彩头！",
+      "ChoiceDataList": [
+        "嘿、曲子不错嘛"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "交给我放心！\n我已经跟小特她们取过经了\n准备了200多首曲子呢。",
+      "ChoiceDataList": [
+        "200首！准备了这么多啊！",
+        "200首！准备了这么多啊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "毕竟是训练员开车嘛！\n想听什么曲子尽管说！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊、接下来要变道？\u3000的样子！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "不好意思、让你绕了点路。\n但我实在口渴了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我顺便给训练员买了茶和口香糖。\n到车上给你吧。",
+      "ChoiceDataList": [
+        "欸、还给我买了吗！？给你钱！",
+        "欸、还给我买了吗！？给你钱！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "这点小钱用不着啦～。\n你为我付出了几十倍不止呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "说来我听说很多名赛马娘都会去那里泡温泉呢。",
+      "ChoiceDataList": [
+        "毕竟那里是出了名的赛马娘修养地呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "前辈训练员也跟我说过那里效果特别好。\n正适合为辛苦跑了3年的她缓解疲劳！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……！\u3000…………诶嘿嘿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "原来训练员也调查过吗～？\n那边的卖点！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "不过这也是旅行的乐趣所在呢！\n一想着到了后能体验到的东西、\n就止不住的兴奋呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "呜呀哇――！\u3000景色好美――！！\n好厉害！\u3000能看的好远――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哎呀、训练员在驾驶的时候\n可不能东张西望哦！？",
+      "ChoiceDataList": [
+        "啊哈哈、你能享受风景就行啦",
+        "啊哈哈、你能享受风景就行啦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "不行不行不行！\n我会用手机录下来的！\n之后再一起看吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我们到喽――！\u3000训练员、\n开车辛苦啦――！",
+      "ChoiceDataList": [
+        "刚志也辛苦啦！帮了我不少忙呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "不不、举手之劳～。\n……呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那么那么训练员！\n既然我们到了旅馆～？",
+      "ChoiceDataList": [
+        "好好享受温泉吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "是、那就泡完再见！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "入浴中……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "呼嘿嘿～……\n感觉、还有点晕乎乎的～……。",
+      "ChoiceDataList": [
+        "是能暖到心里的好温泉呀～",
+        "是能暖到心里的好温泉呀～"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "是呀～。所以呀～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训练员也要注意补充水分哦～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "这瓶也是请你的。",
+      "ChoiceDataList": [
+        "哎哟喂、我还是给你吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "诶～～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――训练员。\n这里这里～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "泡完温泉、吃完晚饭。\n我跟鹤丸刚志的旅行还在继续。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "听说这里的温泉馒头很有名！\n还有单独包装的很适合送礼哦。",
+      "ChoiceDataList": [
+        "是嘛！那就买几份吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "好的好的！\u3000买了准没错！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "没想到鹤丸刚志连我买什么伴手礼带回去都想好了。\n但是……。",
+      "ChoiceDataList": [
+        "我们该回房间休息了吧？",
+        "我们该回房间休息了吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "本来目的就是想让鹤丸刚志过来放松的。\n可不能让她太过劳累。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……我还不累。\n你看、咱们是在旅游哦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我呀。想让你也开心开心、\n想让你享受跟我一起的旅行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "然后让你找我一直当你的担当赛马娘！",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嘛啊、只开心今天一天的话\n……应该还不够吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "但是但是今天的我、算的上细心能干吧？\n有没有觉得很可靠？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "要是以后、有了后辈、\n我一定能当个好前辈的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "鹤丸刚志是、\n一定会在你遇到困难时、\n出手相助的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "当你在暗巷里迷路时、\n我会为你照亮道路的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "希望鹤丸刚志一直是、\n训练员骄傲的赛马娘！",
+      "ChoiceDataList": [
+        "不、你早就是我骄傲的赛马娘了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………真的吗？",
+      "ChoiceDataList": [
+        "嗯、真的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那么接下来还有时间！\n我就带训练员玩到最后吧！",
+      "ChoiceDataList": [
+        "诶！？还没玩够吗！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "还――没――玩――够――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我还要我还要！\n成为训练员心中最棒的赛马娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "诶嘿嘿…………所以、请一直。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――陪我到最后哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我在这段时光中，\n深刻地感受到了\n与鹤丸刚志之间无可取代的情谊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

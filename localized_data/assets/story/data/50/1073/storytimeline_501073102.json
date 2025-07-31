@@ -1,0 +1,446 @@
+{
+  "Title": "初詣",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "新年伊始、\n鹤丸刚志升到了经典级――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "正月。我收到她的邀请、\n这一天两人出门去做新年参拜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训练员、\n新年快乐！",
+      "ChoiceDataList": [
+        "新年快乐。刚志要许什么愿啊？",
+        "新年快乐。刚志要许什么愿啊？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "呵呵……。\n那当然是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――咦、啊好险！！\n许愿的内容说出来就不灵啦！\n不是说出口的愿望就无法实现嘛！",
+      "ChoiceDataList": [
+        "啊哈哈、抱歉抱歉"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "话虽如此、我大概也能猜到内容。\n于是我们排在了前往拜殿的队伍里――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（邦邦！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我想成为像会长那样\n无往不胜的强大赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……她的祈愿声不经意间漏进了我的耳朵里、\n于是我也双手合十。",
+      "ChoiceDataList": [
+        "然后愿你身体健康",
+        "然后愿你身体健康",
+        "（愿你能够变得强大）",
+        "……我想得到能够支持她的技术",
+        "……我想得到能够支持她的技术"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……她的祈愿声不经意间漏进了我的耳朵里、\n于是我也双手合十。",
+      "ChoiceDataList": [
+        "然后愿你身体健康",
+        "然后愿你身体健康",
+        "（愿你能够变得强大）",
+        "……我想得到能够支持她的技术",
+        "……我想得到能够支持她的技术"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训、训练员……。\n……『然后』是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "难道说你听到我的愿望了……？",
+      "ChoiceDataList": [
+        "嗯！当作是我们两人共同的祈愿就好了！",
+        "嗯！当作是我们两人共同的祈愿就好了！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……两人的？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这样一来、就算我知道她的愿望也是自然的事情。\n即使愿望被听到了、\n也不会因此而无法实现。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "！\u3000原、原来如此……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "欸！？\u3000好聪明啊！？\n为什么能马上圆过去啊！？\n欸！？\u3000太机智了！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……就这样\n我的鹤丸刚志的参拜结束后。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我在她身旁暗暗宣誓。\n希望今年比去年更有收获。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……训练员许愿了好久欸。",
+      "ChoiceDataList": [
+        "刚志才是"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嘿嘿……确实！\n因为是今年的第一个愿望嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……训练员也是这么想的吧？",
+      "ChoiceDataList": [
+        "嗯。……你在意内容吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "诶！？\u3000啊……不是不是、那个――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……就算在意也不能问啊。\n我不想害愿望不能实现。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……就这样\n我的鹤丸刚志的参拜结束后。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后、就在我们准备离开参拜队伍时――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "停、训练员停下来！\n就这样不要动！",
+      "ChoiceDataList": [
+        "咦、为什么？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那个～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训练员、不好意思！\n耳朵、靠过来一下！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我听到你的愿望了！\n『想要能支持的技术』什么的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……虽然压根不想要听到的～！",
+      "ChoiceDataList": [
+        "哈哈、没关系的。那个是誓言啦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "誓言？",
+      "ChoiceDataList": [
+        "没错、立誓要靠自己的努力实现心愿"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………噢噢……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……我的愿望是！\n『想成为能战胜大家的强大赛马娘』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――诶嘿嘿。\n那我的也不是心愿而是誓言！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……就这样\n我的鹤丸刚志的参拜结束后。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参拜客A",
+      "Text": "我说、那个新闻你看了没？\n神鹰今年果然要去『凯旋门赏』欸！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "凯旋门赏"
+      ]
+    },
+    {
+      "Name": "参拜客B",
+      "Text": "我也有个大新闻哦！\n圣王光环要从王道路线转为短距离路线\n……她要出战『高松宫纪念』呢！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "高松宫纪念"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哇……！\n在这里都能听到关于大家的话题……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我的同期们、果然好厉害呀！",
+      "ChoiceDataList": [
+        "嗯、是啊",
+        "嗯、是啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――『菊花赏』之后、\n鹤丸刚志的同期们依旧活跃在各个领域。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "同期之一・神鹰、\n在汇聚了世界名赛马娘的\n激烈GⅠ比赛中拿下了辉煌的胜利。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "而且在那场比赛里、特别周也出战了\n……虽然她在途中遭遇围堵、\n依然力压其他经典级赛马娘夺得第3名。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "另外在去年年底、\n在人气顶尖的赛马娘们云集的GⅠ比赛里\n草上飞拿下了第一。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "据说同样出席了那场『菊花赏』的星云天空\n也在该比赛中展现出比肩经典级的实力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "除此以外、圣王光环也宣布出赛1200m闪电战。\n展示出了她不受赛事级别条框束缚的挑战精神。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……大家、真的都很令人尊敬呢。\n她们永远跑在最前面啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "鹤丸刚志仰望着天空、\n脑海里浮现出同期伙伴们活跃的身姿。",
+      "ChoiceDataList": [
+        "刚志、你已经可以与她们一起奔跑了哦",
+        "刚志、你已经可以与她们一起奔跑了哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "是呢。\n就像『菊花赏』那时一样！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那一天真的就像奇迹又像做梦一样呀……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……真想把这一切\n告诉选拔赛那天遇见了你的我自己。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "与鹤丸刚志邂逅的那一天\n她缺席了选拔赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "同期的赛马娘们为了出道纷纷参赛的那一天\n只有她因身体不适而缺席了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……那时的我、是被落下的那一个。",
+      "ChoiceDataList": [
+        "但是今天的你、已经和她们站上了同一起跑线",
+        "但是今天的你、已经和她们站上了同一起跑线"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "进入同样的闸门、参加同样的比赛。\n你成为了她们的对手――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "不、不行不行！\n再怎么说也不能得意忘形到那种地步啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我清楚自己的位置！\n也明白我和她们之间拉开了多大的差距。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "也许运气好抽到了好的闸位、\n也许碰巧大家的状态都不佳的话……\n我说不定能捡漏赢一次。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "可是不能总是依赖运气、\n必须变得能跟大家平起平坐才行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "首先得从努力跟上她们的脚步开始！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她性格认真踏实、面对对手从不骄傲。\n这固然是可称之为美徳的地方……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……？\n训练员？",
+      "ChoiceDataList": [
+        "今年要跟许多对手一决高下哦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "！\u3000……是！\n了解！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "即将开始的并非是绚丽美好的幻梦。\n――而是充满可能性的较量啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
