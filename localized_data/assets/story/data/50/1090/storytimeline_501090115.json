@@ -1,0 +1,593 @@
+{
+  "Title": "THE TOP",
+  "TextBlockList": [
+    {
+      "Name": "极峰",
+      "Text": "――训练员！",
+      "ChoiceDataList": [
+        "极峰、高尚――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "啊、您好……。",
+      "ChoiceDataList": [
+        "……乐在其中啊！",
+        "……乐在其中啊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "……呜、这、这是……\n姐姐她、硬要……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "呵呵。因为你最喜欢肉包子嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "不、不用说出来啦。\n我吃就是了……我们走吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "……要开始了啊。\n――『日本杯』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "每年都热闹非凡的『日本杯』……\n今年也吸引来大量观众。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众A",
+      "Text": "――呜嗷嗷……！\n今年也集结了强大的赛马娘们呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众B",
+      "Text": "……唔姆。\n我说、人气顺序是不是有点怪啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众B",
+      "Text": "为啥贵妇人选手是第三人气啊？\n明明超强的、后冠路线大伙不是都看了吗～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众A",
+      "Text": "哎呀、她确实是焦点人物没错啦。\n但是不安因素太多了嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众A",
+      "Text": "毕竟历史上就没有经典级后冠路线的孩子赢过啊……\n外加上在内闸有利的赛场上――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众A",
+      "Text": "贵妇人和东瀛佐敦一样都是外闸。\n这下很难赢吧～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "东瀛佐敦"
+      ]
+    },
+    {
+      "Name": "观众B",
+      "Text": "哈？\u3000要这么说的话、\n黄金巨匠选手还在最外道呢！\n但她还是第一人气啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众A",
+      "Text": "你笨啊、那不正是最后一个不安因素呀！\n对手可是那个黄金巨匠啊、黄金巨匠！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众A",
+      "Text": "去年的经典三冠赛马娘！\n还拿下了法国的最高级GⅠ比赛、\n今年的『凯旋门赏』的堂堂第二！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "凯旋门赏"
+      ]
+    },
+    {
+      "Name": "观众A",
+      "Text": "黄金巨匠就是如今的日本最强赛马娘！\n“绝对的顶点”啊！\n要说有什么值得顾虑的、也就远征的疲劳了吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "……嘛啊、算是……恰当的评价吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "超常骏骥前辈、\n荣进闪耀前辈……\n还有许多其他厉害的赛马娘在――",
+      "ChoiceDataList": [
+        "果然还是巨匠出类拔萃啊",
+        "果然还是巨匠出类拔萃啊"
+      ],
+      "ColorTextInfoList": [
+        "超常骏骥",
+        "荣进闪耀"
+      ]
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "是啊。\n她在『凯旋门赏』获得第二名也是真的可惜……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……确实巨匠前辈很厉害。\n但是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "会赢的、是贵妇人同学。",
+      "ChoiceDataList": [
+        "……你很坚信她的实力啊",
+        "……你很坚信她的实力啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……因为不这样不行。\n她可是我的……竞争对手啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "作为同世代中后冠路线的代表……\n我必须向她展示自己引以为傲的奔跑才行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "她一定会证明……\n我们之间的战斗也曾是最高水准的吧。\n贵妇人同学――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是、今年的『日本杯』开始了――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛粉丝A",
+      "Text": "哦豁！\n那孩子果然选择了领放战术啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "巨匠前辈、处在中团靠后的位置……。\n贵妇人前辈在――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "位置不错呢。\n不过……黄金巨匠前辈也开始加速了。",
+      "ChoiceDataList": [
+        "但是……领放的那孩子没有降速啊",
+        "但是……领放的那孩子没有降速啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "比赛粉丝B",
+      "Text": "哇哇、这样下去说不定能一放到底啊！？\n啊啊、可是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众们",
+      "Text": "果然冲上来啦啊啊啊啊啊啊啊啊！！\n黄金巨匠～～～！！\u3000而且……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "贵妇人同学……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人",
+      "Text": "哈啊啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（哇啊啊啊啊啊！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……等等。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――黄金巨匠与贵妇人。\n稀世名赛马娘们之间的激烈对决点燃了比赛场。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（不是……我都不知道……\n你竟然――……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "贵妇人！\u3000贵妇人！\n不、是黄金巨匠！\u3000黄金巨匠！\n贵妇人、黄金巨匠！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（会如此的快乐）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金巨匠",
+      "Text": "……啧、碍事！！\n退下！\u3000无礼之徒……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "嚯嚯嚯！！\u3000不、该退下的……是您哦！！\n――跌下神坛吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "哈啊啊啊啊啊！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『完全突围！\u3000她冲上来啦！！\n展开梦之羽翼……就是现在！\n最后的直线、一鼓作气冲破终点啦啊啊啊啊！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（为什么……\n我会想起、“那一位”――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "黄金巨匠！\u3000贵妇人！\n同时冲线！！\n但是贵妇人以毫厘之差胜出啊！！",
+      "ChoiceDataList": [
+        "贵妇人她、赢了……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众们",
+      "Text": "呜嗷嗷嗷嗷……！\n历史改写啦……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众们",
+      "Text": "何况对手还是那个黄金巨匠！\n贵妇人……强得离谱啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "――诸位。\n现在您们该明白了吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "这个时代的“顶点”……\n是我、贵妇人啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "敬请继续欣赏吧。\n这份力量――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "连世界都尽在指掌之间任我蹂躏。\n所有的顶点、皆归我所有……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "嚯嚯嚯……\n哦吼吼吼！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众们",
+      "Text": "……各、各种意义上的超规格啊！！\n但如果是这孩子……说不定真能做到啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众们",
+      "Text": "她完全突破了路线的界限啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众们",
+      "Text": "既然说要征服所有顶点……\n看来她不会再回到后冠路线了吧――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "哈啊……。\n真厉害啊、贵妇人前辈……！",
+      "ChoiceDataList": [
+        "虽然不甘心、但她果然很强啊……",
+        "虽然不甘心、但她果然很强啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "――……了。",
+      "ChoiceDataList": [
+        "诶？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "不、抱歉。\n这里人太多、我好像有点晕……。",
+      "ChoiceDataList": [
+        "没事吗？去那边休息一下吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "不必、我一个人静静就好。\n高尚先拜托你了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……、哈啊、哈啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……原来是这样啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（我知道你很强大。\n也预想过你会赢……可是）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（没想到你竟然强到这种程度！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（甚至与我憧憬的那一位的身影重合……。\n我居然会对那份强大心驰神往……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……咕、我真是、蠢啊……！\n还什么、『最高水准』啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（明明以为与她已经势均力敌了！\n以为彼此是最棒的竞争对手……可是……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（……我在那天已经倾尽了所有。\n可是、你却……\n根本没有展现出全部实力――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……距离“顶点”、\n我到底……还要变得多强才行啊……我――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咔嚓）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "？\n刚才的是……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "你没事吧！？\n感觉你、脸色有点……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "芭蕾前辈……我没事的。\n只是有些、人潮晕。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "原来是这样啊。\n确实、今天的观众多得吓人呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "大家、都是来看那个人的胜利的……\n……但是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "黄金巨匠前辈。\n就是芭蕾前辈的……“绝对”、是吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "……我也没想到她会输。\n感觉……心情有些复杂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "啊……但、但是、\n极峰同学……才更……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "……啊、就是那个？\n就是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "她的强大确实令人震撼。\n不过我没事的、没问题的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "只要在与那个人再度对决之前、\n……继续成长就……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "…………谢谢您的关心。\n和芭蕾前辈聊过之后、心情舒畅多了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "咦？\n但是、你的脸色还……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "那么、学园见。\n――希望您、不要太沮丧了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "……不能和我说说吗……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "我也想、安慰你啊。\n――就像你、为我做过的那样……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
