@@ -1,0 +1,285 @@
+{
+  "Title": "温泉旅行",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "在我和极峰赢下许多比赛后的某一天――",
+      "ChoiceDataList": [
+        "给你这个、差不多可以去了哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……这是『温泉旅行券』吗？\n当时抽奖、抽到的那个。",
+      "ChoiceDataList": [
+        "嗯啊、你该好好休息休息了",
+        "嗯啊、你该好好休息休息了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那个时候、她把券交给我保管、\n说是等事情告一段落之后再说。\n我想现在正是那个时候了。",
+      "ChoiceDataList": [
+        "去和重要的人、一起享受吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……如果是以前的我的话……。",
+      "ChoiceDataList": [
+        "嗯？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "没什么……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……训练员、\n你也累了吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "如果方便的话、\n这张券――",
+      "ChoiceDataList": [
+        "不用管我！我更喜欢泡澡堂啦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我连忙表示拒绝。因为她很温柔、\n看起来是想把券让给我去用吧、\n但我更想让努力至今的她去好好放松。",
+      "ChoiceDataList": [
+        "我自己一个人习惯了――",
+        "我自己一个人习惯了――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "所以说！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "“我们”可以、\n一起去的嘛！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "后来……不知怎的我和极峰一起来到了温泉旅馆――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "…………那么、\n我们先去泡温泉吧。",
+      "ChoiceDataList": [
+        "啊、嗯嗯……",
+        "啊、嗯嗯……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "入浴中……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "泡的怎么样？\n这里的温泉不错吧。",
+      "ChoiceDataList": [
+        "是啊、整个人都被治愈了……",
+        "是啊、整个人都被治愈了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……虽然泡澡堂也不错、\n但还是泡温泉缓解疲劳的效果更好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "你也、与我一同努力到了今天……\n别再说什么一个人惯了这样孤单的话了。",
+      "ChoiceDataList": [
+        "哎呀、原来……是因为这个生气了啊",
+        "哎呀、原来……是因为这个生气了啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……。\n我气的不止这一点。",
+      "ChoiceDataList": [
+        "诶……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "我们、稍微出去走走吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "嗯……这风不错。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "……极峰？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……好怪啊。\n我有点紧张了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "因为……总是守在我身后的人、\n现在却在我的眼前啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "在背后推我一把、让我能坚持迈出最后一步的、\n那个人……也就是你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "但现在、那个你站在了我的面前……\n这下又有谁、能带给我勇气呢？",
+      "ChoiceDataList": [
+        "那么、我就从正面接住你吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "诶……。",
+      "ChoiceDataList": [
+        "你就朝着我、迈出最后一步……来吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我稍微后退几步、张开双臂。当然、\n她并不会扑到我怀里――而我也不是为此才这么做的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "训练员……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……看看你说的什么话。\n你啊……真是的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……总之、我想说的是……\n家人固然重要……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "她们在我心中、排在第一位。但是……\n你可不要、擅自把自己排除在外啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……我就没有把你……\n排在第二位的想法。",
+      "ChoiceDataList": [
+        "……能在你心里排第二、就足够光荣了",
+        "……能在你心里排第二、就足够光荣了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "就、就说了、\n我没有――",
+      "ChoiceDataList": [
+        "不过在我心里、排第一的永远是你啊",
+        "不过在我心里、排第一的永远是你啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……。\n…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……好呀。\n你要、说到做到。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "不许你让我屈居第二哦！",
+      "ChoiceDataList": [
+        "遵命、我的女王大人",
+        "遵命、我的女王大人"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……这些话不要妹妹们面前说哦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那一刻、\n我感受到了与极峰之间\n那独一无二的羁绊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

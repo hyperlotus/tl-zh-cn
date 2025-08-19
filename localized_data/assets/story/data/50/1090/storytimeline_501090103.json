@@ -1,0 +1,465 @@
+{
+  "Title": "夏合宿（2年目）スタート！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "从明天开始就是能大幅提升实力的夏季集训了。\n行装虽然已经收拾妥当、\n我直到深夜依然在做着精心的准备。",
+      "ChoiceDataList": [
+        "（为了让极峰变得更强！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自从『日本橡树大赛』之后、\n极峰想要变得比贵妇人更强的执念更深了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……我觉得她有些钻牛角尖了。\n为了支持这样的她――",
+      "ChoiceDataList": [
+        "训练菜单也必须比现在制定得更周密才行！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（……看来大家都已经回去了呢。\n毕竟明天开始就是集训了……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（可我……还不能休息。\n因为……――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（……！\n等下、那是……――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "……呼、……呼……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "整备职工",
+      "Text": "那、那个……贵妇人同学。\n那边的场地我已经整备好了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "啊啦？\u3000谢谢您。\n您可以先回去休息了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "每次都要劳烦您修整我跑过的场地、\n很辛苦吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "整备职工",
+      "Text": "不、不会……这是我的工作嘛。\n而且……我乐在其中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "整备职工",
+      "Text": "你的蹄迹、在日渐变得深刻……\n这份成长、我只是在一旁看着……\n就不禁心跳加速啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "感谢您的认可。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "整备职工",
+      "Text": "……多年来、我守望着赛马娘们的成长……\n无论是多么强大的孩子、\n也不会懈怠于每日的精进。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "整备职工",
+      "Text": "在她们之中你的钻研精神……尤为出众。\n……为什么你能努力到这种程度呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "……呐。\n有件事、我无论如何都无法理解。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "所谓“努力”、\n真的需要动机吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "整备职工",
+      "Text": "诶……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "成为最强。这才是、强者应尽的唯一本分。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "我将自己置于“那个位置”。\n因此为了力量、我倾尽全力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "应至之巅的景色、我已尽收眼底。\n那剩下的便是心无旁骛地向其奔赴罢了……。\n简而言之――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "我不过是想成为理想中的自己而已。\n――那我继续训练了、失礼了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……我、也……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "呼啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "……哎呀、不行不行！\n明明特意早起的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "哈啊……哈啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "哈啊……哈啊……！\n哈啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……不行、才这种程度就累了……\n那个人、可是更加游刃有余的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "再来一圈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "极峰同学……\n一直训练到现在吗……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "……非常地、努力啊。\n非常地、非常地……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "――我向您证明、\n所谓的绝对不可能根本不存在。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "……嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "我曾经、也这么想。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "『我做得到！\u3000做得到做得到、\n我已经付出这么多努力了啊！\n我也……我的话……！！！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "実況",
+      "Text": "『冲线啦冲线啦！\u3000黄金巨匠！！\n――无马能及！！\n黄金巨匠、三冠达成！！！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "……你可不要有、\n那样痛苦的回忆啊――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在忙忙碌碌之中、启程的时刻到了。\n我在车里与极峰确认着集训的训练方案――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "极峰？你没事吧？",
+        "极峰？你没事吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……、我没事、失礼了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "是有关最终目标的阶段性规划吧。\n嗯嗯、我已经确认完毕了。没有问题。",
+      "ChoiceDataList": [
+        "……是吗、谢谢你",
+        "……是吗、谢谢你"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "仅仅失神了片刻、极峰又恢复了往日的凛然姿态。\n可是、细看之下隐约可见她有些疲惫……。",
+      "ChoiceDataList": [
+        "剩下的细节等到了目的地再说吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "好的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "那么、我开始学习了。\n若有什么事无需顾虑请随时叫我。",
+      "ChoiceDataList": [
+        "（虽然想叫你休息一下啊……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后、在我们抵达集训地时――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "呐！\u3000贵妇人前辈、\n在和古马级的前辈比赛欸！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "古马级"
+      ]
+    },
+    {
+      "Name": "赛马娘B",
+      "Text": "真假！\u3000现在吗！？\n我要去看！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……――训练员。",
+      "ChoiceDataList": [
+        "嗯嗯、我们也去吧！",
+        "嗯嗯、我们也去吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "可惜、您只有这种程度的话。\n――哈啊啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前辈赛马娘",
+      "Text": "咕呜呜……！！\n怎么、可能……啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……！！",
+      "ChoiceDataList": [
+        "（何等的、强大啊……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "贵妇人在直道上一口气甩开前辈赛马娘\n……以压倒性的领先摘得胜利！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "……承让。\n多谢您的指教。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "托您的福、\n我收获了更多自信呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前辈赛马娘",
+      "Text": "咕呜呜……呜、可恶、可恶、可恶……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "好、好厉害……。那个前辈、\n跑过经典三冠比赛的吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘B",
+      "Text": "可是、在经典级的这个时期、\n竟然能拉开这么大差距取胜……。\n果然――根本不在一个层次啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘B",
+      "Text": "哈～……\n跟她不是同世代的真是太好啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……。\n真的呢。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "兼具得天独厚的体能、\n外加毫不懈怠地磨练到极致的努力……\n真的好讨厌啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "但是……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "极峰那凝重的表情……\n任谁看到了都明白她在想什么。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "训练员。\n关于方才确认的计划……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "请把目标再提高一个等级吧。\n请您彻底地鞭策我。",
+      "ChoiceDataList": [
+        "我不能让你勉强自己",
+        "我不能让你勉强自己"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "不。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "这次、\n请允许我坚持自己的意志。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "适当的勉强不可避免。\n……这个夏天、毫无疑问至关重要。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "梦寐以求的后冠路线、最后的比赛……\n我绝对要赢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "请您相信我。\n……我绝对不会倒下、绝对不会垮掉的！",
+      "ChoiceDataList": [
+        "……知道了、我会考虑的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "谢谢您。\n请多指教！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是、\n炎热的夏季集训开始了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

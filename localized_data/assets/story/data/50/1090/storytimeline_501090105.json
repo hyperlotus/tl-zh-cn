@@ -1,0 +1,247 @@
+{
+  "Title": "夏合宿（3年目）スタート！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "今年的夏季集训也开始了。\n这个以大幅提升赛马娘的实力为目的集训、\n几乎全校学生都参加了――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈赛马娘A",
+      "Text": "啊、极峰前辈……！\n你好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈赛马娘B",
+      "Text": "『维多利亚英里赛』、\n我深受感动……！\n我们也要以后冠路线为目标……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈赛马娘B",
+      "Text": "我们也想成为像前辈那样的、\n美丽有气质、又强大的赛马娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "呵呵、谢谢你们的支持。都要加油啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈赛马娘们",
+      "Text": "谢谢前辈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "后辈赛马娘们",
+      "Text": "呀～～、得到前辈激励啦♡\n集训必须要努力啊！",
+      "ChoiceDataList": [
+        "很有憧憬的前辈模样啊",
+        "很有憧憬的前辈模样啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "真是的、请不要再取笑我了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "不过、能有这么多孩子仰慕我、\n真的让我非常感激。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "这才是女王应有的姿态啊。\n……不应该只追求自己个人的强大。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "――就像那个人似的。",
+      "ChoiceDataList": [
+        "（贵妇人、吗……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "说起来、我听说最近她的状态似乎有些低迷。\n不像之前那样能频繁听到有关她的消息。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她那种彰显实力的性格\n以及为了求胜不顾一切的奔跑方式、\n本来就容易树敌――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "训练员A",
+      "Text": "――你看啊、极峰君那幅高傲的姿态。\n倒是很受后辈欢迎呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "训练员B",
+      "Text": "相较之下、贵妇人……\n我实在看不惯她那套强大即是一切的思想。\n胜者、本应给后进者带来积极影响才对。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "训练员B",
+      "Text": "她最近的状态不佳也是为所欲为的报应吧。\n和她同世代的孩子们真可怜啊、\n就因为她在独占鳌头――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……说的太过分了。",
+      "ChoiceDataList": [
+        "……你不是也不喜欢她的作风吗？",
+        "……你不是也不喜欢她的作风吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "当然不喜欢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "那个人跑过的赛道寸草不生。\n她只会把一切吞噬殆尽、化为己用……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "可是……――",
+      "ChoiceDataList": [
+        "极峰？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "失礼了。\n我不小心听到了你们的对话。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "训练员A",
+      "Text": "！？\n有、有什么事？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "首先感谢你们对我的称赞。\n只是――请不要把我当做贬低贵妇人同学的工具好吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "诚然、那个人确实傲慢自大、只识一味地追求力量、\n眼里从来没有其他人……是个可怕的人。",
+      "ChoiceDataList": [
+        "（他们也没有说到那个地步吧……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "但是、我们是赛马娘。\n胸中怀有永不满足的斗争心、\n将胜利视为至高的荣耀――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "想要变强。\n所以比任何人都更深入地思考、\n比任何人都更刻苦地训练。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……为了成为“绝对”、\n不断向强者、向世界……向自身发起挑战。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "――誓要战胜一切。\n请问这有什么错吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "训练员B",
+      "Text": "……那么你是在、肯定贵妇人的所作所为吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "并不。\n但我也不会去否定。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "胜负是判断对错的唯一标准。\n所以敬请放心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "我会击败那个人、\n开创一个清正美丽的未来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "所以、诸位――\n只需静候即可。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "啊啊、对了对了……还有就是、\n我们一点也不可怜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "因为我们每个人都拥有、\n毫不逊色于那个人的璀璨光芒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "敬请期待今后的比赛吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "面对极峰展露的微笑、\n训练员们陷入了沉默。\n而我也第一次知晓了她的内心想法――",
+      "ChoiceDataList": [
+        "（她是打心底尊敬着贵妇人啊）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在重新认识到极峰对劲敌的心意之际……\n今年同样炎热的夏季集训拉开了帷幕。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
