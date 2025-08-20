@@ -1,0 +1,275 @@
+{
+  "Title": "目標達成の後に・The Beginning",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "新马级的最后一个月到来了……\n作为目前为止的结果性测试、\n我们决定跑一场2000m。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "新马级"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "虽说是对新马级而言有些长的距离、\n但这是为了明年即将到来的经典级比赛做准备、\n并用作检验她当前的潜力――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "――哈啊啊啊啊啊啊啊！！",
+      "ChoiceDataList": [
+        "还剩一点距离了、极峰！",
+        "还剩一点距离了、极峰！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "您觉得如何！？",
+      "ChoiceDataList": [
+        "跑出了相当不错的成绩哦、你看！",
+        "跑出了相当不错的成绩哦、你看！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "！\n这样的话……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "面对贵妇人同学――也能赢！",
+      "ChoiceDataList": [
+        "是呢、确实追上了啊……！",
+        "是呢、确实追上了啊……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "太好了。\n终于……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "目前、她也适当地参加了一些比赛、\n积累了一定程度的经验。\n现在的她、状态非常充实……！",
+      "ChoiceDataList": [
+        "接下来――就在正式比赛里、超越她吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "是！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "这样一来、\n通向未来的可能性也一目了然了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "继续这样训练下去的话、\n『日本橡树大赛』……即便是2400m也没有问题吧。\n您怎么看？",
+      "ChoiceDataList": [
+        "同感！",
+        "同感！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "今后、还请着重加强针对东京比赛场赛道的训练。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "在征战三后冠路线的途中、\n直到正赛前都没有逆时针的GⅠ比赛。\n有必要采取特殊对策。",
+      "ChoiceDataList": [
+        "但是、在那之前……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "嗯、我知道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "让我们开始吧。\n踏上以『樱花赏』为起点的……通往顶点的道路！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "感觉姐姐和训练员的气氛真不错呀～♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "……终于来了吗。\n姐姐的、经典赛事……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "好期待～！\u3000如果是姐姐的话、\n肯定会赢的吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "可是……\n贵妇人前辈也在啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "那高尚亲能想象出来吗？\n在正式比赛中、姐姐输掉的样子！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "……想不出来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "因为姐姐她、从很久以前就一直……很强。\n……强到让人几乎要放弃追上她的地步。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "――比姐姐更强、什么的……\n我想象不到。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "呼……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "好了。\n――重新测一次吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "啊……\n贵妇人同学。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "她在干什么呢……？\n……啊啊、在脱下负重啊――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咣当昂昂昂昂昂昂昂昂昂……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "哇呀！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "……哼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "――嗯嗯、还不赖。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "好了……再测一次。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "――哈啊啊啊啊啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "！！\u3000这、何等强力的奔跑……！\n――她真的是新马级吗……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "呜哇、等……刚才的看到了吗！？\n贵妇人同学的、\n和至今为止的跑法完全不同啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘B",
+      "Text": "什么、之前一直在限制实力吗……？\n那、她以前展现的……都不是全力！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "骗人的吧！？\n我还偷偷参考来着的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "她就是、\n极峰同学的、“无法战胜的对手”……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "凯旋芭蕾",
+      "Text": "……这不是、相当棘手吗？\n极峰同学……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――各自的准备都在推进着。\n在后冠路线的首战、\n『樱花赏』到来之前、她们会锤炼得更为强大。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

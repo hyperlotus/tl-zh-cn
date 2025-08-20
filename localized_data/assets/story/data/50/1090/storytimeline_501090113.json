@@ -1,0 +1,567 @@
+{
+  "Title": "My Precious Family",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "在出道日已经定好、\n我们正更加投入地专注在训练的某一天――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "――嗯♪\u3000这家的下午茶蛋糕好松软呀、\n真好吃～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "是呀！\u3000好甜好甜的～♡\n我喜欢奶油加的多多的～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "小强击也这么觉得吧♡\n训练员中意哪一种呀～？",
+      "ChoiceDataList": [
+        "啊、那个……我……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "好啦、妈妈。\n训练员不是才刚到吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "啊、还没安顿下来吗。\n不好意思呀～、突然把您叫来。",
+      "ChoiceDataList": [
+        "（倒、不如说……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "极峰的……也就是她们姐妹的双亲、\n两人都是社会上非常出名的名人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "父亲是现役的棒球选手、\n以豪放磊落的爱妻人士而闻名。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "母亲曾是拥有偶像般人气的赛马娘、\n虽然没有参与过重赏赛、\n但在比赛界颇具存在感。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "重赏赛"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "在电视上看到的名人就在眼前……\n外加上这种紧张感――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "呐、回去的时候要不要给高尚买点带回去？\n这里好像可以打包带走哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "买！\n果然买马赞（umasta）上推荐的系列准没错呢♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "马赞"
+      ]
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "那、妈妈想送爸爸照片当礼物♪\n我们来拍自拍吧！",
+      "ChoiceDataList": [
+        "（3人并排站一起、画面实在华丽的耀眼……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "感觉母亲的光彩照人尤其影响了强击的气质。\n就在我这样想的时候――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "强击、你喜欢抹茶司康对吧？\n姐姐那份也――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "啊！\u3000妈妈我已经吃饱了\n想跟你分一半～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "真的吗？\u3000好耶♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "小极峰、要不要吃草莓果冻呀？\u3000你喜欢的吧？\n妈妈已经吃不下啦～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "那我不客气了……\n谢谢妈妈。",
+      "ChoiceDataList": [
+        "（……原来如此）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "虽然强击更像母亲……\n但是极峰关怀妹妹们的身影、\n与母亲关爱女儿们的样子如出一辙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "难道说、训练员也想吃吗？\n想要姐姐张嘴啊――的喂你吗～！？",
+      "ChoiceDataList": [
+        "诶！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "咿呀～！\n小极峰、大胆♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "连妈妈也……\n真是的、不要这样啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样、身在这样和睦融洽的一家人中间、\n我的紧张感一点一点地消散了。\n美好的时光转瞬即逝――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "对了对了、小极峰！\n比赛的大目标之类的、已经决定好了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "大目标？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "你看、为了最重要的比赛需要制定各种计划的吧？\n妈妈我以前也是这样跑比赛的呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "嘛啊、虽然连OP级别的舞台都没能踏上。\n但是小极峰你啊……瞄准的是更高处的地方吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "OP"
+      ]
+    },
+    {
+      "Name": "极峰",
+      "Text": "说起来、我还没跟训练员讲过具体的目标呢。",
+      "ChoiceDataList": [
+        "愿闻其详",
+        "愿闻其详？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "好的。\n我想――挑战后冠路线！",
+      "ChoiceDataList": [
+        "后冠路线吗……！"
+      ],
+      "ColorTextInfoList": [
+        "后冠路线"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "那是经典级的主要路线之一、\n『樱花赏』『日本橡树大赛』『秋华赏』\n这三场比赛的统称……是最高级别的比赛。",
+      "ChoiceDataList": [
+        "能告诉我理由吗？",
+        "能告诉我理由吗？"
+      ],
+      "ColorTextInfoList": [
+        "经典级",
+        "樱花赏",
+        "日本橡树大赛",
+        "秋华赏"
+      ]
+    },
+    {
+      "Name": "极峰",
+      "Text": "因为后冠散发着光辉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "经典级的另一条主要路线……\n『皐月赏』『日本德比』『菊花赏』的\n经典三冠虽然也非常棒――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "皐月赏",
+        "日本德比",
+        "菊花赏",
+        "经典三冠"
+      ]
+    },
+    {
+      "Name": "极峰",
+      "Text": "我想展现的是……\n那辉煌华丽的顶点。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "我想像那些曾经踏上后冠路线的前辈们一样、\n强大而柔韧地带领大家前行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "――为了让你们能毫无迷茫地前进。\n作为姐姐、我想成为你们应当前往的方向。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "若是后冠所散发的柔和光辉、\n想必能让你们安心地以此为目标吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "姐姐……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "特别是『日本橡树大赛』、\n那可是对后辈带来极大影响之人才能获胜的比赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "我绝对要赢下来！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "咿呀～、不愧是小极峰！\n好帅呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "呐呐！\n不如趁这个势头！\n赢下三后冠吧♡",
+      "ChoiceDataList": [
+        "（后冠路线、全胜的称号……！）"
+      ],
+      "ColorTextInfoList": [
+        "三后冠"
+      ]
+    },
+    {
+      "Name": "极峰",
+      "Text": "至今为止只有3人达成了啊？\n可不是那么简单的事情哦。",
+      "ChoiceDataList": [
+        "……但是、能想像的出来呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在妹妹们的注视下、极峰高雅地取得胜利――\n那幅光景立刻清晰地浮现在我脑海中。",
+      "ChoiceDataList": [
+        "那顶后冠一定和你非常相称吧",
+        "那顶后冠一定和你非常相称吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "咿呀～！\u3000这太犯规啦♡\n训练员、人家小鹿乱撞啦～♡",
+      "ChoiceDataList": [
+        "！？……咦、乱撞！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "训练员……\n看来您对小极峰的评价非常高呢。",
+      "ChoiceDataList": [
+        "因为我是被她迷住才签约的嘛"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "！\n哇～～♡\u3000这已经是～～～～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……训练员、\n请不要再开口了！",
+      "ChoiceDataList": [
+        "（为啥……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "但是……\n谢谢您。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "如果真能那样的话……\n妹妹们也会为我感到骄傲吧――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这之后、在等待出门购物的极峰和强击期间――\n我与二人的母亲两人独处。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "训练员。今天突然叫您过来真是抱歉呢。\n下次一定会好好定个日子的！\n我也会叫上爸爸的♪",
+      "ChoiceDataList": [
+        "好、好的……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "……您觉得。小极峰、\n她是个非常努力的好孩子吗？",
+      "ChoiceDataList": [
+        "是的、她特别努力！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "呵呵。果然呢……\n您早就看出来了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "那孩子从以前开始、\n就有必须保护好妹妹们的强烈使命感――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "『――小极峰、你都发烧了啊！？\n对不起、妈妈完全没有发现……！\n让你自己看家很辛苦吧、对不起啊……！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼时的极峰",
+      "Text": "『不――会……我没事的。因为……\n今天是高尚和强击的、重要的发表会嘛……』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼时的极峰",
+      "Text": "『因为我、我是姐姐啊……\n所以一个人看家、没事的！\n呐呐、她们两个、表现得好吗……？』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼时的极峰",
+      "Text": "『高尚的响板、有没有好好地响起来呢……？\n强击她、有没有好好地唱出来啊――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "……我想总有一天、\n也会有她独自一人感到艰难的时候吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "但是、无论何时都请相信小极峰的坚强……\n并一直守护她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "我和她爸爸都因为工作的事、\n有时可能无法立刻赶到她身边。\n不过、我们一家人随时都是你的助力！",
+      "ChoiceDataList": [
+        "好的、请多关照……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "――久・等・啦！\n送高尚亲的土产顺利买到啦♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "不好意思、训练员。\n……您还好吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "啊――、好过分呀小极峰！\n妈妈才――没有说什么奇怪的话呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "不是啦妈妈、姐姐她啊――是在吃醋啦？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "因为买东西的时候就一直、\n『妈妈、没说什么奇怪的话吧』\n……的、只顾着嘀咕这个。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "强击！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹的母亲",
+      "Text": "好久没看到小极峰着急的样子惹♡\n真可爱～♡",
+      "ChoiceDataList": [
+        "……呵呵"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我不禁露出了笑容。正是在这样的家庭氛围中成长、\n她才会不假思索地为这个家如此努力吧――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "接着过了几天后……极峰的表情、\n骤然一变――严肃的面庞绷得紧紧的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "――训练员、请再放一次。\n我想再看一遍刚才的影像。",
+      "ChoiceDataList": [
+        "啊、好",
+        "啊、好"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "『我要戴上三后冠』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "采访者",
+      "Text": "『噢噢……！\u3000经典三冠虽然也是崇高的荣誉称号\n……能否请教下您为何选择了后冠路线呢？』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "『很简单的道理』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "『因为后冠……很适合我啊』",
+      "ChoiceDataList": [
+        "（果然会遇上她啊……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "贵妇人也宣布将目标指向后冠路线――\n并且明确提出了要达成三后冠。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……她说后冠很适合自己？\n仅仅、因为这个……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……那么。\n那顶后冠你绝对配不上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "对吧、训练员？\n因为啊――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "那道荣耀的光辉、唯我相称！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "――我绝不会把后冠的荣耀让给她！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
