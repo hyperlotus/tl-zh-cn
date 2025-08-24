@@ -1,0 +1,178 @@
+{
+  "Title": "维多利亚英里赛にむけて",
+  "TextBlockList": [
+    {
+      "Name": "极峰",
+      "Text": "――呼……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "那么、我出发了。",
+      "ChoiceDataList": [
+        "嗯、比赛顺利",
+        "嗯、比赛顺利"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在『维多利亚英里赛』当天。\n极峰的专注力已臻至化境。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我今天没像往常一样、特意对她说些鼓励的话。\n因为我知道她已经不需要了。其原因就是――",
+      "ChoiceDataList": [
+        "（她的眼里只有今天应尽之事啊）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参赛的赛马娘们",
+      "Text": "哈啊……。\n……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……诸位这是怎么了？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "焦躁不安、垂头丧气……\n还请无论怎样都不要低头示弱。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "赛前这样子的态度、\n实在很不相称呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参赛的赛马娘A",
+      "Text": "……可、可是啊……！\n你知道观众们都是怎么说的吗！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众A",
+      "Text": "――今天的胜者预测很简单！\n就是极峰呗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众B",
+      "Text": "啊――……嗯、基本不会错了～。\n毕竟――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参赛的赛马娘A",
+      "Text": "――『没有贵妇人参赛嘛』\n他们都在这样讲欸……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参赛的赛马娘A",
+      "Text": "明明我们也是凭实力闯到今天的！\n却被说得、像是主角缺席时候凑数的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参赛的赛马娘A",
+      "Text": "极峰同学也觉得被那样讲不舒服吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "我建议诸位尽快调整心态为好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参赛的赛马娘A",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "此战可是后冠路线的最高峰――\n『维多利亚英里赛』啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "是历代杰出的先辈们、在此上演令人心潮澎湃的激战、\n充满荣耀的比赛……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "我们要做的只有、\n展现出足以重写这段历史的奔跑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "除此以外、还有别的吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "参赛的赛马娘A",
+      "Text": "……这、这个……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前辈赛马娘",
+      "Text": "――说的没错、大伙。\n我们大干一场吧……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前辈赛马娘",
+      "Text": "后冠的光辉、无比闪耀！\n我们要证明的不就是这点嘛？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前辈赛马娘",
+      "Text": "呐、极峰同学？\n……要和我来一次正面较量嘛？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "呵呵……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "嗯、那是当然。\n请各位紧随我身后吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "就让我们来向世人证明、\n一直所追求的后冠光辉……究竟有多么的璀璨夺目！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

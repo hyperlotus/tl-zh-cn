@@ -1,0 +1,456 @@
+{
+  "Title": "圣诞节",
+  "TextBlockList": [
+    {
+      "Name": "极峰",
+      "Text": "我换好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "……！！！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "呀～、好棒棒――呀♡\n超上流的～♡♡♡♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "嗯……很漂亮。\n果然、这个款式很适合……呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "呵呵。\n谢谢你们两个。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "那、款式就定这个了！\u3000然后决定颜色吧！\n啊、颜色当然也由我们来给你选吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "强击骏逸圣诞礼物♡\n大人的圣诞节晚宴已经开始喽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "大人、的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "因为！\n――对方是训练员嘛～♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "那不是……你们两个擅作主张邀请的吗。\n真是的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "训练员也是、为什么会同意呢。\n明明是圣诞节。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "正因为是圣诞嘛、对吧～？\n训练员不是最～喜欢姐姐了嘛♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "那、那只是对我信赖而已啦！\n不要用奇怪的说法啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "好啦、不是说要帮我选颜色吗？\n我去换衣服、你们等一等。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "这种明亮氛围的感觉、也不错呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "唔嗯、挺纠结呢……。\n你们二人觉得呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "两个妹妹",
+      "Text": "必须是黑♡\n淡紫……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "诶～！？\n明明黑色超合适的吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "很上流、还跟姐姐超漂亮的肌肤交相辉映～。\n透着十足的、超大人的约会感♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "但、但是……淡紫的话……\n跟姐姐的瞳色、很搭……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "心灵相通、之类的……\n以自然的状态、共进晚餐……什么的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "两人说的都有道理呢。\n唔嗯……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "――答案不是很明显吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……！？\n贵、贵妇人……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "哼嗯……\n打扮得真可爱呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "但是、不是圣诞节约会吗？\n那么――我能为你选的颜色、就只有一个了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "圣诞节当天。我身着相当正式的衣服、\n到强击她们指定的餐厅附近等待着――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "让你久等了、训练员。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……如果有什么想说的、不必吝啬。",
+      "ChoiceDataList": [
+        "（纯白……虽说确实很意外――）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "身着白色连衣裙的极峰更显其高贵与美丽、\n在此之上――更是耀眼得令人炫目、尽显纯白无瑕。",
+      "ChoiceDataList": [
+        "今天的着装、非常出色",
+        "今天的着装、非常出色"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "只有这样吗？",
+      "ChoiceDataList": [
+        "诶？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "不想夸我、漂亮吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……――不、抱歉。\n其实、没关系的。",
+      "ChoiceDataList": [
+        "……当然、很漂亮啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "不是说了没关系的嘛。\n这样不就像、是我在求你一样嘛――",
+      "ChoiceDataList": [
+        "我真的、觉得你很漂亮"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……。\n谢谢你。",
+      "ChoiceDataList": [
+        "马上就相信我了啊",
+        "马上就相信我了啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "毕竟、您――\n客套话什么的、可不会说呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样、圣诞节晚宴在高档餐厅的环境里、\n在一种异于我们往常的氛围中进行――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "呼……红茶的香味真不错啊。",
+      "ChoiceDataList": [
+        "（在餐桌上重新面对面后……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "极峰的举手投足无不彰显着与生俱来的优雅、\n能够不带一丝违和地融入满是成年人的空间里。\n……不、不如说――",
+      "ChoiceDataList": [
+        "（大家的目光、都被她吸引了）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "尽管知道平时的她便已足够引人注目了、\n但其在训练中拼尽全力的姿态更令我印象深刻、\n时至此刻我才再次认识到她品行的高雅。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "――请问你在想什么呢？",
+      "ChoiceDataList": [
+        "啊……那个、只是觉得白色很适合你啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "既然说是约会了、\n那么肯定想要打动对方的心灵吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "那么、不管是融入场合的自然、\n或是包容万象的温柔都不可取。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "就该是不受万物沾染的炫目――\n铆劲全力、夺走对方的心哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "该不会想说……\n你没有这份自信吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……真让人窝火啊。",
+      "ChoiceDataList": [
+        "诶、对不起……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "啊……！\n不是在说训练员你……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "啊啊、真是的。\n又在你的面前……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……我至今为止究竟多少次、\n在你面前表现出不可靠的样子了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "明明至少今天想要保持一个完美的自己啊。",
+      "ChoiceDataList": [
+        "没事的、你今天……也很完美啊",
+        "没事的、你今天……也很完美啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……――",
+      "ChoiceDataList": [
+        "你是相信我的对吧？",
+        "你是相信我的对吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "太狡猾了。\n……这不是、只能同意了吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……咳哼。不好意思、\n现在可以招待几个客人过来吗？",
+      "ChoiceDataList": [
+        "是可以……但客人是？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "在我进店之前、\n就一直偷偷观望的孩子们哦。\n真是的……呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "高尚、强击！\n――都出来吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样、伴随着人数增加……\n我们度过了一个热闹的圣诞节之夜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "话说回来……为什么今天会接受邀请呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "毕竟是圣诞节、\n应该很忙吧。",
+      "ChoiceDataList": [
+        "不、很闲哦。更何况――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "拜托了！\u3000请给姐姐一个、\n超棒的圣诞节吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "姐姐要是跟我们一起的话……\n不管怎样、只会做一名“姐姐”的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "虽然那样也可以……\n但是、我们希望她能作为一名赛马娘……\n去度过这个圣诞节。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "跟训练员在一起的话、\n姐姐一定会很开心的！\n所以――求求你了！",
+      "ChoiceDataList": [
+        "――被那么出色的妹妹们拜托了呢",
+        "――被那么出色的妹妹们拜托了呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "呵呵――是啊！\n她们确实、很出色对吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "想着妹妹们展露笑靥的极峰。\n那副姿态、是迄今为止――\n最纯真最美丽的……将我的心彻底夺走了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

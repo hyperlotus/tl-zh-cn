@@ -1,0 +1,585 @@
+{
+  "Title": "抽奖试手气！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "一天、在我和极峰一起出门买训练用品的时候――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "啊……你看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "瞧一瞧看一看、现在正在举办新春・大抽奖～！\n特等奖可是『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "一等奖是『上等胡萝卜肉排汉堡』\n二等奖是『一筐胡萝卜』\n三等奖是『一根胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "来来来、快乐又开心的抽奖哦！\n任何人都可以来试一试～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "是抽奖啊。\n好怀念……。",
+      "ChoiceDataList": [
+        "你好像……挺开心的样子啊",
+        "你好像……挺开心的样子啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "稍微回忆起来了啊。\n以前常和妹妹们挑战抽奖呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼时的强击",
+      "Text": "不要！\u3000不抽到一等奖就不回家！\n人家就要最闪闪发亮的那个嘛～～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼时的高尚",
+      "Text": "…………又、没中……\n我总是、抽不到……、呜呜、呜……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "幼时的极峰",
+      "Text": "强击、姐姐的也给你抽吧。\n高尚……好啦、过来这边。\n我们去找妈妈买肉包子吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "训练员、\n刚才购物的时候有拿到抽奖券吧？",
+      "ChoiceDataList": [
+        "嗯啊、有一张",
+        "嗯啊、有一张"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "那么、请让我去挑战一下吧。\n突然想重温久违的感觉了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "目标自然是――顶点。\n特等奖啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "极峰鼓足干劲、用力转动抽奖机的拉杆！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "结果是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "不得了！\u3000恭喜你啊啊啊啊！！\n抽到了特等奖『温泉旅行券』呀～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "极峰",
+      "Text": "啊……！",
+      "ChoiceDataList": [
+        "我们抽到啦、极峰！",
+        "我们抽到啦、极峰！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "是啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "呼呼、\n温泉吗……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "把家族旅行作为压轴奖品吗？\n真让人期待啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "这里的超级棒的哦～！\n上回我带老妈过去、她可开心了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "小姑娘也和重要的人一块去吧。\n啊、当然和训练员一起也不错哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "说、说的是呢……\n如果是“重要的人”的话――",
+      "ChoiceDataList": [
+        "不、我不算的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "咦――",
+      "ChoiceDataList": [
+        "她还有别的更重要的人！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "极峰要去旅行的话还是和家人一起更好吧。\n那样才能好好地放松。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "归途上、极峰不知为何莫名的沉默、\n当我正想把手里的温泉旅行券递给她时――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "不用了、训练员先保管着吧。",
+      "ChoiceDataList": [
+        "诶、但那样你就――",
+        "诶、但那样你就――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "能去的吧？\n毕竟……您……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "…………不是最清楚、\n我的日程安排吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "现在还不是能放松的时候……\n等一切安定下来的时候、再给我也不迟吧？",
+      "ChoiceDataList": [
+        "那倒是、不急啦……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "好的。\n麻烦您了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "未来的我、总会拿出勇气的吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是乎……莫名其妙的、\n温泉旅行券就由我保管了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "恭喜你们、一等奖～！\n奖品是『上等胡萝卜肉排汉堡』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "极峰",
+      "Text": "一等奖……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "训练员！\n一等奖――第一、是第一啊！",
+      "ChoiceDataList": [
+        "太好啦",
+        "太好啦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "极峰似乎比起奖品更享受中奖的喜悦。\n不过、这样显得汉堡肉蛮沮丧的。",
+      "ChoiceDataList": [
+        "那个、极峰、汉堡……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "啊啊、对了……！\n当然会好好享用的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "这种时候该做的……\n只有那个了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "一家人",
+      "Text": "我开动啦！",
+      "ChoiceDataList": [
+        "我开动啦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "翌日、正好极峰一家人团聚的日子、\n我们享用了以汉堡肉为主菜的团圆饭。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐妹们的母亲",
+      "Text": "嘛啊、小极峰……\n有那么开心的吗？",
+      "ChoiceDataList": [
+        "有的、她都开心到忘了奖品呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "训练员……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "会说这种话的嘴巴就该塞满汉堡肉哦？",
+      "ChoiceDataList": [
+        "我是觉得你那时候很可爱啦……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "啊～、来啦！\n直球攻击～♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "？\n什么啊那是……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "好、好啦！\n快吃、趁热快吃。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "以汉堡肉为中心、餐桌上好不热闹――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "二等奖～！！\n奖品是『一筐胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [
+        "噢噢、好厉害！",
+        "噢噢、好厉害！"
+      ],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "极峰",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "二……『二』等……。\n抽奖也是……！！",
+      "ChoiceDataList": [
+        "极、极峰？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "是啊、一切都是那一天起……！\n从那个时候开始……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "小的时候……我在所属俱乐部战无不胜的时候……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "――第一次尝到、屈辱的第二名……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "在那段甚至感觉自己无所不能的岁月里、\n深深地、铭刻下的挫败的记忆――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "从那以后。每逢重要时刻……\n偏偏就在重要关头！\n“第二”……就像是甩不掉的阴影……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……极峰明显消沉下来。\n但是二等奖本身并无过错。\n商店街的摊主也被带着垂头丧气起来……这时候――",
+      "ChoiceDataList": [
+        "但是你看、胡萝卜好多啊！",
+        "但是你看、胡萝卜好多啊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "诶……？",
+      "ChoiceDataList": [
+        "不是2个、是一大堆啊！……很大量的！",
+        "不是2个、是一大堆啊！……很大量的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "呵呵！\n嗯嗯……是呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "妹妹们……然后是火山同学、\n黄金船同学……\n都分享给大家吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "黄金船"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "于是我和极峰两人、\n开开心心地抱着大量的胡萝卜回去了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "三等奖～！\n奖品是『一根胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "极峰",
+      "Text": "啊啦……真可惜。",
+      "ChoiceDataList": [
+        "看你也没有多可惜的样子……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……因为总比抽到二等奖、心里舒服些。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "可是怎么办呢。\n只有一根的话――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘小女孩",
+      "Text": "好好看的橘色啊。\n好好吃的样子～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……呵呵。\n想吃吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘小女孩",
+      "Text": "！\n姐姐、可以吗！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "当然。胡萝卜先生也一定很想被你吃掉哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "因为很硬、要小心磕到牙啊。\n你要多吃一点、快快长大啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看着极峰娴熟地把胡萝卜递给孩子的模样。\n仿佛我的心都被那份温柔填满了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "可惜、没中奖！\n参与奖是『卫生纸』哦～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "极峰",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "竟然没抽中……\n连二等奖都不是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "再去挑战一次吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "这次一定！\n会拿下胜利给你看……！",
+      "ChoiceDataList": [
+        "抽奖又不是比赛啦……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "极峰似乎被触动了某根心弦、\n表现得比想像中还要激动……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

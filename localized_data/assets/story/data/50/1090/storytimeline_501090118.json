@@ -1,0 +1,292 @@
+{
+  "Title": "My Very Own Triple Tiara",
+  "TextBlockList": [
+    {
+      "Name": "极峰",
+      "Text": "（――对于那时的自己来说、\n这是难以想象的事情）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "呐呐！\n不如趁这个势头！\n赢下三后冠吧♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "目前为止只有3位赛马娘达成了哦？\n不是那么简单的事情啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（没错、即便是在……\n非凡赛马娘云集闪耀系列赛中、\n也只有出类拔萃的马娘才能获得这个称号）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "『三后冠、就由我收下了』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "贵妇人",
+      "Text": "『因为那桂冠……\n很适合我呀』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（虽然有些气愤……但说实话、\n我打心底觉得――她的话、\n还真的有可能做到）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（相反我从未觉得……\n自己真的能拿下那份荣誉）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（……但是现在、我确实将其抓在了手里）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（这真的……不是、做梦吧……？\n我居然、成为了三后冠赛马娘――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "『姐姐姐姐姐姐♡\n恭喜你赢下三后冠呀♡』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "『姐姐。不好意思刚才没怎么表示。\n不过、我真的佩服你很厉害。\n再次恭喜你赢下三后冠』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "『极峰。虽然已经说过很多次了、\n但是……无论多少次我还是要说。\n恭喜你赢下三后冠！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "『极峰。虽然已经说过很多次了、\n但是……无论多少次我还是要说。\n恭喜你赢下三后冠！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "好耶～～……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北港火山",
+      "Text": "………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北港火山",
+      "Text": "――就是这样、极峰同学她\n这几天总会在半夜暗自兴奋……。",
+      "ChoiceDataList": [
+        "这、这样啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北港火山",
+      "Text": "我感觉她最近的身体状况不太好……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北港火山",
+      "Text": "但是她本人好像没注意到的样子、\n而且因为各种原因、\n我也不好直接开口跟她说。",
+      "ChoiceDataList": [
+        "所以你过来找我了啊",
+        "所以你过来找我了啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北港火山",
+      "Text": "是的。她总是怀疑自己在做梦、\n我希望你能让她明白这就是现实！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北港火山",
+      "Text": "――啊、她来了！\n就是、千万不要告诉她是我说的啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "您和火山同学聊了什么？",
+      "ChoiceDataList": [
+        "……聊、聊了今天的点心！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……是吗、\n她在给您推荐苫小牧的特产啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "她的推荐可以听听不亏的。",
+      "ChoiceDataList": [
+        "这、这样吗……",
+        "这、这样吗……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "话说、\n您找我有什么事吗？",
+      "ChoiceDataList": [
+        "……再次恭喜你、赢下三后冠！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "呵呵、\n谢谢你！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "不过不管听到多少次祝福、我还是觉得这一切是场梦。\n没想到、自己真的成为了三后冠赛马娘……。",
+      "ChoiceDataList": [
+        "……事到如今、还是不敢相信吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "因为……挡在我面前的高墙……是那样的高大。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "我还以为、这一生都只能望其项背……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……这一切、都是真的吗？\n这样子、真的可以的吗……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "有时候我难免会这样想。\n很奇怪是吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看来她不仅觉得自己是在做梦\n同时还有着『自己真的可以吗？』的不自信\n觉得自己不配这个称号。既然如此――",
+      "ChoiceDataList": [
+        "我倒觉得这根本不是梦",
+        "我倒觉得这根本不是梦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "诶？",
+      "ChoiceDataList": [
+        "那时候、我不是说了嘛？",
+        "那时候、我不是说了嘛？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『你赢下后冠的样子一定很美』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『你赢下后冠的样子一定很美』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "正如我说的那样……\n当极峰拿下三后冠的时候、\n她真的既美丽又高雅。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她克服恐惧、燃烧斗志……\n顽强地迈出最后一步、\n三后冠非她莫属。",
+      "ChoiceDataList": [
+        "现在的你不是任何人的二把手、你就是顶点啊！",
+        "现在的你不是任何人的二把手、你就是顶点啊！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "训练员……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……是、啊。\n你说的对……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "我……\n我就是、三后冠赛马娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "虽然现在还需要休息休息……\n等到我能发挥全力的时候――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "再继续攀登吧！\n――朝着下一个顶点！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

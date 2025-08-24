@@ -1,0 +1,396 @@
+{
+  "Title": "情人节",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "在情人节的数天前――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店员A",
+      "Text": "来自迪拜的最时尚巧克力品牌、\n『赫雅・慕』队伍的最后在这里！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "店员B",
+      "Text": "已经登上电视荧幕的！\n现在人气爆棚的贝壳型巧克力\n数量有限！\u3000欲购从速哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "呼……\n今年也开始了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "情人节……！\n――绝对要赢下来！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在工作告一段落时、我想到了极峰的事情。\n她为了给家人买情人节礼物外出了一段时间。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看来她每年为了妹妹们能够开心、\n都会主动搜集各种信息并积极参与其中、\n干劲十足啊。",
+      "ChoiceDataList": [
+        "（我也准备点什么吧）",
+        "（我也准备点什么吧）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "希望能够慰劳总是在为了谁而努力的她\n……思考再三、最终硬是选择了王道的人气品牌。",
+      "ChoiceDataList": [
+        "（目标就瞄准、巧克力界的顶点！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是迎来了情人节当天。",
+      "ChoiceDataList": [
+        "已经把巧克力送给家人们了吗？",
+        "已经把巧克力送给家人们了吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "嗯。\n大家都非常开心呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "特别是强击开心得不得了……！\n排了两个小时的队也算是值得了。",
+      "ChoiceDataList": [
+        "这样啊、那就好",
+        "这样啊、那就好"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "是啊。\n……然后、那个。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "情人节快乐、\n训练员！",
+      "ChoiceDataList": [
+        "咦……送我的？",
+        "咦……送我的？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "嗯。之前外出买礼物、\n在训练计划的调整上给你添了麻烦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……当然、也不只是这样、\n也包含了对迄今为止的种种、这是对此的谢礼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "虽然仅仅这些还远不足够。\n但是……一直以来、非常感谢。",
+      "ChoiceDataList": [
+        "……那、我也表示下一直以来的感谢！",
+        "……那、我也表示下一直以来的感谢！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "诶……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "――诶……请等一下。\n这个品牌、难道说……。",
+      "ChoiceDataList": [
+        "相当有名的牌子对吧？",
+        "相当有名的牌子对吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "是啊！\u3000其实……我、很喜欢这个品牌。\n入口即化的丝滑口感我很中意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "而且最近都没有机会吃到、\n我真的非常开心！",
+      "ChoiceDataList": [
+        "那太好啦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "不过……既然是王道的品牌、\n不会反而很难将其纳入选项吗？\n毕竟我也做过各种各样的调查……。",
+      "ChoiceDataList": [
+        "不会哦、我反倒觉得这样不会选到重复的礼物"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "极峰会为了妹妹们每年都准备新的品牌。\n既然如此、她肯定会避开王道的牌子吧――",
+      "ChoiceDataList": [
+        "一想到是为了你选的、就没什么好迷茫的了",
+        "一想到是为了你选的、就没什么好迷茫的了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……非常、感谢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……那个、\n这个巧克力的话……。",
+      "ChoiceDataList": [
+        "当然、跟妹妹们一起吃吧",
+        "当然、跟妹妹们一起吃吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……不讨厌吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "明明是特意送给我的礼物、\n却要跟别人分享。",
+      "ChoiceDataList": [
+        "因为我知道、那对你而言就是最大的喜悦",
+        "因为我知道、那对你而言就是最大的喜悦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……谢谢您。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "嗯～、好好吃～♡♡\n这个品牌我也最喜欢了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "但是、真的好吗……？\n……不是训练员、送的吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "没关系、尽管放心享用吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "毕竟训练员、真的……\n非常了解我呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "…………怎么办。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（没想到训练员会为我想了那么多）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（而我就那样送他、真的好吗？\n虽说选了比给妹妹们的更成人的品牌……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（……但是真的、这样就行了吗？\n这样真的能称得上为他尽心尽力了吗？\n现在的话、去特卖会还来得及再追加――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……不行、那样也还是不够。\n既然如此……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……嗯、额外的隔水加热也完成了！\n接下来就是再切割巧克力做装饰……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "呜、做得不太行啊……！\n还有没有其他能用的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "……冰箱第二层的里面。\n有玫瑰形状的食用花、用那个如何。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "诶？\n那个……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕织姬",
+      "Text": "……好歌剧强塞给我的、我也用不着。\n不需要的话就扔了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "好歌剧"
+      ]
+    },
+    {
+      "Name": "极峰",
+      "Text": "啊……\n谢、谢谢你！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "好、这下装饰也没问题了。\n再就是……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（考虑到宿舍的门禁、时间已经不够了……\n还来得及吗……！？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……不、一定要赶上！\n就跟以前、给妹妹们做的时候一样――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "贯彻心意、拼尽全力去完成！\n这场比赛……我绝不能输！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这天晚上、我突然被极峰叫出来。\n然后――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "训练员！\n――请收下这个！",
+      "ChoiceDataList": [
+        "诶、这个是……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "情人节的巧克力蛋糕。\n新鲜出炉、还热气腾腾的呢。",
+      "ChoiceDataList": [
+        "你亲手做的！？刚刚不是才给我……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……不论哪一个、我都……\n倾注了重要的心意。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "一个是、表达感谢的心情。\n另一个是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "为你竭尽所能地考虑的、\n最――",
+      "ChoiceDataList": [
+        "………………最？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "最、最……最……\n最――最感激的心情、啦！",
+      "ChoiceDataList": [
+        "极峰……我才是要谢谢你！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "欸、嗯嗯。\n你能喜欢就是最好的回报了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "（好险、差点就把平时对妹妹们会说的话脱口而出了……。\n――姑、姑且SAFE……吧？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
