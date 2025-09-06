@@ -70429,6 +70429,21 @@
       "size": 6722
     },
     {
+      "path": "assets/story/data/50/1097/storytimeline_501097702.json",
+      "hash": "9664bbada9cfda4a06587494731aeab1866469760fd8dde04c75ad4dc9835c70",
+      "size": 7054
+    },
+    {
+      "path": "assets/story/data/50/1097/storytimeline_501097703.json",
+      "hash": "b38888ff89f3aad4b46a0250fc1998d7668385f398885803d08186624002f887",
+      "size": 9956
+    },
+    {
+      "path": "assets/story/data/50/1097/storytimeline_501097704.json",
+      "hash": "d4535f22ad68c66439203fd4f0577dbe0efa8c85f4bf6bd1811aa755c3dbe365",
+      "size": 11164
+    },
+    {
       "path": "assets/story/data/50/1098/storytimeline_501098100.json",
       "hash": "4ccebc427bcacc4228be453bfed7b52d3edb1e26eff37a326a942cca990a94ee",
       "size": 10507
@@ -81224,6 +81239,21 @@
       "size": 6119
     },
     {
+      "path": "assets/story/data/83/0265/storytimeline_830265001.json",
+      "hash": "d61afbf4a4d4cf3484ebbbbe4eefa8e7867c51836b164c4ebf894cc197573c70",
+      "size": 5730
+    },
+    {
+      "path": "assets/story/data/83/0265/storytimeline_830265002.json",
+      "hash": "9170bf1f954e0ae52f556217be0ee88d14669a64fcb475ce083510e7462c2e42",
+      "size": 5883
+    },
+    {
+      "path": "assets/story/data/83/0265/storytimeline_830265003.json",
+      "hash": "28ba7a17b35875d0f3b84ee5f57cbda23ef476511e6e04f88a7b2cd52a471e50",
+      "size": 5130
+    },
+    {
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1001_01.png",
       "hash": "fa5c13f590b3edc1ba48282e888c13004deb30c497c7e1acfb53c1651bea0ce7",
       "size": 97978
@@ -84179,6 +84209,51 @@
       "size": 112665
     },
     {
+      "path": "assets/textures/single/banner/bnr_001.png",
+      "hash": "4dc0246a787dfebf0a8fa4216070b54cdbc9d887a24469a61e07e9a3b0d1b1f2",
+      "size": 182185
+    },
+    {
+      "path": "assets/textures/single/banner/bnr_001_text.png",
+      "hash": "34dc24fa51463cfdaf26f8fcddce0b765c42307fab5156d11e3806ab01b30df5",
+      "size": 107848
+    },
+    {
+      "path": "assets/textures/single/banner/bnr_002.png",
+      "hash": "2ad297e5edb0a166cffd75f249ca7dec6677a1cd716e0b7ff76008af38e60f5a",
+      "size": 161327
+    },
+    {
+      "path": "assets/textures/single/banner/bnr_002_text.png",
+      "hash": "5f3f6e49172d589264b6002f9e2f9120660e4f1db2d427271cf765123307f8b9",
+      "size": 119737
+    },
+    {
+      "path": "assets/textures/single/banner/bnr_004.png",
+      "hash": "11f3c727cf0d3b4e6a4e346f85bfb4f5450bd9bf670c9deeb4f42470c2dc82a4",
+      "size": 201293
+    },
+    {
+      "path": "assets/textures/single/banner/bnr_004_text.png",
+      "hash": "5a2673c6193c40440ab72e6f53a488669086e45f9bde5c16f6f133a6c95d95db",
+      "size": 120960
+    },
+    {
+      "path": "assets/textures/single/banner/bnr_ico_001.png",
+      "hash": "fd7fd55e1024917c49cdbcf4114e7c1418dd706159f54f0ab5619aa5169e6680",
+      "size": 25877
+    },
+    {
+      "path": "assets/textures/single/banner/bnr_ico_002.png",
+      "hash": "f99d16195347c10fea66ee49fe534baad65f61a4466d952a4b6b4b9d6c6a9ae7",
+      "size": 26551
+    },
+    {
+      "path": "assets/textures/single/banner/bnr_ico_004.png",
+      "hash": "60726f0b19a0b3c18d083005f8fdfba0857d54ecdeddc371205a8ff3e310f828",
+      "size": 29224
+    },
+    {
       "path": "assets/textures/transferevent/00001/transfer_event_logo_00001.png",
       "hash": "144ef0ebd910a0dc33754d16882fae6346ff5e38b7ef09905cf0b57ffc70cfa0",
       "size": 161604
@@ -84205,8 +84280,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "77697e62aaf68da97a98d47b265eff513420fe31fdb39fd1bba79ebe4aa74290",
-      "size": 2362010
+      "hash": "38952f6c7959398bef857f10dd7f7cf3841f94be3e4540ec82429b7223054c8b",
+      "size": 2361355
     },
     {
       "path": "config.json",
@@ -84230,8 +84305,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "c8b36e40965e69712f4dadb48b6315a0a06f2c76c19ebd860757d17436fe1989",
-      "size": 417921
+      "hash": "d88fcf50e33e4c84a448e7809ebe05e8288c7dd6965e238eac93b41fb779e20e",
+      "size": 419238
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -84245,8 +84320,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "e644bec268f50f10b6211dfd8dc7fa2cf55f6983edc15970017bdbf825e1209d",
-      "size": 4820106
+      "hash": "d4c7bac6ba544a6357a8dcf68e5c3b5ab9423b98b0fe2c32b451de449be0855e",
+      "size": 4824292
     }
   ]
 }

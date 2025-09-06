@@ -1,0 +1,219 @@
+{
+  "Title": "その物語は胸を焦がして",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "我在和爱如往昔漫步街头的时候、\n发现了一家她可能会喜欢的书咖。\n想着或许能转换下心情便带她进来了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……没想到会有这么多的小说啊。\n简直、让人眼花缭乱……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "啊啦……这本书是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……果然。\n这个封面……与记忆中的一模一样。",
+      "ChoiceDataList": [
+        "这个是以前看过的小说吗？",
+        "这个是以前看过的小说吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "是的、以前读过。\n……是一部以战国时代为背景的历史小说。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "出生在动荡的乱世的、\n武士主人公跌宕起伏的人生令我心潮澎湃……\n以前曾把自己关在屋子里、沉醉其中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "如今重温当时的激动……\n也很美好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是、我也挑了一本小说、\n和她一块读起书来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……呜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "――――――",
+      "ChoiceDataList": [
+        "（咦……哭了……！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……真是、精彩的故事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "难得见到平日沉稳娴静的她会这般感动……。",
+      "ChoiceDataList": [
+        "能跟我讲讲写了怎样的故事吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "好啊……。可是纵有千言万语、\n也道不尽这本书的魅力――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "重读时最打动我的……\n是身为武士的主人公对未婚妻的深刻爱恋。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "政治联姻是那个时代的常识……\n但幸运的是、他们二人真心相爱着彼此。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "两人曾立下誓言。\n一定要共同建立幸福的家庭……\n可是未婚妻却因病去世。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "而主人公始终对她念念不忘……\n甚至不惜舍弃武士的身份……\n终生……未娶――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……对、对不起……！\n胸口、不受控制地――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "正因为是最爱的人……\n即便相隔甚远、也依然念念不忘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "真是个……非常、\n令人心碎的凄美故事啊。",
+      "ChoiceDataList": [
+        "原来你对这本小说投入了这么深厚的感情啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "…………。\n虽然的确是从以前就喜欢的小说――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "但在印象里、从未流过泪的。\n……没想到这次会这么感动……。",
+      "ChoiceDataList": [
+        "也许是因为你成长了吧",
+        "也许是因为你成长了吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "原来如此……或许是因为多年前读过的小说吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "可正因此、才能获得新的感悟……\n能遇见这本小说、真是幸运。",
+      "ChoiceDataList": [
+        "我也看看那本小说吧",
+        "我也看看那本小说吧",
+        "说不定、这样的书还不少呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "可正因此、才能获得新的感悟……\n能遇见这本小说、真是幸运。",
+      "ChoiceDataList": [
+        "我也看看那本小说吧",
+        "我也看看那本小说吧",
+        "说不定、这样的书还不少呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "咦……训练员、也要看……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "能让爱如往昔如此魂牵梦萦的小说……\n我实在好奇究竟是个怎样的故事啊。",
+      "ChoiceDataList": [
+        "感觉、它一定会是一部刻骨铭心的作品啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……是、是啊。\n请你……一定要读读看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "愿这个故事、也能铭刻在你的心底……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "呵呵、是呀。童年看过的小说确实有不少……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "这样聊着、莫名有些怀念了呢。\n……下次、不妨都重温一下吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
