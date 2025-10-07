@@ -34,6 +34,11 @@
       "size": 461784
     },
     {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_footer_landscape_btn00/tx_uTex_fl_footer_landscape_btn00_0.diff.png",
+      "hash": "97b57add4aa38edeb001b62c7ba2a830ac325f61b9fb3225d11f9fafea86dc69",
+      "size": 33170
+    },
+    {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_gacha_chara_piece00/tx_uTex_fl_gacha_chara_piece00_0.diff.png",
       "hash": "1c607acc9de1a5a801b27f95541d98c537c2e3b9123f55372eab8882df94b8e9",
       "size": 161836
@@ -84315,13 +84320,13 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "eafcc89aef5c10a1c2f665b7bb661d364c73157c044be67fa9eacd0825a3a1d3",
-      "size": 413304
+      "hash": "4e2150ec78277ffc60273d67fed4ad39ed0ce7fc3d3f48133cc18ac018b0a2e8",
+      "size": 413618
     },
     {
       "path": "localize_dict.json",
-      "hash": "8c7366dae2b3980fd59c973ee4d1ad2afa650646e554f471d7ef0fe096b6731d",
-      "size": 419757
+      "hash": "5f7ce148250bcd061568947b11247922f2bfa17dc6fec505ba433e35ece393ca",
+      "size": 420858
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -84335,8 +84340,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "16cd83d8298356e305f70bcbc29debe8de99b382cc41e30c4b21d8fb872183a0",
-      "size": 4826280
+      "hash": "fad9288c28aba81fd5ed568310174f176d8234500a6b402bad0a231e7ab9f720",
+      "size": 4827491
     }
   ]
 }
