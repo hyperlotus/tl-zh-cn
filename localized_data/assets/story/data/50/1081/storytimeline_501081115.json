@@ -1,0 +1,807 @@
+{
+  "Title": "已经迈过的、将要跨越的",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "今天也打开了教科书、\n开始一天的训练！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "为啥来无人岛……？",
+      "ChoiceDataList": [
+        "想让你在和学园不一样的“泥地”上跑跑",
+        "想让你在和学园不一样的“泥地”上跑跑"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "虽说都叫泥地赛道、\n但是砂质的差别很大。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "中央的泥地、地方的泥地。\n就连各地方的砂土厚度都有差异、\n每个赛场各具特色。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那么就不能专精于特定的砂土赛道……\n而是练就能适应任何赛场的能力。",
+      "ChoiceDataList": [
+        "这里的砂质刚好处于中间段"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……少耍小聪明！\n总之跑就是了的意思呗！",
+      "ChoiceDataList": [
+        "我会用测速仪记录你的速度！",
+        "我会用测速仪记录你的速度！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "嗷！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "乌拉啊啊啊啊～～～～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我将加速中的希望城的速度详细记入笔记。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "身为领放或先行的赛马娘、\n想具备掌控比赛节奏的能力、\n需要掌握精准的计时能力。此外――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "呜嗷嗷嗷嗷嗷～～～训练员――――！\n老娘、时速到60km啦～～～！",
+      "ChoiceDataList": [
+        "不、现在时速50km！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "还差这么多啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "还必须磨练出对奔跑速度的准确感知能力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈啊……呼……\n训练员……下回――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘给你跑个正好55km的速度看。\n……别小瞧老娘的感知力口牙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这之后希望城也通过不断训练稳步成长着……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "好～～～！\u3000模拟赛第一！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "甚至与学校里的实力派赛马娘竞争也能取得好成绩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……嘿嘿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "而且这些成果、\n正引领她迈向下一个阶段。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "嘛啊～、训练员先生和希城一起来啦！\n简直像家访一样呢♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "快请这边坐。\n今天来是有什么事吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――大约4个月前、她的母亲曾偷偷、\n向我倾诉了对女儿的担忧。",
+      "ChoiceDataList": [
+        "（所以……我想直接让她见识女儿的成长）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "我在模拟赛轻松拿下第一哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "虽然对手里也有参加过重赏赛的赛马娘、\n但完～～全不在话下！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "啊啦……希城真厉害啊～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――！\u3000那――――当然！！\n小菜一碟啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我欣慰地看着在母亲面眯起眼睛的她。\n但今天要汇报的不止这些。",
+      "ChoiceDataList": [
+        "她已经具备参加泥地GⅠ的实力了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "嘛啊～～～！？\n希城她？\u3000泥地GⅠ？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "虽说要观察到夏天、\n但不用听这家伙磨叽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "嘛……基本上确定能参加。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "好～～厉害！\nGⅠ欸……那可是赛马娘的梦想哦？\n妈妈当年也想参加的呢～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哼！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "当前计划是参加10月举办的\n『英里冠军赛南部杯』。\n这个时间点的话――",
+      "ChoiceDataList": [
+        "一定能在『英里CS南部杯』拿下冠军的"
+      ],
+      "ColorTextInfoList": [
+        "英里冠军赛南部杯"
+      ]
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈、这话说得不错。\n也没什么可大惊小怪的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "可是、这么宏大的目标……！\n那个、训练员先生、您真的、\n对这孩子抱有这么大的……。",
+      "ChoiceDataList": [
+        "她就是强的值得这样的期待"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――没错。老娘肯定拿第一。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "……呜、是吗……！\n呵呵、是吗……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "希城。妈妈可以再靠近你一点吗？\n就一会儿……不好意思啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "才一阵子没见、又长大了啊……\n真是的……希城你这孩子……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "……啊、对了！\n得赶紧告诉你爸爸才行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……我爸？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "他刚好在你们过来之前出门了。\n我打电话叫他马上回来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "真是的、为什么偏偏今天……。\n明明事先告诉过他希城要回来的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "不用了！！",
+      "ChoiceDataList": [
+        "――！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……老爹来不来无所谓。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "…………。\n老娘也不想见他。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "希城……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "笼罩在希望城凶狠的气势下、\n我忽然回想起来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "蠢货！\n臭老爸怎么可能对我有期待啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……那家伙……！\n明明在育成俱乐部当着训练员……！\n那家伙却对老娘……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "那孩子因为那份逞强、\n已经失去了太多可能性。\n包括她和生父之间的事情也是。",
+      "ChoiceDataList": [
+        "（希望城的父亲吗……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……看来这场“家访”还不能就此结束。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "呐、真的送到这里就可以了吗？\n还是送您到车站吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "行啦！\u3000赶紧回家进屋呆着！\n走啦、训练员！",
+      "ChoiceDataList": [
+        "抱歉、你先回去吧。我有个想去的地方"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈――――？",
+      "ChoiceDataList": [
+        "抱歉！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊……喂！！\n～～……啧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "药店在转角右拐！\n超市的话在第三个十字路口左转！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "沐浴着她刀子嘴豆腐心的关切、我奔向目的地。",
+      "ChoiceDataList": [
+        "这附近最大的育成俱乐部在――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "育成俱乐部职员",
+      "Text": "头！\u3000来客人啦！\n好像是您女儿的训练员！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "啊？\u3000女儿的……。",
+      "ChoiceDataList": [
+        "您好初次见面"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "……您好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "晒得黝黑的他有着和希望城一样的发色……\n高挺的鼻梁也与她如出一辙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "请坐。\n办公室狭小请见谅……请用茶。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "……有点热吧。\n我这就去拿水。",
+      "ChoiceDataList": [
+        "不了、您不必麻烦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "……。刚从妻子那里接到消息。\n刚才您还和希城在家里吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她的父亲双臂交叉、有那么一瞬沉默不语。\n然后散发出强大的压迫感、眉头紧锁――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "――……我妻子应该也明白的。\n老子、还是不在场比较好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "要是我在家、那丫头连话都说不好。\n……重要的事情就更没法说了吧。",
+      "ChoiceDataList": [
+        "（……？啊咧……？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我曾经因为希望城表露的敌意、\n以为她的父亲是“她的敌人”。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但在实际会面之后感觉他、\n虽然举止粗鲁……却更显得笨拙――",
+      "ChoiceDataList": [
+        "那个、您之前不在家是因为……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "……比起那事还是进入正题吧。\n反正是关于女儿和我的事情吧。",
+      "ChoiceDataList": [
+        "……。能请您讲讲吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "……行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "……顺便问下、训练员先生。\n那丫头总是用逞强掩饰内心吧……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "您是怎么说服那个胆小的女儿奔跑的。",
+      "ChoiceDataList": [
+        "我……",
+        "我……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……恐怕在这里就没必要隐瞒了。\n于是我把与她相处至今的经历娓娓道来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "说起如何费心指导靠虚张声势粉饰自卑的她。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "提起借助“教科书”……\n给予她临时的自信以及之后状态的好转。",
+      "ChoiceDataList": [
+        "……但这终究只是权宜之计"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她终有一天……\n要直面内心的软弱并战胜它。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "……这样啊。\n您在巧妙地指导着她呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "老子我、就没能这样做到。\n而是选择了直截了当的方式。",
+      "ChoiceDataList": [
+        "直截了当是指……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "就是直话直说。\n让她承认自己的软弱。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "……心理问题、\n就该尽早解决才是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "实际上、老子指导过的赛马娘们、\n都克服了各自的弱点获得了巨大的成长。\n可是那丫头却――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "――那天那丫头也净做些\n超出自己能力范围的胡来的训练。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "『给我承认做不到的事情就是做不到啊！！\n蠢货……！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "『哈啊…………明明那么弱、\n就别净是逞能口牙……！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "再没有谁去阻止的话、她的腿早晚会废掉的。\n就算不是现在也会在未来的某天。……所以。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "『先承认自己很弱！\n――否则你根本没可能变强口牙！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "『――！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "『少瞧不起……少瞧不起人、少瞧不起人口牙！\n别再说老娘弱口牙！！\u3000臭老爸！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "――就是从那时起。\n那丫头开始像烈火般反抗我。",
+      "ChoiceDataList": [
+        "…………"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "……这本该是必要的教育啊。\n我见过太多像那丫头一样的孩子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "可是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "……训练员先生、\n您认为对希城而言、\n什么样的教育才是必要的？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "对于赛马娘来说……对于那丫头来说。\n您认为教育者的职责究竟是什么？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……慢死了。\n那家伙到底什么时候回来啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "难道迷路了？\n那也该打个电话吧――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "希城同――学！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "呜哇、飞鹰子！？\n你突然干嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "――请教飞鹰子跑泥地吧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "之前希城同学\n不是在泥地模拟赛拿第一了嘛？\u3000所以啊――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "求你了求你了！\n这是飞鹰子、一生仅一次的请求――――☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "等……等等、飞鹰子！\n老娘可是知道的！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "你不是跑草地的！\u3000……经典三冠！\n不是还参加了『皐月赏』吗！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "经典三冠",
+        "皐月赏"
+      ]
+    },
+    {
+      "Name": "希望城",
+      "Text": "说什么要成为顶尖马娘偶像！\n……所以才选的草地不是吗！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "嗯、但是对草地的挑战已经结束了！\n我下定决心要冲刺在泥地路线上！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "你丫……难道是因为发现自己不适合草地。\n所以放弃了……才来泥地的吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "因为自己弱、就放弃梦想――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "恰恰相反哦！\u3000飞鹰子不会放弃梦想！\n人家一直以来的目标、\n都是成为『泥地顶尖马娘偶像』的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "人家也知道自己赢不了『皐月赏』。\n但是『winning the soul』、\n是只有赢下经典三冠才能唱的歌啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "就算知道自己真正的适性在哪里、\n人家也想完成那最初也是最后的挑战啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "人家从现在起要正式开始学习泥地啦！\n虽然起步晚、但人家会拼命赶上的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "……呐？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "不是、什么『呐』啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "飞鹰子＆希城",
+      "Text": "求你了求你了、一生仅一次的请求――――！\n……呜啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "笨拙的父亲与其女儿的担当训练员。\n砂土的雏鸟与爱吼叫的倔强少女。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……彼此的相遇、或许改变了各自未来的轨迹。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

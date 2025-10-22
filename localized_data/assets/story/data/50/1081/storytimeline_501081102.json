@@ -1,0 +1,595 @@
+{
+  "Title": "初詣",
+  "TextBlockList": [
+    {
+      "Name": "醒目飞鹰",
+      "Text": "但这份弱小……\n正带领我前往下一个舞台呢。\n仿佛在说『下次一定要赢啊』、呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "所以为了让大家看到“全力以赴的我”！\n马娘偶像才能不断前进！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "就算结果不尽如人意、\n只要重新站起来继续挑战就好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "谁最初都是弱小的。\n但是这有什么好羞耻的呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……不对。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "不对――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『好的、比赛开始了！\n在大井举办的年终压轴大战拉开了帷幕！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『狂怒乐章起步出色！\n醒目飞鹰也向前冲刺』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『今天将是这两位的对决吗。\n好、现在局势发生了变化。\n醒目飞鹰抢占了领先位置！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "狂怒乐章……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我绝不认可船桥永远低人一等的评价。\n更断然不能接受。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "我作为船桥的代表、\n要打倒你们这些中央的――强大的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "狂怒乐章……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『现在进入最终直线！\n领跑的醒目飞鹰一路高歌猛进！\n狂怒乐章正在奋勇直追！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『后方的马娘们的也追上来啦！\n――狂怒乐章没能追上！\n领先的是……醒目飞鹰！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『醒目飞鹰！\n醒目飞鹰第一个冲――线！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "大家、感谢你们的支持――！\n飞鹰子、获得第一名啦――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客",
+      "Text": "嗷嗷嗷嗷――――！\n飞鹰子――好可爱呀――――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "诶嘿嘿、好开心♪\n能收到大家这么盛大的祝贺真的――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "真的…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "……、那个。\n飞鹰子、有话想对大家说！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "人家得以比想象中的还要早的、\n站在这么多人面前。……就像是做梦一样。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "但这里不是梦境呢。\n因为“那段时光”确实存在过啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "重新审视自我的那天也是！\n还有锤炼自身弱点的那些时光也是！\n所以才有了今天的人家――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（关――）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "训练员A",
+      "Text": "哇啊――、讲得太感人了～……！\n我也要对队里的孩子们这么讲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "训练员A",
+      "Text": "『审视自我、点滴改进、塑造未来的自己吧』\n……怎么样？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "训练员B",
+      "Text": "不错嘛？\u3000心理问题尤其会影响到古马级的孩子呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "训练员B",
+      "Text": "有些孩子在经典级表现出色、\n但到了古马级成绩却突然下滑。\n当身边的对手都成熟起来、自然就会感到落差――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――～～～……啧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……闭嘴…………！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "新年伊始、正值正月。\n从今年开始希望城就升入古马级了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "刚迎来新年、希望城就发来联络\n『有话要说』的把我叫出来了。但是――",
+      "ChoiceDataList": [
+        "（来了之后她就一直这个样子）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我打开教科书、\n一一确认起至今为止对她用过的应对方法。\n这种时候……。",
+      "ChoiceDataList": [
+        "（……究竟怎么做才是正解啊）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『利用她好胜的性格激发干劲』\n『营造值得她信赖的能发挥实力的环境』\n『便当里加汉堡肉讨她欢心』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『想让希望城变强、然后\n想让她成为能认可自身强大的赛马娘』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……写在教科书角落里的这句话\n仿佛在静静地注视着我。",
+      "ChoiceDataList": [
+        "……――呐、希城",
+        "……――呐、希城"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我并不知道现在应该采取的正确行动是什么。\n但我能确定的是、她在强行压抑着什么。",
+      "ChoiceDataList": [
+        "要不要稍微出去走走？",
+        "要不要稍微出去走走？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（啊哈哈……哇啊――！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "正值新年参拜的时节、\n神社里熙熙攘攘的满是前来祈福的人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……甜酒的味道……。",
+      "ChoiceDataList": [
+        "想喝吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。才没有！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她虽然依旧摆出那副叛逆的态度、\n但声音已经比之前响亮了不少。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "或许可以继续这样转换心情。\n那这里就……。",
+      "ChoiceDataList": [
+        "那我去买点甜酒来吧",
+        "那我去买点甜酒来吧",
+        "要不要比试下抽签啊？",
+        "好嘞、去海边逛逛吧！",
+        "好嘞、去海边逛逛吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "或许可以继续这样转换心情。\n那这里就……。",
+      "ChoiceDataList": [
+        "那我去买点甜酒来吧",
+        "那我去买点甜酒来吧",
+        "要不要比试下抽签啊？",
+        "好嘞、去海边逛逛吧！",
+        "好嘞、去海边逛逛吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "都说了才没……。",
+      "ChoiceDataList": [
+        "知道、所以就买我那份",
+        "知道、所以就买我那份"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈？\u3000就你那份？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "你怎么……这么抠啊！\n你喝老娘也要喝！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "等等！\u3000……别跑啊！\n可恶……请客啊――――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是、就这么吵吵闹闹的、\n我们回到了特雷森学园。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她突然开始翻找起来。\n……像是在衣服口袋里摸索有没有零钱似的。",
+      "ChoiceDataList": [
+        "才100块我付就行",
+        "才100块我付就行"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "什……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……～～啧、马上就还你啦！\n回到学园就！\u3000马上！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "别以为这是我欠你的口牙！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是、就这么吵吵闹闹的、\n我们回到了特雷森学园。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈？",
+      "ChoiceDataList": [
+        "不想去看海？",
+        "不想去看海？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "才不是、就――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……今天。不想去。",
+      "ChoiceDataList": [
+        "……是吗",
+        "……是吗"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她别过脸去、\n我无从得知她此刻的想法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但还是忍不住祈祷\n……愿她的心能多少轻松一点也好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是、就这么吵吵闹闹的、\n我们回到了特雷森学园。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……这样外出散心真的好吗。\n要是我能做得更体贴一些的话――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――……训练员。",
+      "ChoiceDataList": [
+        "！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……那个、啊。\n………………就是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "………………啧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……就是！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "――希城？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――…………！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我追随她的视线方向看去。\n那里站着一位本不该出现在学园里的人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……为什么……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "为什么你这家伙……！\n会在这里……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "……只是被叫来的罢了。\n作为育成俱乐部的代表听听这边的意见。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "倒是你这孩子、有在好好干吗。\n你的――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "『先承认自己很弱！\n――否则你根本没可能变强口牙！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……呜！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "喂！\u3000希城！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（……弱小、有什么好的啊）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（……怎么可能好啊……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（我根本不想妈住院。\n我好寂寞、想要有她陪着我）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（想要爸对我有所期待。\n想听他在大家面前夸我这孩子很强、\n……想要被多多表扬）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――那样软弱的自己。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "那样软弱的自己……\n到底哪里好啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "那个不让妈担心的老娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "那个没有输给那家伙、\n选择踏上赛场的老娘……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "难道不行吗……难道错了吗……\n示弱怎么可能就是对的口牙……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――……根本、不可能口牙……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

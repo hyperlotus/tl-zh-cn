@@ -1,0 +1,319 @@
+{
+  "Title": "帝王赏にむけて",
+  "TextBlockList": [
+    {
+      "Name": "荣进闪耀",
+      "Text": "太棒了！\u3000飞鹰子同学、\n比预定的时间缩短了0.2秒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "真的吗！？\n……耶♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "飞鹰子酱――！\n『帝王赏』也要加油哦――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "哇――、感谢你的应援――☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者A",
+      "Text": "醒目飞鹰、跑法堪称完美呢。\n起跑干净利落、中程也毫不松懈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者B",
+      "Text": "而且还很惹人怜爱呀～。\n哦、又朝我们挥手了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者A",
+      "Text": "简直是理想的泥地赛马娘啊。\n相比之下――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "这种作战根本不是老娘的风格口牙！\n没劲！",
+      "ChoiceDataList": [
+        "那中盘保留脚力的呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "不能没有爆发口牙！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者A",
+      "Text": "哎呀～虽然早就听闻希望城很固执……。\n训练员先生真是不容易啊～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者B",
+      "Text": "据说她在训练中也总按自己的规矩来。\n教导这样的孩子确实很费神啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者A",
+      "Text": "啊咧、但是他们好像谈得挺投入。\n……嗯？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "这样怎么样？\n老娘对爆发力很有自信。\n而且起跑这块也有你的保证。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "这样的话、\n老娘不是从一开始就能干掉飞鹰子嘛？",
+      "ChoiceDataList": [
+        "原来如此……愿闻其详",
+        "原来如此……愿闻其详"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者A",
+      "Text": "嗯……？\u3000那个训练员、\n刚才是不是说了『愿闻其详』……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者B",
+      "Text": "吼……是让希望城自己提出战术、\n这样她也愿意配合的意思吗。\n这招对强势的赛马娘的确有效。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者B",
+      "Text": "但如果赛马娘本身不具备制定战术的理论基础的话、\n这招就行不通了啊？\n这又该如何应对呢……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者B",
+      "Text": "那么……、\n风格迥异的两人究竟谁会获胜呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――『帝王赏』当天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "今天的主角果然是这位赛马娘吗！\n“沙地之隼”醒目飞鹰！\n超人气的马娘偶像！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "大家～～☆\n都嗨起来吧～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "春天的泥地GⅠ终于迎来高潮☆\n让我们在『帝王赏』点燃最耀眼的火光吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "観客",
+      "Text": "噢噢噢噢――――！\n飞鹰子！\u3000飞鹰子！\n飞鹰子！\u3000飞鹰子！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈、放在去年夏天都难以置信啊。\n她竟然成为了这么瞩目的焦点。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "但是会赢的只能老娘。\n没有其他可能。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……咱们可是为此准备好了战术啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "希望城咧嘴一笑、轻快地蹦跳着。\n会场里弥漫着恰到好处的紧张空气。",
+      "ChoiceDataList": [
+        "冲吧、希城",
+        "冲吧、希城"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "噢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是希望城走向了亮相圈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "如今在赛前、\n再也看不到她因过度紧张而趔趄的狼狈模样……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她正无所畏惧地、\n堂堂正正地向前迈步。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众们",
+      "Text": "L・O・V・E、GOGO飞鹰子！\nL・O・V・E、GOGO飞鹰子！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "大家――！\u3000谢谢你们――！\n……人家、会在泥地上绽放更加闪耀的光芒哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "为了回应所有支持我走到这里的大家！\n为了给大家献上最精彩的比赛……\n――最热烈的狂欢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "因为我最喜欢泥地啦！\n最爱这块闪闪发光的砂土舞台啦――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "别一个人自嗨啊、飞鹰子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众们",
+      "Text": "『哦……哦哦……！？』\n『来了啊……那是――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "她来啦、叛逆少女！\n对抗醒目飞鹰的希望城登场啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众们",
+      "Text": "噢噢噢哦哦哦！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "哇啊……！\u3000哇啊啊……！！\n好厉害……真不愧是……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "希城同学！\u3000你果然我的师傅呀！\n只有飞鹰子自己的话、\n绝对掀不起这样的声浪啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "太棒了！\u3000好开心！\u3000真的可以吗！？\n即便是尚不完美的“半途中”的我――\n也可以被这么热烈的欢呼包围吗！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈……你这家伙、\n真够能面不改色地说这种话啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……一年前也是、\n就算在重赏取得成绩也不骄傲。\n夏季集训时候还一直屁颠屁颠地跟着我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "成天把自己还不够好挂在嘴边。\n现在还没讲腻啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "明明是你自己渴望与强得一批的老娘一战的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "……呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "因为能和你同场竞技――\n飞鹰子、就能学到更多变得更强呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈哈哈哈哈！\u3000你这家伙……！\n嘴皮子还是那么溜……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……那就实际跑一场、\n亲自“体会”看看吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

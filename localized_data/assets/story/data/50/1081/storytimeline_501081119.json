@@ -1,0 +1,286 @@
+{
+  "Title": "希望は誇り輝く",
+  "TextBlockList": [
+    {
+      "Name": "司仪",
+      "Text": "――今年的URA颁奖典礼依旧群星璀璨。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "司仪",
+      "Text": "那么接下来要颁发的是。\n今年的『最优秀泥地赛马娘』是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "司仪",
+      "Text": "希望城选手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "恭喜你啊、希城同学！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊啊！？\u3000你们怎么都跑过来了啊。\n还特意带着花束……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "当然是来庆祝的嘛？\n乐章也来了哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "乐章"
+      ]
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "恭喜你获奖。\n希城同学。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "年初公布奖项时看到你的名字……\n不知为何只觉得理所当然。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "毕竟你在『柏纪念』时、\n真的很强。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "……衷心祝贺你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "噢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……………………？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……喂、狂怒乐章……？\n这祝贺的手劲儿可够大啊……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "有吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "少装蒜！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "啊哈哈、嘛啊嘛啊。\n就算是真心来祝福的、\n咱们终究还是竞争对手嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "会不甘心才正常吧。\n咱到现在也忘不了『冠军杯』\n冲线前的感觉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "咱打心底承认希城同学很强。\n――所以、下次才一定要赢回来呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "只有打败了代表中央的你、\n才算真正实现了我的夙愿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "飞鹰子也要多多指教哦☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――……哈……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "少得意忘形啦！\n看老娘把你们都揍的哭唧唧口牙！\n……做好觉悟了就放马过来罢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在与董事和来宾们的寒暄结束后、\n我走向等待已久的希望城。\n今天她特意委托我一件事情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那就是、\n拍摄『她和奖杯的合影』。\n我一边小步跑着一边拿出手机――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "！\u3000慢死了！\n老娘早就准备好pose啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "赶紧拍！\n要把这些家伙全都拍里头去啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "茄子――☆\n要被挤扁惹――☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "喂、贴太紧啦！\u3000飞鹰子！！\n别黏过来口牙！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "哦、那咱也。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "喂、创升！？\n怎么狂怒乐章也……啊゛～～！",
+      "ChoiceDataList": [
+        "那我多拍几张啦！来、茄子！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（快门声！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "育成俱乐部职员",
+      "Text": "――早上好、头儿！\n恭喜令嫒获…………啊啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "育成俱乐部职员",
+      "Text": "…………这张照片真不错呀。\n是颁奖典礼时拍的吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "是她发过来的。\n……在家庭群的LANE里。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [
+        "早上好、希城！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "典礼的第二天。\n我对来上学的希望城打招呼。",
+      "ChoiceDataList": [
+        "那张照片、发给家里人了吗？",
+        "那张照片、发给家里人了吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "噢。过去了。\n……发的这个。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我看向她的手机。\n屏幕里的是她和朋友们的合影――",
+      "ChoiceDataList": [
+        "啊咧！抱歉！这张照片里的奖杯……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "用不着道歉啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――这张拍的最好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "育成俱乐部职员",
+      "Text": "但是怪可惜的欸。\n这张照片里的奖杯、\n被您女儿的朋友们挡住了呀……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "……说反啦。\n对那家伙来说这张才是正好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "看来她早就得到了……\n比奖杯更珍贵的“骄傲”啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
