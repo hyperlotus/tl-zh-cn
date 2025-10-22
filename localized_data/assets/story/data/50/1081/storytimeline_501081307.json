@@ -1,0 +1,302 @@
+{
+  "Title": "チャンピオンズCの後に・燻ぶる火種",
+  "TextBlockList": [
+    {
+      "Name": "希望城",
+      "Text": "――只要在这场比赛里、\n展现出爆强的奔跑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "育成俱乐部职员",
+      "Text": "她可是泥地的顶尖中顶尖啊！\n负责她的头自然也以她为傲啊～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "这下你总算明白了吧？\n老娘我啊――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "一点都不弱！\n是货真价实的强者口牙……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈啊……哈啊……哈……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "咳、咳……咳咳……\n呵呵……虽然跑得不错、\n但是……还差点远呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……那你怎么还、\n一脸满足的表情啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "呵呵。这是因为呀、\n从这里开始我才终于能真正地开始了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "昂？\u3000开始是开始什么啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "……、\n我家是开拳击馆的呢～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "那里有很多正在拼命振作、\n想要重新找回人生的人哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "即使跌倒了也一定要爬起来。\n他们怀抱着这样的念头鞭策自己拼命努力呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "我想成为那些人的勇气之源呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "告诉他们、就算结果不尽如人意、\n只要重新站起来继续挑战就好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "谁最初都是弱小的。\n但是这有什么好羞耻的呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "既然弱小、\n那就使劲训练到――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "变得强大就好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "2人",
+      "Text": "锐骏同学！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "好啦好啦、我来啦。\n小历奇、小火山。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "历奇",
+        "火山"
+      ]
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "那么、今天要做什么训练呢。\n上次比赛可是有不少需要反思的地方……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小林历奇",
+      "Text": "诶诶、不是跑得很好啊！？\n我和火山都看到了呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "啊啦嘛啊、小历奇。\n这个嘛……或许确实有可取之处吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "但是也有不足之处的吧？\n得好好复盘才行呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈……哈哈。\n什么啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "怎么还到处跟别人说啊！\n说自己还不行的、还不够的――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "『先承认自己很弱！\n――否则你根本没可能变强口牙！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――闭嘴……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "闭嘴、闭嘴、闭嘴！！\n闭嘴口牙啊啊啊啊啊啊啊――――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "为什么……又让我想起来啊！\n明明就是为了忘掉……、才奔跑的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "训练员！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……下一场……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "快决定下一场吧！\n继续跑GⅠ！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘赢下了『南部杯』。\n也跑完了『冠军杯』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "是强得一批的赛马娘！\u3000强得没人能说闲话！\n是强大的赛马娘！\u3000……很强的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "…………赶紧决定……！\u3000动作快！\n不然的话……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "那个烦人的声音……\n那家伙的唠叨…………啧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "希望城痛苦地抱住头。\n那副表情――与“王者”的名号相去甚远。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……拜托了……――",
+      "ChoiceDataList": [
+        "希城……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我翻动日历、确认GⅠ比赛赛程。\n『東京大赏典』……间隔实在太短。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "東京大赏典"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "需要找一场既不给她的身体带来负担\n并且是GⅠ的……――",
+      "ChoiceDataList": [
+        "参加2月的『二月锦标』吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在东京比赛场举办的泥地英里1600m的比赛。\n这样的比赛条件满足她的擅长领域。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……――知道了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……稍微、睡会――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "话音刚落、她便直接向后瘫倒进沙发。\n仰面躺着……又翻过身、\n这次又嫌光线刺眼抬手遮住眼皮。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……最后慢慢地、身体蜷缩成团。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

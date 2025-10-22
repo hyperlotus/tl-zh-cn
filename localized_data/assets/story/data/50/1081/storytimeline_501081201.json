@@ -1,0 +1,316 @@
+{
+  "Title": "英里CS南部杯にむけて",
+  "TextBlockList": [
+    {
+      "Name": "希城的母亲",
+      "Text": "请您让那孩子变得强大吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "请让那孩子获得真正的、\n而不是因我而形成的、\n为了掩饰自我的不安与胆怯的――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的母亲",
+      "Text": "……为了掩饰自我的不安与胆怯的逞强。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――为此必须要有一场胜利。\n必须要兑现曾保证\n『这场比赛一定能赢』的这场GⅠ。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后为了获胜……\n就需要通过恰当的训练锤炼而出的实力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "所谓『最强赛马娘的训练』、\n就是为了实现恰当的训练所需的\n――“虚假的自信”。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "喂、开始训练啦！\n训练员！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "因为老娘是最强的！\n所以要做『最强』的训练！",
+      "ChoiceDataList": [
+        "（绝不能让她失去这份自信）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "为了唤醒沉睡于她内心深处的真正的自信。\n而不是虚张声势的虚伪的自信。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "绝对不能……\n在『英里CS南部杯』上输掉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『英里冠军赛南部杯』\n――当天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众A",
+      "Text": "果然还是CHAMPION会夺冠的吧！\n上次和上上次、她都稳稳地拿下第一了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众B",
+      "Text": "不、今天的局面将会彻底颠覆！\n因为我推的赛马娘即将登上王座！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "随着天色渐暗、\n赛场的热度瞬间沸腾。\n这就是GⅠ『英里CS南部杯』的舞台。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（吵吵嚷嚷……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "周围的赛马娘们",
+      "Text": "『抱歉啦、今天的主角是我。不好意思喽？』\n『呵呵……那份游刃有余还能保持多久呢』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在休息室前的走廊里、\n准备就绪的赛马娘们接连现身。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "其中自然不乏气场不凡的古马级赛马娘。\n也是接下来、她要面对的对手――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "古马级"
+      ]
+    },
+    {
+      "Name": "希望城",
+      "Text": "哇……。",
+      "ChoiceDataList": [
+        "……！希城、没事吧？",
+        "……！希城、没事吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "没、没……不用管我。\n就是有点用劲过头、照常就……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――……。",
+      "ChoiceDataList": [
+        "――希城！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "噢゛噢゛噢゛噢゛噢゛噢゛噢゛！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（熙攘……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "周围的赛马娘们",
+      "Text": "『哈？\u3000那、那孩子怎么回事啊……』\n『在吼叫……？\u3000吓人……』",
+      "ChoiceDataList": [
+        "…………"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我追随着再次回到休息室的她走进房间、\n关上了门。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈――……、哈――…………！",
+      "ChoiceDataList": [
+        "……希城"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘很强！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "很强……很强！\u3000很强、很强、很强！\n强得那些家伙根本没得比！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "没问题的……能赢……！\n怎么可能……怕啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……这场比赛是、\n经典级・古马级的混合战。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "经典级"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "面对身经百战的强者、\n怎么会有赛马娘不心生畏惧的。\n怎么会有赛马娘不会双腿发软的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但是、即便如此、她――",
+      "ChoiceDataList": [
+        "……没错、希城。你很强",
+        "……没错、希城。你很强"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [
+        "我一直都在给你安排特別的训练",
+        "我一直都在给你安排特別的训练"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "为让她也能看见、\n我轻轻地从包里取出教科书。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "…………这个。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……是『最强赛马娘』、\n曾经完成的训练。",
+      "ChoiceDataList": [
+        "没错、你全都坚持下来了",
+        "没错、你全都坚持下来了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……老娘一直在做的、\n都是强者才做的训练。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "做了。……都做了。……都做完了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "迄今为止我给予她的\n不过是遵循“教科书”就没问题的！\n――这种暂时的安心感。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "而现在――\n她即将赢得GⅠ胜利、\n获得真正的自信【根源】。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘很强……很强……！！",
+      "ChoiceDataList": [
+        "没错、你是强大的赛马娘啊！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "乌吓啊啊啊啊啊――――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（哐！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――开始啦！\n『英里CS南部杯』！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "看着吧、训练员！！",
+      "ChoiceDataList": [
+        "嗯、赢下来吧！希城！！",
+        "嗯、赢下来吧！希城！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "那不是当然的嘛！\n老娘可是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――强得一批口牙！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

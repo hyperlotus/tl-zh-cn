@@ -1,0 +1,393 @@
+{
+  "Title": "二月锦标の後に・心は決まった！",
+  "TextBlockList": [
+    {
+      "Name": "实况解说",
+      "Text": "希望城冲上来啦！\n是希望城啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈啊啊啊啊―――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "不过那种方式、\n终究不适合你吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "――――因为我没能把你这丫头、\n培养到如今的水平啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（啊啊、说得没错啊。臭老爹）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『所以选择权在你手里啊、希城』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『所以选择权在你手里啊、希城』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（没错。老娘要两条路都走）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（管它是『承认弱小再变强』的、\n还是『否认弱小再变强』的）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "所以啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（我这辈子、也不会承认的）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（呜嗷嗷嗷嗷嗷嗷！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "观众席给我嗨起来！\u3000所有人睁大眼睛看好了！！\n站在你们面前的老娘强得一批口牙！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "怎么可能哭哭啼啼地装可怜口牙！\n这就是――希望城口牙！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『你就是你自己的正确答案』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『你就是你自己的正确答案』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "欧拉啊啊啊啊啊啊啊啊啊啊啊啊――――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――即便她的逞强最初源于不安。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但如今她的强大早已超越了虚张声势。\n因为、她确实是――",
+      "ChoiceDataList": [
+        "强大的赛马娘啊！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "乌拉啊啊啊啊啊啊啊啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『二月锦标』决出胜负！\n获胜的是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈……怎么样！！\u3000怎么样啊魂淡！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她在今天证明了自身的强大。\n高举拳头、绽放骄傲的笑靥。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "为了尽可能近得触及这样的她、\n我全力奔向外侧护栏。",
+      "ChoiceDataList": [
+        "（就是它、这样的奔跑才是你啊――！）",
+        "（就是它、这样的奔跑才是你啊――！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "无论在暗地里曾与何等的恐惧搏斗、\n总能凭倔强将它们征服。\n――这样的她。",
+      "ChoiceDataList": [
+        "你怎么可能――是弱小的赛马娘啊！！",
+        "你怎么可能――是弱小的赛马娘啊！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……啊啊。\n这不明摆着的吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "就算到死也要贯彻到底。\n别人如何变强都与老娘无关。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘要用老娘的方式走到底！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我对她的话语一次又一次地点头。\n她的宣言、扫清了前路的迷茫。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这就是她的道路。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……所以让我出战『柏纪念』吧。",
+      "ChoiceDataList": [
+        "『柏纪念』？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊啊――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘要在那、\n跟狂怒乐章一决高下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……用老娘选择的强大、\n正面干碎她选择的强大。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『柏纪念』是\n5月在船桥比赛场举办的\n1600m的泥地英里赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "而且对狂怒乐章来说、船桥是主场。\n我们是客场作战、必须做好万全准备。",
+      "ChoiceDataList": [
+        "知道了、要做就贯彻到底吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……贯彻到底？\u3000什么意思？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈哈……你已经有作战计划了？",
+      "ChoiceDataList": [
+        "这个嘛――",
+        "这个嘛――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『二月锦标』的几天后、\n我把希望城叫来了训练员室。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "呜哇……桌子堆得真乱啊。\n纸都堆成山了啊。",
+      "ChoiceDataList": [
+        "这些都是你过去的最佳记录",
+        "这些都是你过去的最佳记录"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "所有赛程计时都按照距离分类。\n1600m的、1200m的、连2000m的也有……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊……真的欸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哼嗯。\n1600m的记录也有……。",
+      "ChoiceDataList": [
+        "超越它吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "原来如此、\n是要老娘突破1600m的最快记录吗……！",
+      "ChoiceDataList": [
+        "不、不仅如此"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "此刻摆在我们面前的――\n正是她亲手写下的战书。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "既然希望城自己宣言了、\n『要贯彻独属她自己的道路』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊？\u3000这是什么意……。",
+      "ChoiceDataList": [
+        "超越过去的自己、不是理所当然的嘛？",
+        "超越过去的自己、不是理所当然的嘛？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我打开教科书、\n朗声念出新添加的『最强赛马娘』的设定。",
+      "ChoiceDataList": [
+        "『最强的敌人、永远是最强自己』"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后我再次示意她看、\n她的所有赛道的所有时长的记录。",
+      "ChoiceDataList": [
+        "刷新所有距离的记录吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "不是你傻吧！？\u3000你傻子吧！？\n你够傻欸！？\u3000你也太傻了吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "再说比赛只跑1600m……！",
+      "ChoiceDataList": [
+        "啊咧？该不会做不到吧……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "能做到！！",
+      "ChoiceDataList": [
+        "对吧、我也这么觉得",
+        "对吧、我也这么觉得"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……真是。\n服了゛～～～～～～～～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "我做。……做就是了！\n少瞧不起人！\u3000给老娘记住！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――老娘是强得一批的赛马娘口牙！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是迎向『柏纪念』、\n崭新的训练开始了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "Title": "粉丝感謝祭",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "春天的粉丝大感谢祭的、数周前。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同班同学A",
+      "Text": "――那么、咱们班在感谢祭上、\n设立『摄影角』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同班同学B",
+      "Text": "虽然各位的个人训练安排繁忙……\n但请在力所能及的范围内！\u3000为粉丝全力以赴吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "莫名其妙",
+      "Text": "奇宝子！\u3000吾等做绒球吧！！\n莫名派要华丽地大干一场啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "奇宝子",
+        "莫名"
+      ]
+    },
+    {
+      "Name": "菱钻奇宝",
+      "Text": "诺～、主公～。\n大人您也要参与的哦～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "呜哇……又搞砸了……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "话说、还准备签名合影区的……\n真有人会想要文字加摄影的玩意吗……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "据说很有人气呢。\n而且亲笔签名和留言展示、\n在好多圈子里都很流行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "而且……如果你不擅书写的话、\n需要我教你诀窍吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "……我之前、\n请教过谷水琴蕾同学。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "谷水琴蕾"
+      ]
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "现在已经能写出……\n漂亮又有签名风范的字了哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈……多管闲事。\n你只管写好你自己的就行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘当然能写出全场最帅的签名！\n――欧拉啊啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同班同学们",
+      "Text": "――完――――成！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后、在春天粉丝大感谢祭当天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝A",
+      "Text": "好、摆造型！\n……这张拍的真棒～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝B",
+      "Text": "我说、整个『摄影角』都超可爱呀！\n绒球搭建的城堡特别有感觉！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝C",
+      "Text": "最后的签名区也超用心呢～！\n狂怒乐章的签名超赞的～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝D",
+      "Text": "啊、我懂我懂。写的超潇洒的～！\n笔锋飘逸、就像是艺术品一样！\n虽然挺意外的……这也是她崭新的魅力啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝E",
+      "Text": "――希望城的签名也很有个人风格呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "粉丝E",
+      "Text": "虽然下笔很重略显生涩……\n呵呵。反而有种独特的韵味……我很喜欢啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……呼……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "粉丝感谢祭的当晚。\n赛马娘们簇拥在篝火旁、互相慰劳着忙碌的成果。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后希望城她――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――开始吧、训练员。",
+      "ChoiceDataList": [
+        "你今天也不休息啊",
+        "你今天也不休息啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊啊！？\u3000不是你说的嘛！\n要我刷新所有的记录！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "为迎接与狂怒乐章决战的『柏纪念』、\n她在朝着刷新所有距离的记录持续特训。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘做得到。\n才不是半途而废的弱鸡。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……全部、刷到最新。",
+      "ChoiceDataList": [
+        "那你在跑动中注意肩胛骨的角度"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "在注意了！",
+      "ChoiceDataList": [
+        "再多注意点。……你能做到的",
+        "再多注意点。……你能做到的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……重测一遍时间。\n这次跑1600m。",
+      "ChoiceDataList": [
+        "――预备"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "呼――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "希望城的脚踏裂沙地、在尘土飞扬中突进。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那转瞬间将速度飙至最高的加速、\n……连同她瞬息间的强大一并进化。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈啊啊啊啊啊啊――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在她心中燃烧的倔强撕碎夜晚的空气。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在她心中燃烧的倔强撕碎夜晚的空气。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈啊……哈啊……哈啊……――",
+      "ChoiceDataList": [
+        "……还差0.07秒"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊゛～～～～！\u3000可恶啊――――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "再来！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她绝不容许自己流露半分软弱。",
+      "ChoiceDataList": [
+        "先休息一会、再继续"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哦゛！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后就在准备下一轮训练的空档、\n……我的目光不经意间落在她的鞋带上。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……你瞅啥？",
+      "ChoiceDataList": [
+        "……你的鞋带系歪了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈？\n……又没散开无所谓吧！",
+      "ChoiceDataList": [
+        "但这么邋遢可配不上你",
+        "但这么邋遢可配不上你"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈啊～～～～～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "磨磨唧唧地管这么细干嘛……。\n烦死了……真是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她嘴上抱怨着、\n手却老实地伸向鞋带。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "手指利落地拆下绳子、\n从前两个洞开始再串一次鞋带……\n系紧、打结。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――帅吧。",
+      "ChoiceDataList": [
+        "嗯――帅"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――那当然。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后她再度疾驰而出。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "希望城、\n正在超越过去的希望城。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

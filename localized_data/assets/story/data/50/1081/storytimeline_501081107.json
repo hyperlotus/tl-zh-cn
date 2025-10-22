@@ -1,0 +1,469 @@
+{
+  "Title": "情人节",
+  "TextBlockList": [
+    {
+      "Name": "创升",
+      "Text": "呀吼、希城。\n收下我的贿赂吧～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈？\u3000贿赂什么的不需要。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "不是不是。今天是情人节嘛。\n所以……给你！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "可恶、创升她丫的……\n硬塞给我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "『因为情人节可是最划算的活动嘛？\n光是送出去礼物就能得到三倍回礼什么的』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "『老娘才不会回什么礼』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "『别这么说嘛、你就收下吧～。\n咱们不是能互送巧克力的关系嘛～』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "『……而且既然是传达心意的日子、\n说不定也能趁机倾诉些什么呢』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "『嘛！\n有为难的事也可以来找我这个情报屋哦』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。\n……谁要找你啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "少在那瞧不起人！\n就算你对我这么好……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "…………啧。\n那种事我怎么做得到啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我在训练员室做着工作的时候、\n希望城找过来拜托我一件事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "你替我把这个还给创升！\n她给了多少我还多少！",
+      "ChoiceDataList": [
+        "你不自己直接去还她好吗？",
+        "你不自己直接去还她好吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "没事！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我从希望城那里、\n收下了她要转交给朋友的礼物。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "顺便带句话。\n……老娘才不是那么纤弱的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……老娘是强得一批的赛马娘。",
+      "ChoiceDataList": [
+        "……知道了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我没有深究便结束了对话。\n她大概也不想和收这份礼物的朋友闹僵吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。\n……我说你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（你觉得该怎么做好？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――……。",
+      "ChoiceDataList": [
+        "怎么了？",
+        "怎么了？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……啥事也没有。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "听说今天是情人节吧。\n还说是传达心意的日子。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "那种事……烦死了。",
+      "ChoiceDataList": [
+        "不喜欢情人节？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……现在。\n不喜欢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "希望城像是、\n在戒备着什么似的身体僵硬。",
+      "ChoiceDataList": [
+        "……那单论巧克力呢？",
+        "……那单论巧克力呢？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。\n那玩意、有没有都无所谓。",
+      "ChoiceDataList": [
+        "那太好啦、我们稍微出个门吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈？\u3000为啥？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我在手机的搜索框里输入、\n『巧克力』『好吃』『推荐』\n这三个词。",
+      "ChoiceDataList": [
+        "是我想吃点甜食啦",
+        "是我想吃点甜食啦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈……\n你是被什么季节限定饮品给营销了吧。",
+      "ChoiceDataList": [
+        "听说评价不错哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……哼嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "呼――、呼――……。",
+      "ChoiceDataList": [
+        "想放凉还是打开盖子好吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "什゛……！\n我正打算这么做来着！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……好甜…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……多谢款待。\n嘛啊嘛啊、味道不错。",
+      "ChoiceDataList": [
+        "那就好"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "你别一副、\n跟创升一样的表情啊。",
+      "ChoiceDataList": [
+        "诶――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……回去了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……――抱歉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（……我知道的）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（你们没有瞧不起老娘。\n我来找你们商量的话、也是会好好听我讲的吧？）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（但是……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "要是真那么做了、老娘就……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡店店员",
+      "Text": "为热巧克力注入爱意！\n变好喝吧、比心心♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [
+        "不、不是！我是看网上说味道好的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈啊～……用不着这么否认啦、\n是个人喜好就大方承认呗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "真是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "诶！？\u3000真好喝！？",
+      "ChoiceDataList": [
+        "你、你看～～！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡店店员",
+      "Text": "这位客人、谢谢您♡\n我们的心意能够传达到比什么都重要♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡店店员",
+      "Text": "那么接下来有请您二位客人来试试看吧～♡\nLET’S・LO～～VE♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡店店员",
+      "Text": "我数一二请一起做哦！\n变好喝吧、比心心♡",
+      "ChoiceDataList": [
+        "比心心……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "比……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "心、心个锤――――子――！？\n不比――！\u3000老娘不比口牙！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡店店员",
+      "Text": "诶～……真的好吗？\n这样的话、那～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡店店员",
+      "Text": "咒语由我来念、\n客人您只需要注入心意就好♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡店店员",
+      "Text": "趁着情人节的气氛！\n把想传达的心意啾的注入进去吧♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "什、开什――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "『……而且既然是传达心意的日子、\n说不定也能趁机倾诉些什么呢』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡店店员",
+      "Text": "那么开始喽～、一二！\n变好喝吧、比心心♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "（诶……！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "希望城紧闭双唇、\n只是死死凝视着自己摆出的比心手势。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――她现在、\n究竟在想着什么呢。",
+      "ChoiceDataList": [
+        "那个、希城……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "咖啡店店员",
+      "Text": "哇～～、非常感谢！\nNICE比心呀～～！\n看来注入了满满的心意呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "没注入。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……一点儿都没有。",
+      "ChoiceDataList": [
+        "希城……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "希望城、\n始终没有用言语道出真心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……在明快的BGM流淌下、\n我们两人共饮的热巧克力明明很甜\n却萦绕着一丝苦涩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
