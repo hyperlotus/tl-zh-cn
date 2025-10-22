@@ -1,0 +1,243 @@
+{
+  "Title": "夏季集训（3年目）スタート！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "今天开始就是夏季集训了！\n赛马娘们都前往特雷森学园的特别设施\n展开特殊训练！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我走下大巴、\n走向熟悉的集训所的大门。",
+      "ChoiceDataList": [
+        "好、今年也要努力喽！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "怎、喂！！？？",
+      "ChoiceDataList": [
+        "……！？怎么了、希城！",
+        "……！？怎么、希城！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "你丫为什么会来集训地啊！？\n不是出事故受伤了吗！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……话虽如此、万幸的是、\n不到影响行动的程度所以没问题。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "虽然前几天一直在住院……\n但是因为不构成大问题所以顺利出院了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "你真的是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――笨蛋……。",
+      "ChoiceDataList": [
+        "抱歉让你担心了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……少废话……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "与她分别后、我匆忙赶往房间放行李。\n夏季集训期间可容不得半分懈怠。",
+      "ChoiceDataList": [
+        "（夏天可是、赛马娘成长最快的季节啊！）",
+        "（夏天可是、赛马娘成长最快的季节啊！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "职员",
+      "Text": "啊、不好意思！\n集训用的食材刚刚送到了、\n麻烦大家帮忙搬运一下！",
+      "ChoiceDataList": [
+        "啊……知道啦！这就去！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前辈训练员",
+      "Text": "喂、停下停下！\n你在说什么啊！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前辈训练员",
+      "Text": "――肋骨不是折了吗！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――我之前遭遇的是追尾事故。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "出事之后、睁开眼睛的第一反应是\n恢复意识的庆幸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之后住院数日便出院了。\n据说连带身上的淤青在2～3个月里就能痊愈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这一切都堪称幸运……“并无大碍”。\n虽然也和主治医生商讨过后续的调养方案――\n本应没有任何问题的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前辈训练员",
+      "Text": "……我明白你不想在这个时候、\n脱离指导担当赛马娘的工作。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "前辈训练员",
+      "Text": "但一般不是应该静养的吗？\n搬重物之类的粗活就别做了！",
+      "ChoiceDataList": [
+        "啊哈哈、我知道了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……出事故的消息已经传遍了职场。\n所以出院后受到了来自多方的关切。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但我是确信不会影响到对希望城的指导、\n才来到集训地的――",
+      "ChoiceDataList": [
+        "痛……――！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "喂！？\n你丫怎么了！？",
+      "ChoiceDataList": [
+        "什、什么事也没有……！我没事的……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……糟透了。好像在指导她跑姿的时候、\n不小心扭到了仍未痊愈的部位。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "连深呼吸……都做不到。\n身体稍一动弹疼痛就会加剧、只能反复地浅呼吸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "你这家伙……。",
+      "ChoiceDataList": [
+        "好啦、继续吧！希城！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者A",
+      "Text": "……你听说了吗？\n希望城的训练员的事情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者B",
+      "Text": "啊啊、好像肋骨骨折了吧？\n那种伤我也受过、超够呛的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者A",
+      "Text": "训练员这工作强度不小啊……。\n想要养伤还是休息比较好吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者C",
+      "Text": "……不过我也理解他的心情啊。\n夏天对担当赛马娘而言正是关键时期。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "记者C",
+      "Text": "好不容易来到能快速成长的时节、\n要是因为自己的缘故打乱了节奏、\n……换做是我也不甘心啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "真够笨的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……我吃下今晚份的止痛药、\n慢慢调整着呼吸。",
+      "ChoiceDataList": [
+        "（――嗯、没事的）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "现在怎么可以不在希望城的身边啊。\n这种程度的勉强、完全不在话下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是我和希望城的夏季集训开始了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

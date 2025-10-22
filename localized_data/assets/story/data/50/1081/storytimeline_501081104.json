@@ -1,0 +1,303 @@
+{
+  "Title": "夏合宿（2年目）にて",
+  "TextBlockList": [
+    {
+      "Name": "希望城",
+      "Text": "开练！\u3000练起来！\n管它力量训练还是冲刺跑都放马过来！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老\u3000娘\u3000练\u3000爆！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自从重新确认了\n『英里CS南部杯』这个目标后、\n希望城的干劲愈发高涨。",
+      "ChoiceDataList": [
+        "（我也得不甘示弱啊！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "打开『最强赛马娘』的笔记本……\n寻找起适合她的训练。\n今天要让她做的项目是――！",
+      "ChoiceDataList": [
+        "来跨栏跑吧！",
+        "练习蹲踞式起跑法吧！",
+        "练习蹲踞式起跑法吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "好！\u3000把跨栏都摆好！\n看老娘一个不落全飞过去！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――个屁咧！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "这里、可是海滩啊！？\n跨栏跑这种训练不在集训时也能练的吧！",
+      "ChoiceDataList": [
+        "不、希城。这是“组合训练”的意思哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "组合训练……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "跨栏跑是一项需要边跳跃边奔跑的、\n需要非常集中于核心肌群的项目。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "而且在沙滩上奔跑、核心力量同样至关重要。\n要是脚陷入沙子里、姿势就会不稳。\n也就是说――",
+      "ChoiceDataList": [
+        "这一项训练就能双重刺激核心肌群"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "这是天才啊……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "好家伙、能教出最强赛马娘的果然有东西啊……！\n居然能想出这种训练方法……！",
+      "ChoiceDataList": [
+        "好啦、开始喽！希城！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "乌拉！\u3000欧拉！\u3000嘿呀！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咣当！\u3000咣当！\u3000咣当！）",
+      "ChoiceDataList": [
+        "希城！？全部都撞倒了啊！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈呀啊啊～～！\u3000下次会漂亮地跳过去啦～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈啊――……老娘――……\n累死了――……。",
+      "ChoiceDataList": [
+        "辛苦了、希城"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "蹲踞式起跑……？",
+      "ChoiceDataList": [
+        "首先双手撑地"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊啊？\n……这样吗？",
+      "ChoiceDataList": [
+        "一条腿向后伸"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "这个是田径的起跑嘛！\n赛马娘比赛又用不上吧！？",
+      "ChoiceDataList": [
+        "没错、但是那位『传说赛马娘』也――！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……做就是了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "那个『最强赛马娘』、\n这么喜欢做奇怪的训练吗……？",
+      "ChoiceDataList": [
+        "而且、对你的跑法也很有帮助哦",
+        "而且、对你的跑法也很有帮助哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈？\u3000就这？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "右脚用力一蹬、劈沙破土。\n希望城的右脚爆发力\n――正是她在泥地比赛中发光发亮的王牌。",
+      "ChoiceDataList": [
+        "起跑也用你的右脚发力吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "要养成右脚起跑的习惯是吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……知道啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈啊――……老娘――……\n累死了――……。",
+      "ChoiceDataList": [
+        "辛苦了、希城"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……哼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "毕竟『英里CS南部杯』快到了。",
+      "ChoiceDataList": [
+        "嗯、你肯定能跑第一的",
+        "嗯、你肯定能跑第一的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "喂、训练员。\n刚才的话、再说一遍。",
+      "ChoiceDataList": [
+        "南部杯肯定跑第一？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "才不是――！\n不是那句话！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……刚才训练时、你说的话。\n我要记下来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "说不定之后还能教给飞鹰子嘛。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这正是――“学习”的态度啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "如今她不再仅仅是完成摆在眼前的训练、\n还开始从不同角度审视这些训练本身――……。",
+      "ChoiceDataList": [
+        "好呀！正好我接下来有一小时的空档！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊啊゛！？\u3000老娘才不想磨叽那么久啊！\n赶紧搞定完事！",
+      "ChoiceDataList": [
+        "……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……啊゛啊～～～！\n别用那种闪闪发光的眼睛看过来！\n不许燃起干劲口牙！\u3000快停下――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "烦――――死啦――――――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

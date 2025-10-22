@@ -1,0 +1,153 @@
+{
+  "Title": "柏纪念にむけて",
+  "TextBlockList": [
+    {
+      "Name": "小林历奇",
+      "Text": "哇～～、不愧是『柏纪念』！\n气的聚集程度真是天壤之别啊☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北港火山",
+      "Text": "亮相圈里也有这么多人啊……！\n这就是GⅠ……如果有一天我也能参赛的话……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "和小林历奇在一起的是北港火山。\n她是想为故乡・苫小牧带来繁荣的\n本地偶像赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "北港火山"
+      ]
+    },
+    {
+      "Name": "小林历奇",
+      "Text": "不是如果能参赛、\n而是一定会参赛哦、火山！\n所以为了那一天的到来――要做好准备啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小林历奇",
+      "Text": "那么锐骏同学、\n今天的学习会就拜托你了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北港火山",
+      "Text": "请告诉我！\n站在亮相圈时应该保持怎样的心态！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "好好、如果我的智慧能帮上忙的话。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "那、两位――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥应援团",
+      "Text": "船桥～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "……可要看清楚了哦。\n那些在人们心中扎根的……“生存之道”的支柱。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥应援团",
+      "Text": "船桥～～～～！\n狂怒乐章～～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "船桥的赛马娘们",
+      "Text": "『乐章、乐章！\u3000小章章！』\n『回想起来与我们特训的每一天！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "小章章"
+      ]
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "嗯。我会赢的。\n因为我――已经重获新生了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……没错、你这家伙确实变了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "但老娘我可不会变。\n即便是大家都嗤之以鼻的“做法”、\n也会坚持下去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "……希城同学。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "真可惜啊、狂怒乐章。\n今天会赢的可是――老娘我啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "唯有知晓自身弱小的人、\n才能抵达真正的强大。\n这便是我的答案。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "我知道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "不管是老娘还是你、\n不过是找到的答案不同罢了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "狂怒乐章",
+      "Text": "……我会全力以赴的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "噢。放马过来吧。\n老娘也会马力全开。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "强大根本不存在极限！\n――战吧、狂怒乐章！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

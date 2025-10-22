@@ -1,0 +1,194 @@
+{
+  "Title": "JBCスプリントの後に・修了証書",
+  "TextBlockList": [
+    {
+      "Name": "希望城",
+      "Text": "――都看到了吗。\n妈、还有老爹。",
+      "ChoiceDataList": [
+        "那两人肯定都看到了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "！\n……是吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "你眼中的希望城。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "是什么样的。",
+      "ChoiceDataList": [
+        "――比任何人都强！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……哈哈哈！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播音员",
+      "Text": "恭喜你拿下第一！\n希望城选手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播音员",
+      "Text": "您以往主战英里和中距离的比赛\n此次竟然突然出战短距离！\n着实令人惊喜不已啊――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播音员",
+      "Text": "您认为直接的胜因是什么呢！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊～？\u3000胜因……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "至今参加过的比赛铸就了我的比赛直觉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "速度也得到了相当程度的打磨、\n也有爆发力对决的自信。\n……我把加速时机也抓的挺准的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播音员",
+      "Text": "噢、噢噢……！\n真是精彩的自评啊……！",
+      "ChoiceDataList": [
+        "对吧！？希城可厉害啦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "惊了！？\u3000这就蹬鼻子上脸了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播音员",
+      "Text": "呵呵、呵呵呵……！\n您二位的关系真融洽呀。\n……那么请问训练员先生。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "播音员",
+      "Text": "希望城选手在您眼中、\n是怎样的赛马娘呢？",
+      "ChoiceDataList": [
+        "！希城是……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……怎样的赛马娘啊？",
+      "ChoiceDataList": [
+        "……这个嘛",
+        "……这个嘛"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "最初以为她是个缺乏专注力的赛马娘。\n在后来、我才知道她只是个太过要强的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我为了让她能有自信、\n还编织过『最强赛马娘』的谎言。\n……虽然后来暴露了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但与她共度的每一天都在教我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "教育的喜悦与艰辛。\n在最近处见证她成长的感动。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――这些全部、都是她教给我的珍贵课程。",
+      "ChoiceDataList": [
+        "希城她――真的是一名强大的赛马娘"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [
+        "她是即便没有我也能战斗下去的、强大赛马娘"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……笨啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "要是没有你丫、\n就没有这个希望城啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "就是因为有你在、才有的老娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "记住了、训练员。\n记住你教出了怎样的存在。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "记住了、记住老娘今天的胜利。\n永远别忘记今天的喜悦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――把这些全部、\n都刻进老娘和你的心里啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

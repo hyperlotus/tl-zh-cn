@@ -1,0 +1,223 @@
+{
+  "Title": "夏季集训（2年目）スタート！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "从今天开始就是夏季集训了！\n赛马娘们将要乘坐大巴、\n前往特雷森学园的特别设施！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就在等待大巴的期间。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "听好、飞鹰子。接下来就是关键！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "中央与地方的泥地的砂质不同。\n而且不同地方之间也存在差异！\n……记住了没！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "是、师傅！\n飞鹰子、这就记笔记☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "从刚才起希望城就在对旁边的赛马娘、\n传授我之前教过她的那些知识……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……然后就是……。",
+      "ChoiceDataList": [
+        "那个、希城？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "哈、是师傅的训练员先生☆\n早上好――！！",
+      "ChoiceDataList": [
+        "嗯、早上好！……所以你们这是什么情况？",
+        "嗯、早上好！……所以你们这是什么情况？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊゛～……飞鹰子死活缠着我\n非要教她跑泥地啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "所以老娘就在空闲的时候、\n特別给她当一回师傅。\n……这也是强得一批的赛马娘的职责吧？",
+      "ChoiceDataList": [
+        "原来如此……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我记得醒目飞鹰在今年4月、\n参加了草地的三冠路线――『皐月赏』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "虽然结果不理想、\n但『皐月赏』是三冠路线的GⅠ。\n光是能参加就是实力的证明。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "中坚训练员",
+      "Text": "……为什么希望城一副趾高气昂的样子？\n醒目飞鹰居然丝毫没意见还配合她……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "资深训练员",
+      "Text": "……不知道。\n大概是年轻人特有的傲慢吧……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "周围的人们对她们投去诧异的目光。\n但是当事人却仍沉浸在自己的艺术中……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "还有……这可是最强的训练清单、\n要对其他人保密。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……虽然枯燥又严酷、但是竞走也不错。\n额……还能锻炼平衡感？\n大概是这样？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "呼姆呼姆……姆呼～～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……看样子希望城似乎把我以前教她的内容、\n都记在了自己的笔记本里。",
+      "ChoiceDataList": [
+        "（倒是个不错的复习方式）",
+        "（倒是个不错的复习方式）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "……训练员先生、\n您认为对希城而言、\n什么样的教育才是必要的？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "对于赛马娘来说……对于那丫头来说。\n您认为教育者的职责究竟是什么？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "现在还难以断言\n『对她而言必要的教育』是什么。\n但是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "或许、这段教育他人的时光本身、\n对希望城来说、\n正是必要的“教育”也说不定。",
+      "ChoiceDataList": [
+        "……听说那位『最强赛马娘』也很会教别人哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……！\u3000我就知道！\n既然是『最强赛马娘』\n肯定也会做这种强得一批的事情嘛！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊……就是、训练员！\n过来一下！！",
+      "ChoiceDataList": [
+        "嗯？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……坐大巴、也怪无聊的。\n『最强赛马娘』的那个……咋玩来着？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "就那个、能让领放赛马娘也沉默的那个。\n老娘的旁边……不是飞鹰子嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "好嘞、飞鹰子！\n把手机闹钟设在一分钟后、\n就把屏幕扣过去！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "这叫闹钟胆小鬼挑战。\n最接近闹钟响前按停的人赢哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "醒目飞鹰",
+      "Text": "响了就算输是吧。\n……呜～、加油☆",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "坐在前排的两人沉迷于锻炼时间感的游戏里。\n听着她们欢快的声音、我打开笔记本。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『想让希望城变强、然后\n想让她成为能认可自身强大的赛马娘』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――怀揣着这样的愿望、\n夏季集训拉开了帷幕。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

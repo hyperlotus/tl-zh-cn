@@ -1,0 +1,697 @@
+{
+  "Title": "英里CS南部杯の後に・最后的课题",
+  "TextBlockList": [
+    {
+      "Name": "希望城",
+      "Text": "（我曾经渴望变强。\n有理想中的模样。）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "总有人说这是好高骛远。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "『别勉强了』『接受吧』\n『虽然你现在还不懂』\n『不必逞强也行』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――都吵死了。烦死了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "…………我知道的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "我早就知道的！\u3000我知道自己有多弱小！！\n即使如此――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "我也绝不能退让！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『你怎么可能――是弱小的赛马娘啊！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『你怎么可能――是弱小的赛马娘啊！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘也这么想啊、训练员！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（老娘就是要一直做一个！\u3000强大的赛马娘！\n老娘就是要一直做一个！\u3000没有半分软弱的老娘！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "周围的赛马娘",
+      "Text": "咕……不能输啊……！\n哈啊啊…………啊啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "把你们的气势都压过来罢！\n还有嫉妒！\u3000尊敬！\u3000对胜利的执念！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "因为站在你们面前的、\n可是比谁都要――……强得一批的赛马娘口牙！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（哇啊啊啊啊啊！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "希望城是第一！！\n她实现了『英里CS南部杯』的连霸啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在希望城高举拳头的同时、\n撼天动地的欢呼瞬间爆炸。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北港火山",
+      "Text": "这就是……\n『反复推敲上百回的奔跑』……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北港火山",
+      "Text": "这样的奔跑、无人能及啊……。\n明明这么弯折扭曲――却又、这么美丽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "希望城作为最强的赛马娘、\n沐浴着赞誉与战意。",
+      "ChoiceDataList": [
+        "（完美的奔跑啊）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她的奔跑中、凝结着至今所有的指导。\n她已经彻底领悟并融会贯通了我教她的全部。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……堪称理想的教育。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "并非采用千篇一律的方法、\n而是因材施教、锤炼赛马娘的技术与能力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "更重要的是、她自己已经掌握了、\n发挥个人所长的方法。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "既然如此……\n她最后需要掌握的究竟是什么呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "……训练员先生、\n您认为对希城而言、\n什么样的教育才是必要的？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城的父亲",
+      "Text": "对于赛马娘来说……对于那丫头来说。\n您认为教育者的职责究竟是什么？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……泪水模糊了视野、把灯光折射得刺眼。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "鼓着掌的双手激动地发抖。\n但我明白这一定自己唯一能做的事情了――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……！\u3000喂、训练员！\n你也过来！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……因为你是老娘的训练员啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――下一场比赛、要由老娘决定吗？",
+      "ChoiceDataList": [
+        "嗯、这就是最后的课题了",
+        "嗯、这就是最后的课题了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "还课题……\n讲得跟老师似的、喂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "这种你定不就行了嘛。\n只要你说想让我去哪……。",
+      "ChoiceDataList": [
+        "不行啊、必须由你决定",
+        "不行啊、必须由你决定"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……――",
+      "ChoiceDataList": [
+        "因为这是非常重要的事情"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……明白了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "那我就完美地定给你看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "整出一个你这家伙绝对想不出来的最强路线来！",
+      "ChoiceDataList": [
+        "……嗯！我很期待！",
+        "……嗯！我很期待！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "噢！\n……满心期待着吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "想跑的比赛啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "不、大概不是这样的。\n……毕竟都说是“课题”了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "比赛、吗……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（――那家伙会怎么想呢）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……那家伙在每场比赛里、\n总是给出“先行”的指示。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "透过先行的跑法不仅锻炼出来了速度。\n……感觉爆发力也比以前更强了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……老娘已经变得、相当快了啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "毕竟在『柏纪念』之前、\n就把自己的全距离记录都更新了啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……哈哈哈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "那家伙、可真行啊。\n尽是搞些不寻常的训练。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "但也是拜它们所赐、\n爆发力和末脚都变得更猛了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……所以现在能跑有意思的比赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "在三个领域都强的赛马娘……\n肯定就算是最强的吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "决定了、训练员。\n老娘要参加『JBC短途赛』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "JBC短途赛"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "『JBC短途赛』是泥地的短距离GⅠ。\n是砂场速度豪杰齐聚的闪电战比赛。",
+      "ChoiceDataList": [
+        "能告诉我选择的理由吗？",
+        "能告诉我选择的理由吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "因为你总是让跑“先行”、\n我现在可以自如地驾驭奔跑的节奏了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "而且……爆发力也不成问题吧？\n老娘的速度天下第一。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "所以也把短距离拿下吧、\n叫全日本都吓破胆。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "要是英里中距离和短距离都很强……\n这样的赛马娘就是最强的吧？",
+      "ChoiceDataList": [
+        "这是基于自身的长处与目标做出的选择呢",
+        "这是基于自身的长处与目标做出的选择呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘可是要成为日本第一的赛马娘啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我对她给出的答案毫无异议。\n……然后在参赛意向表上填写了比赛名称。",
+      "ChoiceDataList": [
+        "成为最强的泥地赛马娘吧、希城",
+        "成为最强的泥地赛马娘吧、希城"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……啊啊。老娘选择的比赛、\n老娘一定会赢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "目标比赛变为JBC短途赛",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是、她做出了选择。\n下一个目标就是――『JBC短途赛』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……那家伙在每场比赛里、\n总是给出从后方追上去的指示。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "透过这种跑法不仅锻炼出来了速度。\n……感觉爆发力也比以前更强了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……老娘已经变得、相当快了啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "毕竟在『柏纪念』之前、\n就把自己的全距离记录都更新了啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……哈哈哈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "那家伙、可真行啊。\n尽是搞些不寻常的训练。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "但也是拜它们所赐、\n爆发力和末脚都变得更猛了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……所以现在能跑有意思的比赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "在三个领域都强的赛马娘……\n肯定就算是最强的吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "决定了、训练员。\n老娘要参加『JBC短途赛』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "JBC短途赛"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "『JBC短途赛』是泥地的短距离GⅠ。\n是砂场速度豪杰齐聚的闪电战比赛。",
+      "ChoiceDataList": [
+        "能告诉我选择的理由吗？",
+        "能告诉我选择的理由吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "嘛啊……\n我现在可以自如地驾驭奔跑的节奏了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "而且……爆发力也不成问题吧？\n老娘的速度天下第一。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "所以也把短距离拿下吧、\n叫全日本都吓破胆。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "要是英里中距离和短距离都很强……\n这样的赛马娘就是最强的吧？",
+      "ChoiceDataList": [
+        "这是基于自身的长处与目标做出的选择呢",
+        "这是基于自身的长处与目标做出的选择呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘可是要成为日本第一的赛马娘啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我对她给出的答案毫无异议。\n……然后在参赛意向表上填写了比赛名称。",
+      "ChoiceDataList": [
+        "成为最强的泥地赛马娘吧、希城",
+        "成为最强的泥地赛马娘吧、希城"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……啊啊。老娘选择的比赛、\n老娘一定会赢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "目标比赛变为JBC短途赛",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是、她做出了选择。\n下一个目标就是――『JBC短途赛』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……那家伙经常叫我跑“逃”啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "拜他所赐我成了抢占领先位的好手啊。\n争第一这块绝不输谁。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……这部分、\n是仰仗了老娘的毅力吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "虽然为此狠狠地做过了不少训练就是了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "那时候说什么配速配速的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "就连出道战去小仓的时候、\n要求我跑12秒的配速――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……那之后一晃已经两年了啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "真是做过不少训练了啊。\n耐力也狠狠地锻炼过了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "时间感也磨练到位了吧？\n不是常和飞鹰子在大巴上玩那个游戏嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "…………老娘已经成为强得一批的赛马娘了啊。\n真的……――强得一批啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……但是还有称号没拿到手吧。\n还没有把“那个”、收入囊中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "反正都决定要笑着……\n结束这一年。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "决定了、训练员。\n出战『冠军杯』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『冠军杯』、\n是去年也参加过的、秋之泥地王者的决定赛。",
+      "ChoiceDataList": [
+        "能告诉我选择的理由吗？",
+        "能告诉我选择的理由吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘的武器、就是毅力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "就用你亲手锤炼的这双逃足、\n把泥地的猛兽们都甩到身后。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "然后亲手摘下、\n『最优秀泥地赛马娘』的荣光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――再没有比老娘、\n更适合冠军头衔的赛马娘了吧？",
+      "ChoiceDataList": [
+        "这是基于自身的长处与目标做出的选择呢",
+        "这是基于自身的长处与目标做出的选择呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘可是要成为日本第一的赛马娘啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我对她给出的答案毫无异议。\n……然后在参赛意向表上填写了比赛名称。",
+      "ChoiceDataList": [
+        "成为最强的泥地赛马娘吧、希城",
+        "成为最强的泥地赛马娘吧、希城"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……啊啊。老娘选择的比赛、\n老娘一定会赢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "目标比赛变为冠军杯",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是、她做出了选择。\n下一个目标就是――『冠军杯』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
