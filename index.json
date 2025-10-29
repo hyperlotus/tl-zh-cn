@@ -245,8 +245,13 @@
     },
     {
       "path": "assets/atlas/single/single.diff.png",
-      "hash": "2f34b77859ea48580f7b670b2e36baa2a17533a78243d3c9b013e8f0943863c6",
-      "size": 22712
+      "hash": "b9e65d4fe7b5ec5cd486404bc72d834120fd4caafb1524d7e0ab04717aae56f7",
+      "size": 161980
+    },
+    {
+      "path": "assets/atlas/singlemodescenarioonsen/singlemodescenarioonsen.diff.png",
+      "hash": "e000a8869615521386e1df2b83c60a728f39887b77b78d278f9d6aea34113158",
+      "size": 40417
     },
     {
       "path": "assets/atlas/singlemodescenariopioneer/singlemodescenariopioneer.diff.png",
@@ -84719,6 +84724,11 @@
       "size": 2165
     },
     {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_header_turncounter00.json",
+      "hash": "66bbe76666ae0a95e9780d7bbbb4657a84f45b4bb863a3bab4e0b3d814450ffb",
+      "size": 1187
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_badge_shimatraining00.json",
       "hash": "c02e4e8cea7faee01a8251cf36236abb45b4b5814bd8e81c71c60fd5b69c592e",
       "size": 255
@@ -84735,8 +84745,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "69d7658c3753cedf2acda3bf9d3503d3f2b80c163c000a3dfb994f22c5bb3c36",
-      "size": 2361379
+      "hash": "1ea077a1e91f175d5868855d87e10c70d4f813d3b650a4df127d1ccd7a0511b7",
+      "size": 2366616
     },
     {
       "path": "config.json",
@@ -84760,8 +84770,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "3fe28d5f3e70aa84b60680d2a9b7e44d6b6309db2ea1a0d829e915093120783f",
-      "size": 420858
+      "hash": "aeb621815a018514d3d3b9f60be804e75e993b44712211e4f60909298d3b7361",
+      "size": 429010
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -84775,8 +84785,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "3be47e974b7d3d416fa6da52aeb31ee77fed5ae3f311d3cad6ebf0c01dbacb93",
-      "size": 4830007
+      "hash": "138038402e512f33c38372c533f033ae1eea50c7eafde8c24097fb355ec3fe52",
+      "size": 4843472
     }
   ]
 }
