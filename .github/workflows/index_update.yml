@@ -16,6 +16,9 @@ jobs:
         ref: dev
         fetch-depth: 0
 
+    - name: Install libgit2-dev
+      run: sudo apt-get update && sudo apt-get install -y libgit2-dev
+
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
