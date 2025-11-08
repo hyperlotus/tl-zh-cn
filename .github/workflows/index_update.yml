@@ -16,23 +16,26 @@ jobs:
         ref: dev
         fetch-depth: 0
 
-    - name: Set up Python
+    - name: 安装 libgit2 开发包
+      run: sudo apt-get update && sudo apt-get install -y libgit2-dev
+
+    - name: 设置 Python 环境
       uses: actions/setup-python@v5
       with:
-        python-version: '3.x'
+        python-version: '3.12'
 
-    - name: Install dependencies
+    - name: 安装依赖
       run: pip install -r requirements.txt
 
-    - name: Generate index.json
+    - name: 生成 index.json
       run: python gen_index.py
 
-    - name: Backup index.json for later use
+    - name: 备份 index.json
       run: |
         cp index.json /tmp/index.json
         rm index.json
 
-    - name: Merge dev into main and commit
+    - name: 合并 dev 到 main 并提交
       env:
         TZ: Asia/Shanghai
       run: |
