@@ -8724,6 +8724,11 @@
       "size": 1796
     },
     {
+      "path": "assets/story/data/08/0000/storytimeline_080000012.json",
+      "hash": "4b6dc3ac3e3d4ba3dac06c45dfb4a577366fc63caff7787d482849a4fd3d5222",
+      "size": 1997
+    },
+    {
       "path": "assets/story/data/09/0001/storytimeline_090001001.json",
       "hash": "049a216dcf04ce9fe58494ebfa1ea11748b48aec532b09a9431802caf555c89b",
       "size": 7593
@@ -84764,6 +84769,16 @@
       "size": 1187
     },
     {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_live_yukoma00.json",
+      "hash": "0c1c243ea764d38021ceb274b5094712593e0564a1100276c963c77bebc48ecf",
+      "size": 1478
+    },
+    {
+      "path": "assets/uianimation/flash/singlemode/onsen/pf_fl_singlemode_onsen_ticket_btn00.json",
+      "hash": "efcfa0c56131207e5001a5d13183ff2ccaf6b3a51f7ba14f7253094db30b5e0b",
+      "size": 256
+    },
+    {
       "path": "assets/uianimation/flash/singlemode/pioneer/pf_fl_singlemode_pioneer_badge_shimatraining00.json",
       "hash": "c02e4e8cea7faee01a8251cf36236abb45b4b5814bd8e81c71c60fd5b69c592e",
       "size": 255
@@ -84779,9 +84794,14 @@
       "size": 992
     },
     {
+      "path": "assets/uianimation/flashcombine/action/singlemode/onsen/fa_singlemode_onsen_ryokan_rank00.json",
+      "hash": "0289df2a3fd2b4b0a127c89c4a9cf811cda4728dbfe32bab334080c962f67b87",
+      "size": 635
+    },
+    {
       "path": "character_system_text_dict.json",
-      "hash": "1ea077a1e91f175d5868855d87e10c70d4f813d3b650a4df127d1ccd7a0511b7",
-      "size": 2366616
+      "hash": "f271ac5c0270088138ad5a40e494a06de45ff9beb9226068756ee98de2964de0",
+      "size": 2381993
     },
     {
       "path": "config.json",
@@ -84800,13 +84820,13 @@
     },
     {
       "path": "hashed_dict.json",
-      "hash": "4e2150ec78277ffc60273d67fed4ad39ed0ce7fc3d3f48133cc18ac018b0a2e8",
-      "size": 413618
+      "hash": "22013728470a3cdd525f3bb53d9de744e4f1ae20d9b672154fe8e2a1d0b129a3",
+      "size": 413801
     },
     {
       "path": "localize_dict.json",
-      "hash": "aeb621815a018514d3d3b9f60be804e75e993b44712211e4f60909298d3b7361",
-      "size": 429010
+      "hash": "27071aac93a2aec94da33405d51a63b5f67da784226daee0082052e1d632acc4",
+      "size": 429117
     },
     {
       "path": "race_jikkyo_comment_dict.json",
