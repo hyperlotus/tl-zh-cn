@@ -7663,5 +7663,7 @@
     "SingleModeScenarioOnsen194024": "已达到最高等级",
     "SingleModeScenarioOnsen194018": "{0}处＆\n{1}\n已获得",
     "SingleModeScenarioOnsen194017": "{0}处",
-    "SingleModeScenarioOnsen194012": "在下次选择源泉前无法更改"
+    "SingleModeScenarioOnsen194012": "在下次选择源泉前无法更改",
+    "SingleModeScenarioArc0008": "剩余{0}回合",
+    "SingleModeScenarioFree419039": "{0}回合限定"
 }
