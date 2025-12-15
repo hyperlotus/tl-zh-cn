@@ -1,0 +1,486 @@
+{
+  "Title": "ボクらの“绝对”",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "那天、我正和鹤丸刚志走在走廊上……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊！\n训练员、那里那里！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "顺着鹤丸刚志的视线看过去。\n只见那里站着学生会副会长气槽――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "气槽"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "是鲁道夫象征会长诶……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "与鹤丸刚志憧憬的赛马娘、\n学生会会长鲁道夫象征。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "气槽",
+      "Text": "会长。理事长那边来征询意见了、\n是关于下周开始的视察事宜……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鲁道夫象征",
+      "Text": "嗯。我打算顺便带这孩子一起去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "哼哼！\u3000和会长一起视察、\n我也会加油哒！",
+      "ChoiceDataList": [
+        "（啊！东海帝王也在！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "东海帝王是、\n称霸了『皐月赏』和『日本德比』的\n经典二冠赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "东海帝王"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "虽然中途有过因伤饮憾的时期……\n但在升入古马级后\n依然在GⅠ『日本杯』和『有马纪念』中取胜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "古马级",
+        "GⅠ",
+        "日本杯",
+        "有马纪念"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "尤其是她在受伤后时隔一年\n复出参赛的『有马纪念』上的胜利、\n留下了奇迹复活的传奇佳话。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄驹",
+      "Text": "我要成为连“皇帝”鲁道夫象征\n也能超越的“帝王”。\n呜～、这宣言真是帅爆了～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "帝王"
+      ]
+    },
+    {
+      "Name": "里见光钻",
+      "Text": "嗯嗯、说到做到这点好厉害啊。\n『有马纪念』的奇迹复活也是啊！\n『绝对是我赢啊～！』♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "北部玄驹",
+      "Text": "对对！\u3000还有啊、\n听说她还会是下一任学生会长哦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哇～～！\u3000哇啊啊啊～～～！\n真好啊、好帅啊～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就像那些远远围着、满怀憧憬地仰视着\n前辈的后辈们一样、鹤丸刚志的眼睛在闪闪发光。",
+      "ChoiceDataList": [
+        "（希望有一天、她也能距离自己的憧憬更近啊）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就在这次相遇那一周的周末。\n……一通电话响了起来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "电话另一头的声音",
+      "Text": "『哈――哈哈！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "电话另一头的小鹤",
+      "Text": "『小帝王！？\n你拿我的电话干什――！？』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "帝王"
+      ]
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "『咳哼！\n小鹤被本大爷扣押了！\n想救她就来游戏中心！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样、我被“小帝王”\n元气满满地叫了出去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "这边这边！\n小鹤的训练员！\u3000来这边哦――♪",
+      "ChoiceDataList": [
+        "两位好啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小鹤＆帝王",
+      "Text": "你好！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "才不是啦！\u3000对不起在休息日打扰你！\n小帝王你真是的……～！",
+      "ChoiceDataList": [
+        "没关系啦、话说回来你们两个关系真好啊",
+        "没关系啦、话说回来你们两个关系真好啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "哼哼！\u3000小鹤可是和我一样、\n都是最喜欢会长的同志呢！\u3000对吧♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "而且啊、我对小鹤的训练员有话要讲。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "咦、小帝王！？\n对我的训练员！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "没错。你们两个都给我听着！\n做好觉悟了吗？",
+      "ChoiceDataList": [
+        "嗯、洗耳恭听",
+        "嗯、洗耳恭听"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "很好很好♪\n那么马上……我们开始吧――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大头贴机",
+      "Text": "『请选择拍摄背景吧♪』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嗯？\u3000小帝王、\n你『想说的话』在哪……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "那个待会再说啦～！\n好啦你们两个快进去摄像亭！",
+      "ChoiceDataList": [
+        "咦！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哎呀！？\n小帝王～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是我和鹤丸刚志两人、\n被推进了大头贴机里头……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那个呢……训练员。",
+      "ChoiceDataList": [
+        "这个要怎么弄……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊哈哈～。\n我也一点都不懂……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "大头贴机",
+      "Text": "『那么要开始拍摄了哦♪\n推荐的姿势请看这里★』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……总之先摆好姿势吧？",
+      "ChoiceDataList": [
+        "啊、嗯嗯。是啊……",
+        "啊、嗯嗯。是啊……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我和有气无力的鹤丸刚志用手指比了个心形。\n这就是东海帝王的意图吗……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "――不对不――对！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "真是～、\u3000服了你们两个了！\n说到摆造型～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "就该是这样的吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――！！\n小帝王、那个姿势――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我知道那个“姿势”。因为它、\n在比赛界实在太过有名了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "――『这位赛马娘只要说出会赢\n便是“绝对”的！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "那个姿势、\n是鲁道夫会长赢下三冠时摆出的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "嘻嘻嘻！\n小鹤的出道赛快到了吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "来吧、两位做好觉悟吧！\n一旦出道、\n挑战经典三冠不过是眨眼间的事！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "还有身为训练员的你\n要相信小鹤所拥有的『绝对』！",
+      "ChoiceDataList": [
+        "『绝对』……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――…………绝对。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "嗯。因为我也曾有过那份绝对呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "无论在何处、处于何种状态。\n无论面对多么不可能多么艰难的局面、\n即便被告知毫无机会！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "小鹤她、一定有自己的绝对在哒。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "所以训练员要相信并见证。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "属于小鹤的绝对哦。",
+      "ChoiceDataList": [
+        "……嗯、我知道",
+        "……嗯、我知道"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――～～～好！\n小帝王！！\u3000训练员！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我要成为三冠赛马娘！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我一定要成为像“绝对强大”的鲁道夫会长\n一样的“绝对”强大的赛马娘啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "呢嘻嘻！\u3000很好、很好！！\n好啦、小鹤的训练员也说点什么！",
+      "ChoiceDataList": [
+        "好！小鹤、我们要赢下三冠！！",
+        "好！小鹤、我们要赢下三冠！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小鹤＆帝王",
+      "Text": "嗷嗷――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "呜嗷嗷嗷嗷嗷！\n燃起来啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "小帝王！\n照片的涂鸦就交给我吧！\n我要全力以赴去画！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "三冠三冠――啊疼！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "东海帝王",
+      "Text": "小鹤！？\u3000这……\n训练员、快去买冷饮来――！\n手指……小鹤的手指――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "就这样、我们在游戏中心痛快地玩耍了一番――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――训练员！\n昨天真是承蒙您照顾了！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "诶嘿嘿。然后呢～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "当当！",
+      "ChoiceDataList": [
+        "哦！这是……！",
+        "哦！这是……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "没错！\u3000我们和小帝王3人\n一起摆『三冠姿势』时的照片！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我把它设成手机壁纸了！\n既然那天、我们一起宣誓过了――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "就一定要成为“绝对”！\n成为三冠赛马娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后她竖起三根手指。\n脸上洋溢着与设置成手机壁纸的\n那张照片上相同的、灿烂笑容。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

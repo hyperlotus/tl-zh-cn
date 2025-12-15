@@ -1,0 +1,223 @@
+{
+  "Title": "日本德比にむけて",
+  "TextBlockList": [
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哈姆、哈姆哈姆……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "鹤丸选手\n也变得相当能吃了呢～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "呼呼。没想到才刚告别果冻\n最想吃的居然是肉包子……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "诶哼！\u3000我可是知道的！\n“运动后的补充餐”吃包子最合适！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "这是训练员告诉我的！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "鹤丸刚志的身体状况已经恢复了。\n现在的她能够在『日本德比』一战。",
+      "ChoiceDataList": [
+        "（……没事的）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我看着手中德比的参赛文件。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今天测得的成绩、\n甚至刷新了『皐月赏』时期的个人最佳记录。\n针对德比的作战方案也完美地制定好了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――这是综合了所有因素后做出的决定。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『日本德比』当天。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……嗯。我这边眼下没什么需要担心的了～。",
+      "ChoiceDataList": [
+        "好、刚志！全力地上吧！",
+        "好、刚志！全力地上吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……是！\u3000啊、还有！\u3000那个！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "非常感谢你们！\n训练员、大夫！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "哎呀哎呀、谢的太早了哦～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "比赛结束之后再谢不迟。\n……等到你获胜之后的。",
+      "ChoiceDataList": [
+        "我们相信着你的胜利、刚志",
+        "我们相信着你的胜利、刚志"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "～～、好的！！\n这次机会、我一定会把握住的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "虽然我让大家操了很多、\n很多心……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "但我会像会长那样、\n在德比的赛道上、把大家的担忧一扫而光！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（关门声！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（……做到了。做到啦做到啦做到啦！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（我、赶上啦！\u3000参加德比啦！\n和会长同样的德比……！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我要赢！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "久等啦！\u3000小特！\n小星！\u3000小圣王！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "角逐日本第一的決舞台――我来啦！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "喵哈哈、这可是这可是自信满满啊。\n那么那么你状态还好吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "万全！\n所以、今天――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "――小――――鹤――――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "没、没事哒～～～！\n别紧张、要要放放放松～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "戴宽丝带的赛马娘",
+      "Text": "今天赢下来呀～～～～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "呼呼。\n真好啊、小鹤的应援团。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嗯。干劲上来啦！\n……嘿嘿。吸～～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "看着吧～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我绝对！\u3000绝对绝对会！\n成为德比赛马娘的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

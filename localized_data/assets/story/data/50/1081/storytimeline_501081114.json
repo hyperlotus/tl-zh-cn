@@ -1,0 +1,600 @@
+{
+  "Title": "朝靄の焦燥",
+  "TextBlockList": [
+    {
+      "Name": "希望城",
+      "Text": "哈啊……呼……。\n……哈啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（――、脚步声……。\n是在跑步的那些家伙吧……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "――跟你讲哦～！\n人家、要参加下次的公开赛啦～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "所以明天呢、也来陪你晨练哦。\n……重赏赛小冠军♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "重赏赛"
+      ]
+    },
+    {
+      "Name": "赛马娘B",
+      "Text": "好好、知道啦。\n行啦、接着跑喽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "来啦～！\n嘿咻、嘿咻、嘿咻……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "其他人也都在拼命跑步训练啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（不管多早出门、\n总有人比我更早开始跑步…………）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "…………啧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（――必须、更努力才行）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（――必须、更使劲儿才行）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "呼…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "姆咪尼尼尼尼尼尼…………！\n哼嗯卟卟卟卟卟…………！",
+      "ChoiceDataList": [
+        "要不换成负荷更轻的项目吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "小……意……思――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈啊……哈呜……呼……。",
+      "ChoiceDataList": [
+        "休息一下、好好补充水分！",
+        "休息一下、好好补充水分！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自从确保了专属训练空间以来、\n希望城一直专注于训练、\n扎实地提升着实力。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但是最近……突然出现了明显的停滞感。\n明明身处能够集中的环境里、\n她就该不断进步才对的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……喂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "这个健身房……虽然现在被咱们包场了。\n平时也会有其他赛马娘在用吧？",
+      "ChoiceDataList": [
+        "……？嗯、应该是吧",
+        "……？嗯、应该是吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……是吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "说不定就有人能做到老娘做不来的肌肉训练吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――接着、几天后。\n更严重的变化出现了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈嘿……哈嘿――……。",
+      "ChoiceDataList": [
+        "（希城的成绩――掉了！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "何止是成绩下滑。\n连之前游刃有余的距离都开始喘得厉害……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……喂、训练员……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "再跑一圈、对吧……？",
+      "ChoiceDataList": [
+        "不、等等。那个、接下来……",
+        "不、等等。那个、接下来……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈……搞毛啊……。\n又把“教科书”拿出来了啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "行吧、等你……。\n呼……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "…………咕……。",
+      "ChoiceDataList": [
+        "睡、睡着了！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……刚解决了注意力的问题、\n新的问题又接踵而至。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我在“教科书”里追加了新的条目。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『必须解决：\n希望城无法发挥原有实力的问题』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "哦哟！\nHey, Espoir City!\nPlaying Sleeping Beauty?",
+      "ChoiceDataList": [
+        "……跳舞城？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "见到意外的来客、我不禁挺直腰板。\n跳舞城可是斩获了GⅠ2胜的实力派赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她和跑泥地赛的希望城不同主战草地比赛、\n本应没有交集才对……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "嘛、太累了自然会这样吧。\n你就让她多睡会儿吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "今天早上还刚和我较量一番呢。",
+      "ChoiceDataList": [
+        "……？『较量』？谁和你？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "？\u3000希城啊！\nWho else?",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "其实、和她一起跑还挺有意思呢。\n她总是带着恨不得把我吃掉的气势冲过来啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "跟希城一起并跑对我来说\n也是很好的热身运动呢。。",
+      "ChoiceDataList": [
+        "等等！……希城和你一起并跑？什么时候？",
+        "等等！……希城和你一起并跑？什么时候？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "Weren't you listening?\nThis morning!\n刚才也说了吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "……感兴趣的话要不要来看看？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "翌日。\n我来到跳舞城告诉自己的地方。\n在那里――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――她们两个人、都在。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "Morning、希城！\n昨天好好地睡了一觉吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "睡了！\u3000赶紧就位吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……据说这个晨训是1～2周前开始的。\n还是希望城主动邀请的。",
+      "ChoiceDataList": [
+        "（――我都不知道）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "既然她一直在和GⅠ赛马娘相互竞争、\n自然会消耗大量的体力和精力。\n更何况还是从一大早就开始――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这样一来……\n到了中午身体自然会动弹不得。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不论干劲多么足、专注力多么强、\n这样勉强自己肯定会出问题。\n结果就是导致训练质量跟着下滑――",
+      "ChoiceDataList": [
+        "（为什么、要瞒着我这么做……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "嘶哈……吸……\n呼――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "舞城……再来――",
+      "ChoiceDataList": [
+        "不行、希城。训练过度了",
+        "不行、希城。训练过度了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "诶……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊……咦？\n为啥训练员……等……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "喂、舞城！\n你丫、该不会――",
+      "ChoiceDataList": [
+        "今天的训练也改成休息、行吧？",
+        "今天的训练也改成休息、行吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――……啧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "Uh-oh...\n别用那么可怕的表情看我嘛。\n希城你――",
+      "ChoiceDataList": [
+        "她现在保持沉默就是“心里有数”的意思"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "……其实明白的吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "希望城自己肯定心知肚明。\n『自己正在过度训练』这回事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……所以、\n她才一直瞒着我做这种自主训练。\n为的就是不让我这个训练员发现。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "Wait, what!? 啊……希城？\n莫非你……\n一直都没告诉你的训练员……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……能做到。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘能做到！\u3000管它是和舞城的晨练！\n还是和你中午的训练！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "而且普通训练程度根本不够啊！\n不做到和舞城并跑的程度怎么行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "我要做！\u3000我能行！！\n…………老娘可是……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "强得一批的赛马娘口牙！！",
+      "ChoiceDataList": [
+        "……！！喂、希城！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "Ahh～……嗯――……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "……Sorry.",
+      "ChoiceDataList": [
+        "我才应该向你道歉……这不是你的错",
+        "我才应该向你道歉……这不是你的错"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "错的是没能及时发现她训练过度的自己。",
+      "ChoiceDataList": [
+        "……谢谢你告诉我"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "向跳舞城道谢后、\n我返回了学园。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后抱头沉思。\n……必须好好跟希望城确认、\n她到底对什么感到不满。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "照理说出道战以后的训练应该没有任何问题才对。\n然而她却主动开始过度的训练――",
+      "ChoiceDataList": [
+        "（为什么……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我打开教科书、\n把里面写满的真心话全部涂黑。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――『为什么』『不知道』、\n不能永远止步于这样的困惑里啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今日的训练内容是『休息』。\n……但是我有预感、于是走向跑道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――然后闪过脑海的不安、\n就这样化为了现实。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……慢死了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "开始吧、训练员。",
+      "ChoiceDataList": [
+        "……啊、在那之前、能听我说说吗"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……说啥。",
+      "ChoiceDataList": [
+        "你对我的训练、有哪里不满吗？",
+        "你对我的训练、有哪里不满吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "真有不满、还每天来陪你啊。",
+      "ChoiceDataList": [
+        "诶――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "抓紧时间开始吧。\n……中午的训练。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……你不是也过来了吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "脑内的困惑愈发膨胀。\n抓着教科书的力道随之加重。\n她带来的课题接二连三地向我袭来。",
+      "ChoiceDataList": [
+        "不行、今天休息！再这样你的身体会……！",
+        "不行、今天休息！再这样你的身体会……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "休个屁口牙！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "老娘是强得一批的赛马娘。\n瞧不起谁呢！\u3000……瞧不起谁啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――只要她肯稍微收敛一点那份好强、\n我就能给她做出最合适的指示了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "现在又一次、\n陷入了无计可施的窘境。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "到底该怎么做才能制止她过度训练啊。\n究竟该怎么样才能卸下她那容易硬挺的逞强啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……但是、我丝毫没有放弃指导她的打算。\n就是这个问题――也一定会解决给你看。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

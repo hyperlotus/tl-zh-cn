@@ -1,0 +1,490 @@
+{
+  "Title": "目标达成后・怀抱憧憬之人哟",
+  "TextBlockList": [
+    {
+      "Name": "年幼的刚志",
+      "Text": "欸！？\u3000姐姐、\n这个包包我可以拿走吗！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "年幼的刚志",
+      "Text": "这不是姐姐最中意的包吗！\n你不是也说过『鞋子很容易放进去』呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "刚志的姐姐",
+      "Text": "诶嘿嘿。喜欢的话就拿去用吧～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "刚志的姐姐",
+      "Text": "……就当是代替已经毕业的姐姐、\n希望小鹤你能继续加油啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "平板的声音",
+      "Text": "『现在来到了第4弯道\n这里是德比的关键点！\n赛马娘们一齐开始发力了――』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "这段录像是鲁道夫象征大人\n参加的那场『日本德比』吗～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "是的！\n这场比赛的会长超级厉害呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……在这场德比中、\n会长引发了震惊全场的轰动。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『鲁道夫象征还没有跟上来！？\n在第6、第7的位置！\u3000怎么回事、鲁道夫――！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "从第3弯道开始就是关键了、\n但会长却没有“发力”。\n甚至没有追上前面的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "人们开始焦急地喊道。\n『为什么提不起速度』『体力用尽了吗？』\n『已经来不及了！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――『那个鲁道夫也许要输了』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "怎么可能！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "会长是在进入最后直线才开始发力的！\n而且就这样漂亮地赢下了第一名！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "把担忧和不安、全部一扫而空！\n这就是“绝对强大”！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "所谓“绝对”就是不会输给任何人的存在啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――咦、光明学姐脏兮兮的诶！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊啊啊啊、对不起我说的太多了！\n都这个时间了您还在训练啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "请～不要在意呀～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "先搭话的是我呀。\n看到您的眼睛、不禁……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "我重新认识到了、所谓憧憬\n就是会让我们的眼睛变得亮晶晶～的东西呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "可不能让它蒙上阴影呀～。\n我也想要、变得亮晶晶～的呀～♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――……。\n光明学姐……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训――练――员！\n这边、这边还有位置～～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这一天、我受鹤丸刚志的请求\n来到了京都比赛场、『天皇赏（春）』的举办地。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "天皇赏（春）"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "光明学姐是4栏5号……！\n是目白麦昆前辈、\n连霸春天的时候同样的位置呢！",
+      "ChoiceDataList": [
+        "诶嘿！很了解目白家嘛？",
+        "诶嘿！很了解目白家嘛？"
+      ],
+      "ColorTextInfoList": [
+        "目白麦昆",
+        "春天"
+      ]
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "诶哼！\n……虽然我想这么说。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "只是临阵磨枪啦。\n因为我想好好了解同寝室的前辈。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "光明学姐是目白家的赛马娘、\n是一位怀抱着『想要像目白家的姐姐大人们那样』\n这样的憧憬的人。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……但是去年、她总是差了一点。\n没能赢下GⅠ比赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "但是但是！\u3000这个『天皇赏（春）』、\n正是目白家最为重视的比赛啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "所以今天我希望学姐能赢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……希望她能触及自己的憧憬。",
+      "ChoiceDataList": [
+        "……。说得对、咱们全力为她加油吧！",
+        "……。说得对、咱们全力为她加油吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "好的！\n吸～～～～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "光―――MING――！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "咳咳咳、咳呕！！",
+      "ChoiceDataList": [
+        "刚志！水、水！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哈……哈哈哈！\u3000只是呛到了！\n没事的！\u3000比起这个―――……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "光明学姐、加油啊～～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麦昆",
+      "Text": "呼呼。你有一位声音非常洪亮的朋友呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麦昆",
+      "Text": "光明、我知道你经历过的艰辛。\n但是你依然坚持奔跑、来到了这里。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白麦昆",
+      "Text": "去吧、捧起那面盾牌吧。\n为了成为你想成为的存在。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白赖恩",
+      "Text": "我们都在看着呢。\n直到你绽放出目白家光芒的最后一刻。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白赖恩",
+      "Text": "不论是麦昆、还是我。\n还有目白家的所有人――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "麦昆"
+      ]
+    },
+    {
+      "Name": "麦昆＆赖恩",
+      "Text": "――都相信着你。\n――都相信你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "……麦昆大人。\n赖恩姐姐大人……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "赖恩"
+      ]
+    },
+    {
+      "Name": "目白光明",
+      "Text": "我、出发了――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "在这争夺春之盾的古马级GⅠ『天皇赏（春）』\n在这庄严的舞台上率先冲线的是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "………………。\n……哈啊―――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "呀啊啊啊啊啊啊啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "目白光明冲线！！\n第一名是目白光明！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "将春之盾收入囊中的是目白！\n羊蹄山再次迎来了春天！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "～～～～……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "快看啊、训练员！！\n光明学姐、光明学姐她――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "光明学姐的眼睛……\n……非常的、闪耀啊……――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（哇啊啊啊啊啊啊――――！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白赖恩",
+      "Text": "――光明！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白赖恩",
+      "Text": "恭喜你、光明！！\n你是、你是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白赖恩",
+      "Text": "――目白的骄傲啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "……啊……啊啊啊……。\n谢谢……！\n谢谢…………！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（――啊啊）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众A",
+      "Text": "呜哦哦哦哦哦哦哦哦、这就是目白！\n不愧是目白光明！继承了目白的赛马娘啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（――这就是光明学姐的绝对啊）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（始终怀抱的、绝对要达成的信念）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……果然、“绝对”是存在的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在回去的新干线上。\n抵达东京的那一刻、\n她带着确信的语气低声说道。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "刚志、再次明白了！\n只要一心一意地持续祈愿、终有触及憧憬的一天！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训练员、敬请见证吧。\n我也会像鲁道夫会长一样――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――在德比上证明“绝对的强大”！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "今天也是休息天上班、休息天加班吗？",
+      "ChoiceDataList": [
+        "您不也是嘛"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "吼吼吼。\n凡事都需要做足准备嘛。这叫细致周到。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "我们不会重蹈『皐月赏』的覆辙。\n……对吧？",
+      "ChoiceDataList": [
+        "没错、加油！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我在笔记本上写下\n『日本德比』和『菊花赏』的预定日期。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后用红笔在上面画上醒目的一圈又一圈。",
+      "ChoiceDataList": [
+        "……至少直到最后一刻"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "目前还没有达成报名『日本德比』的目标。\n必须密切关注她的身体状况、\n实在不行的话必须放弃参赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――但是、无论发生什么。\n都一定要让她赶上经典三冠最后的比赛\n『菊花赏』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "windows": {
+    "bundle_name": "S4LC24TV3O6NHVW2JBSP757CBZZSYUHK"
+  },
+  "data": {
+    "an_root": {
+      "motion_parameter_list": {
+        "1": {
+          "text_param_list": {
+            "0": {
+              "text": "泉源"
+            },
+            "1": {
+              "text": "距离目标"
+            }
+          }
+        },
+        "2": {
+          "text_param_list": {
+            "0": {
+              "text": "结束"
+            }
+          }
+        },
+        "3": {
+          "text_param_list": {
+            "0": {
+              "text": "达成目标！"
+            }
+          }
+        }
+      }
+    }
+  }
+}

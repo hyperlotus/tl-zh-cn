@@ -1,0 +1,357 @@
+{
+  "Title": "粉丝感谢祭",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "今天是粉丝感谢祭。\n赛马娘们为了服务粉丝、\n会挑战各种各种的竞技项目！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……为了这一天、\n我做足了万全的准备。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "顶点不能让给任何人。\n请你好好见证吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是极峰斗志昂扬地出发了。\n她选择的项目是――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼斯风神",
+      "Text": "决定天下第一姐姐的『至高姐姐选拔赛』！\n比赛开始的说～～！",
+      "ChoiceDataList": [
+        "（还有这种比赛啊？）",
+        "（还有这种比赛啊？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众",
+      "Text": "『呀～～、姐――姐――！』\n『极峰同学、加油啊～！』\n『晨光！\u3000你才是姐姐啊！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "晨光"
+      ]
+    },
+    {
+      "Name": "艾尼斯风神",
+      "Text": "极峰酱、晨光酱、\n梦旅同学、高峰同学。\n……准备好了吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "梦旅",
+        "高峰"
+      ]
+    },
+    {
+      "Name": "艾尼斯风神",
+      "Text": "那么那么！\n姐姐们要挑战的课题是～……这个！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金船",
+      "Text": "喂、要把我当妹妹哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼斯风神",
+      "Text": "比赛内容是、用姐力把特设舞台上的小金船、\n迷得神魂颠倒的说！",
+      "ChoiceDataList": [
+        "黄金船、神魂颠倒……！？"
+      ],
+      "ColorTextInfoList": [
+        "金船"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "『太扯了』……我眼前仿佛浮现出这三个字。\n那个赛马娘、黄金船可是相当奇葩的啊……。",
+      "ChoiceDataList": [
+        "（你能行吗！？极峰……！）",
+        "（你能行吗！？极峰……！）"
+      ],
+      "ColorTextInfoList": [
+        "黄金船"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "――首先是一号选手。\n琵琶晨光。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "琵琶晨光"
+      ]
+    },
+    {
+      "Name": "黄金船",
+      "Text": "所以说、三枚切和二枚切压根没啥区别的吧！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "琵琶晨光",
+      "Text": "不、有区别的。\n二枚切是鱼身带中骨的状态……。\n……来、我再和你解释一次。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "梦之旅",
+      "Text": "……晨光同学。\n看起来陷入了相当的苦战啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "但她保持着耐心持续应对的决心。\n那也是需要姐力才能施展的技术。",
+      "ChoiceDataList": [
+        "（姐力是啥）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼斯风神",
+      "Text": "呼姆呼姆。姐姐们似乎在排队等待期间制定策略的说。\n那么、下一位――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白高峰",
+      "Text": "――真麻烦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼斯风神",
+      "Text": "哇啊――、高峰同学出手啦！\n情况会怎么样的说！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白高峰",
+      "Text": "……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金船",
+      "Text": "哦、要干架吗？\n不是小昆昆那种飘忽忽的感觉欸！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "昆昆"
+      ]
+    },
+    {
+      "Name": "目白高峰",
+      "Text": "――闭嘴。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金船",
+      "Text": "呃……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐姐评论家",
+      "Text": "――！？\u3000这、这是……威压系的姐姐！\n用威严令妹妹臣服、何等的姐而有力啊……！",
+      "ChoiceDataList": [
+        "（还有评委一样的角色在欸）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼斯风神",
+      "Text": "好――姐力！\u3000仅凭一句话就大幅领先！\n莫非第一的位置已经锁定了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "梦之旅",
+      "Text": "哦呀、哦呀。……哦呀。\n……这可不行啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "梦之旅",
+      "Text": "金船同学、过来这里。把你想要的……\n全部都告诉我好吗？\n姐姐会、实现你所有的心愿哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金船",
+      "Text": "啊哩呜啦……梦旅……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼斯风神",
+      "Text": "哇――噻、紧接着梦旅同学也加入战线！\n对巨匠同学磨练出来的宠爱技能绝赞发动的说～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼斯风神",
+      "Text": "那么最后的选手、极峰酱会如何出招呢～？",
+      "ChoiceDataList": [
+        "（……！终于轮到极峰上场了……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "――当然。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "这场比赛我赢定了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "黄金船同学。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "不、我说的不对。\n――……小金船。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼斯风神",
+      "Text": "呀～、是可爱系姐姐微笑！\n小金船也会被这招击倒吗～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金船",
+      "Text": "什么事同期。",
+      "ChoiceDataList": [
+        "诶、好冷静！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼斯风神",
+      "Text": "哎哟～！\u3000小金船的任性发动！\n直接无视设定对同期发动直球攻击的说！",
+      "ChoiceDataList": [
+        "（这下不是糟了吗！？）",
+        "（这下不是糟了吗！？）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "……。可以。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "我懂的。会配合你的。\n……毕竟也是到了这个年纪呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金船",
+      "Text": "哈……哈啊～！？\n什么年纪啊……说谁～～到了呀～～！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼斯风神",
+      "Text": "漂亮！\u3000极峰酱、灵活应对！\n巧妙利用对手的炸毛表现、\n成功打造『反抗期的妹妹与姐姐』的剧本的说！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "姐姐评论家",
+      "Text": "『姐妹羁绊岂是会被称谓影响之物』――精彩！\n这是只有对妹妹充满自信的姐姐才能使出的招数……！",
+      "ChoiceDataList": [
+        "（……这手妙呀！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金船",
+      "Text": "笨、笨笨蛋大笨蛋――！！\n谁会认你做我大姐头呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "扩音器",
+      "Text": "『――极峰、出局』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼斯风神",
+      "Text": "啊哦、遗憾！\u3000由于姐力溢出、\n导致小金船入戏太深的说！\n因为说出了与神魂颠倒正相反的发言、所以出局～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "诶！？\u3000请等一下！\n我的姐力还绰绰有余啊――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "最终在没能发挥出平时姐力的情况下、\n极峰的天下一姐武道大会就此落幕……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "没关系。我在朋友面前也会叫你金船同学的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金船",
+      "Text": "……。\n什么嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "黄金船",
+      "Text": "好了啦、你就。\n……接着叫我小金船也行啦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "艾尼斯风神",
+      "Text": "噢噢噢！\u3000那个小金船完全沉浸在妹妹的艺术里啦！\n小极峰惊天大逆转获胜的说～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "嘛啊！\u3000……呵呵、谢谢你。\n小金船。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是胜利的钟声鸣响。极峰在这一天、\n作为姐姐的境界又登上了一个新高度……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

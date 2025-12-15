@@ -1,0 +1,48 @@
+{
+    "data": {
+        "motion_parameter_list": {
+            "7": {
+                "text_param_list": {
+                    "0": {
+                        "text": "剩余"
+                    }
+                }
+            },
+            "16": {
+                "text_param_list": {
+                    "0": {
+                        "text": "回合"
+                    }
+                }
+            },
+            "6": {
+                "text_param_list": {
+                    "0": {
+                        "text": "回合"
+                    }
+                }
+            },
+            "12": {
+                "text_param_list": {
+                    "0": {
+                        "text": "结 束"
+                    }
+                }
+            },
+            "13": {
+                "text_param_list": {
+                    "0": {
+                        "text": "回合结束后\n开展沐浴会"
+                    }
+                }
+            },
+            "17": {
+                "text_param_list": {
+                    "0": {
+                        "text": "距离沐浴会还有"
+                    }
+                }
+            }
+        }
+    }
+}

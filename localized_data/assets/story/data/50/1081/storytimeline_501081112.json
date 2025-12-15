@@ -1,0 +1,579 @@
+{
+  "Title": "温泉旅行",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "在每年年末的大扫除的日子、\n新学期开始之前、\n我打算收拾下训练员室。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "把垃圾给我。\n我拿出去扔了！",
+      "ChoiceDataList": [
+        "了解、等我一下"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "噢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "为了不让她久等、\n我急忙筛查哪些资料不要。\n突然――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（掉东西的声音……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "嗯？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "一张纸片掉到地上。\n我把它捡起来。",
+      "ChoiceDataList": [
+        "『温泉旅行券』……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "诶！？\u3000这不之前、抽奖抽到的东西嘛！？\n原来你还没用啊！？",
+      "ChoiceDataList": [
+        "那个、毕竟没什么机会用嘛……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "诶诶～……！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "…………。嘛啊、既然最近没那么忙。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "好！\u3000扫除结束就去吧！\n正好放松放松身体！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "然后把脏东西都洗掉\n――结束这一年。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "嚯～～、氛围不错嘛！\n而且好大欸！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "浴池肯定也很大吧！！\n欧拉、训练员！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "行李给我。\n我来肯定比你搬得快。",
+      "ChoiceDataList": [
+        "……！那、拜托你了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……嗯。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "入浴中……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "噢、你也泡完了吗。",
+      "ChoiceDataList": [
+        "嗯、一不小心泡得有点久了呢",
+        "嗯、一不小心泡得有点久了呢"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……就知道会这样。\n欧拉。",
+      "ChoiceDataList": [
+        "诶……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "毕竟池子不是很热。\n我就猜到你会在里头发呆？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "你那点能耐我早就看穿了。\n然后、接下来是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "之后我也没什么特别的安排。\n稍微凉快点后、就可以回学园了――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "嗯……好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……你先在这里等着、训练员！\n我去问问那边的人！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "这附近肯定有什么能玩的地方吧！\n不可能啥都没有哒！",
+      "ChoiceDataList": [
+        "诶！？希城！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是希望城把我带来参加附近的祭典。",
+      "ChoiceDataList": [
+        "而且、什么时候换了件浴衣……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈昂、这是旅馆提供的服务啦！\n机会难得不尽兴怎么行！",
+      "ChoiceDataList": [
+        "原来如此……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "从刚才开始希望城就表现得很能干。\n居然还能这么快速地收集情报、\n并加以活用……。",
+      "ChoiceDataList": [
+        "感觉我已经没有什么可以教你的了",
+        "感觉我已经没有什么可以教你的了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看到希望城私底下也成长到这样、\n我不禁感慨万分。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。\n…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……还行吧。\n毕竟老娘、很完美。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。行了、赶紧开逛吧。\n首先是、那边的捞球！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "欧拉――――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "希望城朝着浮在水面的小橡胶球、\n志在必得地用力猛捞！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "我靠――――！？\n连一个球都没有……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "希望城闷闷不乐地盯着手里开了大洞的纸网。\n好一个漂亮的……大失败！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "咕……。",
+      "ChoiceDataList": [
+        "哈哈……",
+        "哈哈……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "不许笑！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她失败的主要原因在于用力过猛。\n在这件事上……我或许还有机会教教她。",
+      "ChoiceDataList": [
+        "那接下来换我帮你报仇！",
+        "那接下来换我帮你报仇！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "摊位的大叔",
+      "Text": "噢噢、是嘛是嘛！\n干劲满满嘛～、你。多谢惠顾！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "揣着她的那份不甘、我小心翼翼地拿好纸网。\n这是一场――复仇战啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……你怎么把网拿得那么后啊。",
+      "ChoiceDataList": [
+        "这是能把东西捞上来的诀窍哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "吼……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我仔细观察水面的流动、\n握紧纸网靠近小球。……然后顺势！",
+      "ChoiceDataList": [
+        "看招！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（我捞！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "噢噢～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "摊位的大叔",
+      "Text": "漂亮、你挺能干嘛～！\n都把小姑娘吓到了。",
+      "ChoiceDataList": [
+        "希城要不要再试试看？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "！\u3000哈……哈～～！？\u3000你丫表情几个意思！\n来就来！\u3000这次肯定能行！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "还有、你也一起来！\n刚才那招！\u3000再给我来一次！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（各种捞！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "摊位的大叔",
+      "Text": "哦、这位马娘小姑娘也变得熟练了呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "嘿嘿、必须哒！\n毕竟……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [
+        "……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "你丫、\n肯定还会点别的吧？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "套圈啊、钓水球啊？\n欧拉、都给我使出来！",
+      "ChoiceDataList": [
+        "诶诶！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "回过神来我已经被她拉着各种摊位跑。\n两人仿佛是怎么也玩不够的孩子一样。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "怎么说！？\n扔圈的时候该往哪里瞄！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "玩完这个就去射击吧！\n看我一发入魂！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "好、接下来去那边！\n训练员！\u3000这回……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但是时间已经比预定的晚了许多。\n――今天先到此为止吧。",
+      "ChoiceDataList": [
+        "希城、差不多该回旅馆了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……！\n…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……――yao。",
+      "ChoiceDataList": [
+        "诶？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "不要！！",
+      "ChoiceDataList": [
+        "诶诶！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "我不要！\u3000开什么玩笑！\u3000才不回去口牙！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "不是还有很多地方没逛吗！\n再说祭典又没有结束啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "而且我已经决定了！\n要跟你把所有摊位的玩法都学会！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "所以……不回！！\n老娘、还没玩够口牙！！",
+      "ChoiceDataList": [
+        "诶、希城……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……不要。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……要教就给我教到最后啊。\n你还有很多东西没有教我啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "所以……还没有结束啊。\n……不能结束啊。",
+      "ChoiceDataList": [
+        "…………"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……我不想结束。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……之后她便一动也不动。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看来是相当喜欢祭典里的摊位啊。\n……喜欢到有些顽固了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但也是因为她的这份固执、决不妥协……\n才有如今的希望城、如今的成就。",
+      "ChoiceDataList": [
+        "……真是的、拿你没办法啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "！\u3000就是说――",
+      "ChoiceDataList": [
+        "只能再多玩一会儿哦",
+        "只能再多玩一会儿哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……噢！\n那就再多陪我一会儿罢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "好啦！\u3000快跟上来！！\n一起玩到尽兴！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……哪怕只是再多一会儿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是之后、\n我和她一直逛到祭典的灯笼都熄灭了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "现在不回到旅馆准备回程也不行了。\n所以我对希望城开口说道――",
+      "ChoiceDataList": [
+        "……希城！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "…………――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――结束了。",
+      "ChoiceDataList": [
+        "回去吧、希城",
+        "回去吧、希城"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……――啊啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看着希望城依依不舍地回头看向祭典会场。\n我决定再多等她一会儿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那一刻、\n我感受到了与希望城之间\n无可替代的羁绊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

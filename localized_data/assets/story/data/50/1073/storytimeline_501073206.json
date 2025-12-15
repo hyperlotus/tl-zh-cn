@@ -1,0 +1,252 @@
+{
+  "Title": "京都大赏典にむけて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "那是夏季集训刚刚结束的时候。\n鹤丸刚志和她的同期们来到机场送行。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……下次小鹰再回来的时候、\n就是一切都结束之后了吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "世界的顶点・『凯旋门赏』！\n小鹰将在那里展翅高飞！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在法国・巴黎举办的\n角逐世界第一的祭典『凯旋门赏』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "过去、也有日本的名赛马娘们挑战过那座顶峰。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "结果却是……没能进板。第18名。第14名。\n那是一段屡战屡败的历史。\n即便如此、日本的赛马娘们依旧前仆后继。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "草上飞",
+      "Text": "即使世人们评价这种挑战是多么鲁莽、\n如果是小鹰的话――肯定能征服它吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "圣王光环",
+      "Text": "那就去留下辉煌的蹄迹吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "当然！\u3000你们也要展开漂亮的对决啊！\n小草和圣王要出战『毎日王冠』的吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "星云天空",
+      "Text": "而且很巧的是\n小特和小鹤也在同一天出战『京都大赏典』哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "没错！\u3000那个时候、\n小鹰的『凯旋门赏』也该结束了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "下次、我们所有人再相聚的时候、\n一定是大家都完成一次蜕变之后了啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "说的是啊。……好、那么――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "5人",
+      "Text": "一路顺风、小鹰！\n一路顺风、小鹰！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "神鹰",
+      "Text": "我出发啦、大家！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『好嘞、今天即将举行的是GⅡ京都大赏典！\n大批的粉丝们正涌入淀比赛场！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "GⅡ"
+      ]
+    },
+    {
+      "Name": "实况解说",
+      "Text": "『虽然在东边举行的毎日王冠也引人关注、\n但是果然西边的同期对决也牵动人心啊！\n赛马娘们登场啦！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――鹤丸刚志有朋友。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "既有挑战世界的朋友、\n也有在别处交锋的朋友。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "而更重要的是、在这片土地上有与她竞争的朋友。\n……或者说、是名为朋友的对手。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "今天是『京都大赏典』当天。",
+      "ChoiceDataList": [
+        "刚志、你已经能够与对手平等地交战了",
+        "刚志、你已经能够与对手平等地交战了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……是。",
+      "ChoiceDataList": [
+        "今天战斗的感受、正是你已经变强的证明",
+        "今天战斗的感受、正是你已经变强的证明"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――是！！",
+      "ChoiceDataList": [
+        "全力以赴吧！刚志！",
+        "全力以赴吧！刚志！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "是！！\n我不会输给任何人！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "现在向您介绍今天的参赛选手！\n为目白家带回春之盾的目白光明！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "目白光明",
+      "Text": "呼啊～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "志在必得、开启秋季征程的！\n今年的『皐月赏』赛马娘好歌剧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "好歌剧"
+      ]
+    },
+    {
+      "Name": "好歌剧",
+      "Text": "这场比赛、也将点缀在吾身“霸王”的王冠之上！\n所谓喜剧……便是终以主角的胜利落幕之物。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "然后然后最为瞩目的便是这两位！\n从秋季前就备受关注的同期宿敌\n她们的斗志此刻即将释放！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "实况解说",
+      "Text": "特别周和鹤丸刚志！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "……小鹤你、\n看了小鹰的比赛结果了吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "嗯、看了。\n……但是今天是我们的比赛日。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "呵呵…………嗯、是啊。\n……好嘞！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "今天是我拿下第一的日子！\n所以我连午饭也没吃！\u3000肚子空空的、\n反而更能集中精神！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "咦咦！？\u3000贪吃鬼小特竟然！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "没错！\n……因为我要打倒你嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "特别周",
+      "Text": "今天会赢的是我、会输的是你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "不、相反。你会输给我。\n……呵呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "先说好！\u3000我可是比无敌的对手还要\n――“绝对”强大！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

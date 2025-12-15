@@ -1,0 +1,529 @@
+{
+  "Title": "福引チャンス！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "新年之后过了不久、\n我在商店街偶遇希望城。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啊……。",
+      "ChoiceDataList": [
+        "那个……真巧啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "希望城始终一言不发。\n虽然没什么精神、但似乎心情并不坏。",
+      "ChoiceDataList": [
+        "（机会难得、得找个话题……！）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "瞧一瞧看一看、现在正在举办新春・大抽奖～！\n特等奖可是『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "一等奖是『上等胡萝卜肉排汉堡』\n二等奖是『一筐胡萝卜』\n三等奖是『一根胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咕～）",
+      "ChoiceDataList": [
+        "……嗯？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "来来来、快乐又开心的抽奖哦！\n任何人都可以来试一试～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "一等奖是『上等胡萝卜肉排汉堡』！\n每咬一口都会满溢出鲜美的肉汁、\n用整根软糯甘甜的胡萝卜制作的极品佳肴！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（咕～～～）",
+      "ChoiceDataList": [
+        "……好！我去抽个一等奖！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈、哈啊！？\n用不着――",
+      "ChoiceDataList": [
+        "你来给我加油吧！",
+        "你来给我加油吧！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "什゛……等等！\u3000别去！\n喂――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "啧、这都排上队了！？\n啊゛～…………！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "随你加油！",
+      "ChoiceDataList": [
+        "嗯！",
+        "嗯！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在希望城的声援中、\n我兴致勃勃地转动起抽奖机的摇杆！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "结果是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "不得了！\u3000恭喜你啊啊啊啊！！\n抽到了特等奖『温泉旅行券』呀～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "希望城",
+      "Text": "喂、这不是超了一等奖嘛！！",
+      "ChoiceDataList": [
+        "啊咧……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……真服你了。\n嘛啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人们",
+      "Text": "『诶诶诶！？\u3000终于抽出特等奖了吗！？』\n『中奖的是那个人！\u3000好厉害！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……运气不错嘛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "欧拉、训练员。用右手拿着旅行券。\n然后、用右手比个耶。",
+      "ChoiceDataList": [
+        "这、这样……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人们",
+      "Text": "『哇、哇啊……真好啊……』\n『那就是天选之人……！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "没错没错！\u3000就这样好好展示！\n再举高点！\u3000然后――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "就这样别动、老娘也来。",
+      "ChoiceDataList": [
+        "……希城？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……够没劲的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "那个旅行券、送你了！\n爱什么时候用随你！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "拜拜！",
+      "ChoiceDataList": [
+        "希城！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是希望城转身离开了、\n只留下了旅行券。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……这张券先收起来吧。\n至少、现在还不到用它的时候。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "恭喜你、1等奖～！\n奖品是『上等胡萝卜肉排汉堡』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "希望城",
+      "Text": "……有两下子嘛。",
+      "ChoiceDataList": [
+        "交给我准没错",
+        "交给我准没错"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "少蹬鼻子上脸。\n然后。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "虽说是在外面、\n但这要怎么吃啊？",
+      "ChoiceDataList": [
+        "我想想……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（做饭声）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "你还额外做了不少东西啊？",
+      "ChoiceDataList": [
+        "一定会让你吃到饱哦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "呜哇……\n烦人模式全开了啊……。",
+      "ChoiceDataList": [
+        "坐好、等会儿我"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "我拒绝。",
+      "ChoiceDataList": [
+        "诶！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "欧拉、再往那边挪挪！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……要洗的东西、\n居然堆了这么多。服了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "希望城也进到了厨房里。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "我开动了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……嘛、味道确实不赖啊。\n你做的也是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后、仿佛突然卸下了负担似的、\n她浅浅地笑了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "2等奖～！！\n奖品是『一筐胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "希望城",
+      "Text": "哈哈、这分量可够多啊……！",
+      "ChoiceDataList": [
+        "请问您还满意吗"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "不是一等奖啊。",
+      "ChoiceDataList": [
+        "咕……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……呵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "既然收到了这么多就好好享用吧。\n拿去舞城那里吧。",
+      "ChoiceDataList": [
+        "舞城是……跳舞城？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "嗯。交给那家伙的话――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "宴会呀――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "Thanks a lot!\n希城！\u3000训练员！\n今晚我一定会办一场最棒的BBQ派对！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哦哦、开烤开烤！\u3000开吃开吃！\n正好还欠舞城一个人情。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "嗯？\u3000人情？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "……之前陪我晨练那事儿。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "跳舞城",
+      "Text": "Oh!\u3000那都是陈年往事了吧！\n希城还真是integrity啊～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "IN……INTER……？",
+      "ChoiceDataList": [
+        "就是说你重情重义"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希城＆舞城",
+      "Text": "哈、哈啊啊～～！？\nThat's right!",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "于是、昔日并肩奔跑的两人开启了一夜的宴席。\n夜空中回荡着赛马娘们的欢声笑语。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "3等奖～！\n奖品是『一根胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "希望城",
+      "Text": "噗嗤……。",
+      "ChoiceDataList": [
+        "……为什么",
+        "……为什么"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "你那么干劲十足\n结果就抽到一根胡萝卜……噗噗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "这最多就当个零嘴嘛！",
+      "ChoiceDataList": [
+        "能当零食就已经够好了吧？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "真要开吃的话、\n反而会更饿吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "欧拉、干脆带我去家庭餐厅得了。\n我要吃饭。",
+      "ChoiceDataList": [
+        "……行、我请你"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "噢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "在前往家庭餐厅的路上、\n那根胡萝卜转眼间便消失在了她肚子里。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "可惜、没抽中！\n参加奖是『卫生纸』哦～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "希望城",
+      "Text": "……。",
+      "ChoiceDataList": [
+        "…………"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "别比老娘还失落口牙！\u3000笨蛋！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "结果落空、什么奖品都没有抽到……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

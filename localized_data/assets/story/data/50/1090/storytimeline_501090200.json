@@ -1,0 +1,191 @@
+{
+  "Title": "デビュー戦にむけて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "极峰的出道赛将在札幌比赛场举办。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "出道"
+      ]
+    },
+    {
+      "Name": "",
+      "Text": "闪耀系列赛的征程将由此开始、\n她也将迎来紧张的首战、但――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "姐姐――！\n你看――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "我们发现了一座不错的雕像、\n就和高尚亲一起拍啦♡",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "啊啦、真可爱啊！\n还好好地比了一个心型呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "因为、强击非要拉着我做……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "说起来、全部都是她硬拉着我的……。\n连来札幌这里都是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "是的、两个妹妹也追随极峰来到了北海道。\n因为两人尚未出道所以行动挺自由的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "反正你是跟爸爸他们撒娇要过来的吧？\n那两人太惯着你了啦……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "不是的！\n是妈妈说跟过去看看嘛～的！",
+      "ChoiceDataList": [
+        "（那位母亲啊……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "不知是巧合还是早有预料……\n两个妹妹的同行给极峰带来了正面的影响。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "自从见识过贵妇人的公开声明后、\n她就一直是精神紧绷的状态――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "再说了、姐姐也会觉得碍事吧。\n我们这样过来玩似的模样……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "不会哦？\n你们两个能过来、我心里踏实多了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "对了、我从火山同学那里听说了马赞（umasta）上、\n很火的土特产。回去的时候一起去看看吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "火山"
+      ]
+    },
+    {
+      "Name": "强击",
+      "Text": "！！\n好耶――！\u3000我要去♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "高尚也来吧。\n听说有很好吃的海鲜肉包呢？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "！\n肉包子……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "呵呵。\n敬请期待吧。",
+      "ChoiceDataList": [
+        "（嗯、放松的恰到好处）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "高尚骏逸",
+      "Text": "……不是啦。\n都说我们不是来玩的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "啊、对哦！还有比赛呢！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "强击",
+      "Text": "姐姐加油呀！\n我们会在特等席给你加油的♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "――我会的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "放心看着吧。\n不会让你们看到丢人的表现的！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "收到了来自妹妹们的声援、\n极峰的斗志似乎被引到了积极的正向。\n她为了今天一都在努力。",
+      "ChoiceDataList": [
+        "设定的数值都达标了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "是啊。\n刚好赶上了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "接下来、\n只需展现出与顶点相称的奔跑即可……。",
+      "ChoiceDataList": [
+        "来试试看吧、我们究竟能做到什么程度！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "是啊。\n看清楚现在的自己处于什么位置……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "极峰",
+      "Text": "妹妹们也在看着呢。\n――让我们华丽地完成这次起跑吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

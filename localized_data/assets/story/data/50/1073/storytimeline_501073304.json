@@ -1,0 +1,419 @@
+{
+  "Title": "皐月赏の後に・一冠目で",
+  "TextBlockList": [
+    {
+      "Name": "实况解说",
+      "Text": "制霸『皐月赏』的是鹤丸刚志！\n没想到她战胜了三大强敌！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哈啊、咿……哈……\n哈……哈……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊啊啊啊……！\n啊啊啊啊啊……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（赢了……！\u3000我赢啦……！\n赢啦、赢啦……！\u3000我也――！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "（像会长一样！\n向“绝对强大的”赛马娘――！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "训……练……员……！\n……我、我……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "冷静一下～、鹤丸选手。\n来、吸～、呼～……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……训练员。\n已经和工作人员确认取得许可了。\n现在开始输液哦。",
+      "ChoiceDataList": [
+        "……好的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我们让情绪有些亢奋的鹤丸刚志\n坐到椅子上、开始做赛后处理。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "对她而言\n比赛并非唯一的战斗。\n接下来的这段时间――还有与身体的较量。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……我……还……\n有演出……吧……。",
+      "ChoiceDataList": [
+        "……嗯。我知道的",
+        "……嗯。我知道的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "好吧……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "鹤丸选手、手指。能看到吗～？\n我伸出了几个啊～？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "2个！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……总之看起来没有问题呢。",
+      "ChoiceDataList": [
+        "要是感觉身体不对劲、就立刻退到舞台边上啊",
+        "要是感觉身体不对劲、就立刻退到舞台边上啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "诶嘿嘿。不用担心！\n我会好好唱到最后的啦！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "必须要让观众们看到坚强的鹤丸刚志才行呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "然后我们送鹤丸刚志走上舞台。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……这场胜者舞台、\n就是最后了吧。",
+      "ChoiceDataList": [
+        "……是的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "『无尽延续下去的\nwinning the soul―――！！』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "站在舞台中央的鹤丸刚志、\n沐浴着全场投向她的狂热。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "火花飞溅、欢呼声震耳欲聋。\n在狂欢风暴中心的她、竖起一根手指――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "哈……哈……非常感谢各位前来观战！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――我、―――……我――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……――啊……？",
+      "ChoiceDataList": [
+        "欸……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "该不会……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "观众席的女性",
+      "Text": "……咿呀啊啊啊啊啊啊啊―――！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "URA员工",
+      "Text": "担架！\u3000快抬担架来！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "URA员工",
+      "Text": "有一名赛马娘倒了！\n倒下的是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――……嗯、嗯嗯……。",
+      "ChoiceDataList": [
+        "刚志！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊咧、训练员？\n啊――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "对、对不起！\u3000我、我！\n在演出的时候干了什么啊――！！",
+      "ChoiceDataList": [
+        "比起那些还好你还能睁开眼、太好了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "……啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那之后、演唱会的混乱、\n由舞台上的星云天空担当MC巧妙地控制住了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "托她的福，虽然我们还有各方问题要处理、\n但是现在可以专注在鹤丸刚志的身上。\n一心祈祷着她的康复……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "竟然会那样……。",
+      "ChoiceDataList": [
+        "所以说你不用在意了嘛",
+        "所以说你不用在意了嘛"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "………………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "训练员。\n这边医院的大夫有话要说。\n……我们过去听听吧。",
+      "ChoiceDataList": [
+        "好。……刚志、一会见",
+        "好。……刚志、一会见"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "啊、那个！\n训练员！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――我、还没有结束呀！！",
+      "ChoiceDataList": [
+        "！！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "赢下德比、还要赢下『菊花赏』！\n我要成为三冠赛马娘！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "――“绝对”没问题、“绝对”强大！\n我要成为那样的赛马娘！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "这次真的非常抱歉！！\n明天开始还请多多指导我！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "我和你们二人一起！\n要成为三冠赛马娘啊！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "…………鹤丸选手。",
+      "ChoiceDataList": [
+        "……没错！明天再开始努力吧、刚志！",
+        "……没错！明天再开始努力吧、刚志！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "鹤丸刚志",
+      "Text": "是！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "（嘎啦啦啦……）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……训练员。\n那孩子没有指责我们啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "失去了意识……醒来时已在医院。\n明明经历了如此可怕的事情之后。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "既不害怕、也不生气、更不悲伤。\n那孩子最先担心的、竟然是――",
+      "ChoiceDataList": [
+        "……因为她就是那样的孩子"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "大夫、下一场就是德比了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……『日本德比』可是2400m长啊。\n比这次的赛道、还要长400m。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "而且那个地方、\n是众所周知的全体赛马娘的梦之舞台。\n毫无疑问……会带来比今天更大的负担。",
+      "ChoiceDataList": [
+        "即便如此她肯定没有问题的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……你的、根据是？",
+      "ChoiceDataList": [
+        "她有我们在",
+        "她有我们在"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "指甲嵌进掌心。\n只要是自己承受的痛苦、无论多少都无所谓。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "因为她正承忍受着更强烈的痛楚、\n咬紧牙关在前进啊――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "…………训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "我明白你的决心。\n也明白你是在完全知晓后果的情况下说这些话的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "所以啊……请松开你的手吧。\n她的未来、还需要你的双手支持呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "…………哎呀。这可是这可是责任重大啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "……训练员。\n咱们先去大医院的大夫那里、\n好好挨顿训吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "老爷爷大夫",
+      "Text": "为了我们能够、\n好好地撑起未来的三冠赛马娘的夢想啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}

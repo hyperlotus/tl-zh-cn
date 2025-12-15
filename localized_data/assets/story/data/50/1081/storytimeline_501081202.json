@@ -1,0 +1,187 @@
+{
+  "Title": "チャンピオンズCにむけて",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "我翻开教科书。\n然后将『最强赛马娘』设定成……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……跑过和『冠军杯』同样的\n中京1800m赛道比赛。",
+      "ChoiceDataList": [
+        "起跑的坡道貌似是关键"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "坡道？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "中京1800m赛道、是从坡道中段起跑的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "所以第一步不宜冲得太猛、\n最好逐步调整姿势并一边加速才利于发挥。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "逐步调整……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "――呜、这样行吗！？",
+      "ChoiceDataList": [
+        "再慢点！避免失足！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "知道啦！\n……哈啊啊啊啊啊啊啊啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "哇～、希城同学的训练、\n看起来好难哦……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘B",
+      "Text": "毕竟是南部杯夺冠的实力派嘛。\n水平高不是理所当然嘛？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "知道是知道啦……可是这也……\n呜哇～……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "哎呀嘛啊、\n大家都在仰望着呢……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "创升",
+      "Text": "啊哈哈、\n希城真是一下子就崭露头角了呢～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "是啊、真的……。\n不愧是希城同学啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "……正因如此、才是值得挑战的对手呀。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "呐、阿创同学。\n能再陪我加练一轮吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "创升"
+      ]
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "我也有、\n非奔跑不可的理由了呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――『冠军杯』当天。\n沙场豪杰齐聚一堂。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我已经对希望城、\n倾注了时至今日能付出的一切。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "她的实力不逊于任何对手。\n这场比赛、也一定能――！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "哦。这不是锐骏嘛。\n你也来参赛了啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "锐骏"
+      ]
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "是的、我来啦～。\n还请多多指教啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "不是、指教什么的……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "别说得这么轻飘飘的、\n倒是放点我干爆你啊、揍翻你啊\n这样的狠话啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "这里可是、\n『冠军杯』啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "希望城",
+      "Text": "（只要赢下这场比赛！\n只要赢了！\u3000老娘就――！！）",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "嗯～、说的是呀。\n这可是争夺冠军宝座的比赛呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "所以我也来挑战了呀。\n嘿咻、打起精神来喽。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "奇锐骏",
+      "Text": "来吧、我的斗志烧得咕嘟咕嘟喽！\n看我好好努力一番！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
+}
