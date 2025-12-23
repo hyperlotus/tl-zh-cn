@@ -1,267 +1,352 @@
 {
-    "title": "温泉旅行",
-    "text_block_list": [
-        {
-            "name": "爱如往昔",
-            "text": "训练员先生。\n……您还记得吗？"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "之前，在抽奖活动中……\n抽中了『温泉旅行券』的事。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "那时候没有给出的答复……\n现在告诉我……可以吗？"
-        },
-        {
-            "name": "旁白",
-            "text": "――此刻是何时，何时是此刻。\n早已忘却。"
-        },
-        {
-            "name": "旁白",
-            "text": "唯一确定的是……\n爱如往昔，就在这里。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "――训练员先生。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "没事吧？",
-            "choice_data_list": [
-                "……这里是……"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "巴士马上就要来了呢。\n请再稍等片刻。",
-            "choice_data_list": [
-                "――我，做了个梦……"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……啊啦。\n是怎样的梦呢？",
-            "choice_data_list": [
-                "那是……与你相遇时的……",
-                "那是……与你相遇时的……"
-            ]
-        },
-        {
-            "text": "…………。",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "梦里的我，\n是怎样的呢？",
-            "choice_data_list": [
-                "非常……可怕……"
-            ]
-        },
-        {
-            "text": "……――",
-            "name": "爱如往昔",
-            "choice_data_list": [
-                "但是――又……很美……"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……训练员先生。"
-        },
-        {
-            "name": "旁白",
-            "text": "――在浑浊的意识中，记忆交织。\n但无论截取哪一段……都充满冲击、\n充满刺激……内心里，洋溢着幸福。"
-        },
-        {
-            "name": "旁白",
-            "text": "但是……唯独有一件事——"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "我，今后也要……\n继续，参加比赛。"
-        },
-        {
-            "name": "旁白",
-            "text": "如今想来……倘若那时，\n她没有压抑本能，而是选择解放一切\n持续奔跑的话——"
-        },
-        {
-            "text": "若是选择了不同的道路——",
-            "name": "旁白",
-            "choice_data_list": [
-                "那个，爱昔……你……——",
-                "那个，爱昔……你……——"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……那个……您。那个……。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……嗯，这样就好。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……没关系的。\n请慢慢休息吧……。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "在这，训练员先生。\n……我们到了哦。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "请您务必好好\n保重自己……。"
-        },
-        {
-            "text": "入浴中……。",
-            "name": "旁白"
-        },
-        {
-            "name": "旁白",
-            "text": "――回过神来，已经到了房间里。\n而身着浴衣的爱如往昔静静站在那里……。"
-        },
-        {
-            "text": "啊，训练员先生……。",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "您感觉，怎么样？",
-            "choice_data_list": [
-                "有点……累了……"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……毕竟是一段长途旅行呢。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "我帮您，打开窗户吧。\n今晚的星星真的很美呢……――"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "您看……\n觉得怎么样？",
-            "choice_data_list": [
-                "有点模糊……看不太清……"
-            ]
-        },
-        {
-            "text": "……。\n……很美呢，非常美。",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "choice_data_list": [
-                "呐爱昔……",
-                "呐爱昔……"
-            ],
-            "text": "就像您注视着奔跑的我时，\n那般的眼神……。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "怎么了？",
-            "choice_data_list": [
-                "下次……你想参加，什么比赛？"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……！",
-            "choice_data_list": [
-                "爱如往昔……应该被更多人喜爱……"
-            ]
-        },
-        {
-            "name": "旁白",
-            "text": "想要继续延伸她的轨迹。\n想要让她的名字被更多人知晓。\n然后——\n\n",
-            "choice_data_list": [
-                "想和你……一同奔向任何地方……",
-                "想和你……一同奔向任何地方……"
-            ]
-        },
-        {
-            "text": "…………。",
-            "name": "爱如往昔"
-        },
-        {
-            "text": "……呐，训练员先生。\n我想继续听您刚才\n未说完的话。",
-            "name": "爱如往昔"
-        },
-        {
-            "text": "我……怎么了？",
-            "name": "爱如往昔",
-            "choice_data_list": [
-                "……你选择了“这边”……",
-                "……你选择了“这边”……"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……是的。",
-            "choice_data_list": [
-                "幸福吗？"
-            ]
-        },
-        {
-            "text": "……。",
-            "name": "爱如往昔",
-            "choice_data_list": [
-                "我一直……一直都很幸福哦",
-                "我一直……一直都很幸福哦"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "训练员先生。\n……我来帮您，擦干头发吧。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "请，到这边来……。"
-        },
-        {
-            "name": "旁白",
-            "text": "――困意再次加深。\n界限，逐渐模糊……。",
-            "choice_data_list": [
-                "爱昔……你……",
-                "爱昔……你……"
-            ]
-        },
-        {
-            "name": "旁白",
-            "choice_data_list": [
-                "爱昔……？"
-            ],
-            "text": "――那时。\n脸颊感受到冰冷之物。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……啊，……抱歉。\n头发，还没完全……擦干。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "是的。\n非常……非常幸福。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "然后――从今往后也是。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "无论以何种形式，\n必定……会陪伴在您身边。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "很幸福。真的……\n――非常幸福……。"
-        },
-        {
-            "name": "旁白",
-            "text": "我在这段时光中，\n深刻地感受到了\n与爱如往昔之间无可取代的情谊……。"
-        }
-    ]
+  "Title": "温泉旅行",
+  "TextBlockList": [
+    {
+      "Name": "爱如往昔",
+      "Text": "训练员。\n……你还记得吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "之前、抽奖的时候……\n我们抽到了『温泉旅行券』。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "当时你没给出的答复……\n现在、能告诉我吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――现在是什么时候、什么时候是现在。\n我早已分不清。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但有一件事情能够确认……\n爱如往昔她、就在这里。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "――训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "你没事吧？",
+      "ChoiceDataList": [
+        "……这里是……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "大巴就快到了。\n请再稍微等一下。",
+      "ChoiceDataList": [
+        "――我做了一个梦……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……啊啦。\n梦到了什么呢？",
+      "ChoiceDataList": [
+        "梦到了……和你邂逅的时候……",
+        "梦到了……和你邂逅的时候……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "梦里的我、\n是什么样子的啊？",
+      "ChoiceDataList": [
+        "非常的……可怕……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……――",
+      "ChoiceDataList": [
+        "但是――又那么的……美丽……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……训练员。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――在模糊的意识中、记忆变得朦胧。\n但是、无论是哪段回忆……都是那么的、\n震撼、刺激……让我心中、充满了幸福。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但是……唯有一件事――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "我、今后……\n还要参赛。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "现在回想起来……倘若、那个时候、\n在她打算完全释放本能、\n继续跑下去的那个时候――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "选择了另一条道路的话――",
+      "ChoiceDataList": [
+        "你说、往昔……你……――",
+        "你说、往昔……你……――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……那个……你。就是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……不、这样就好。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……没事的。\n请好好地、休息吧……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "就是这里、训练员。\n……我们到了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "请充分地、\n好好地犒劳下自己吧……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "入浴中……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――回过神来、我已来到房间里。\n身着浴衣的爱如往昔就站在身旁……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "啊、训练员……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "现在感觉如何？",
+      "ChoiceDataList": [
+        "感觉……好累……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……毕竟这趟旅途很漫长啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "我现在给你打开窗户吧。\n今晚的星星可漂亮啦……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "你看……\n怎么样？",
+      "ChoiceDataList": [
+        "朦朦胧胧的……不太看得清……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……呜。\n……非常、漂亮哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "就像是在看我奔跑时的、\n你的目光一样闪亮……。",
+      "ChoiceDataList": [
+        "呐、往昔……",
+        "呐、往昔……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "什么事？",
+      "ChoiceDataList": [
+        "下一场……你打算参加哪个比赛？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……！",
+      "ChoiceDataList": [
+        "爱如往昔……应该得到更多的爱……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我想让她的轨迹、更长久地延续下去。\n我想让她的名字、为更多的人所知。\n然后――",
+      "ChoiceDataList": [
+        "我想和你……跑遍天涯海角……",
+        "我想和你……跑遍天涯海角……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "…………。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……呐、训练员。\n你刚才想问我的问题是什么。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "我……什么？",
+      "ChoiceDataList": [
+        "……你、选择了“这里”……",
+        "……你、选择了“这里”……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……是的。",
+      "ChoiceDataList": [
+        "幸福吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……。",
+      "ChoiceDataList": [
+        "我一直……一直都很幸福啊",
+        "我一直……一直都很幸福啊"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "训练员。\n……我来帮你弄干头发吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "请过来、这边……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――困意开始席卷而来。\n界限开始变得暧昧……。",
+      "ChoiceDataList": [
+        "往昔……你……",
+        "往昔……你……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――这时候。\n我的脸颊上、感到一丝冰凉。",
+      "ChoiceDataList": [
+        "往昔……？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……呜、……不好意思。\n头发、有点……难干。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "是的。\n我非常……非常地、幸福。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "而且――从今往后。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "无论是以何种形式、\n我都会……陪在你的身旁。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "我很幸福。真的……\n――非常幸福……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "那一刻、\n我感受到了与爱如往昔之间\n无可替代的羁绊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }
