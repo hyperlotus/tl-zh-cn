@@ -1,456 +1,608 @@
 {
-    "title": "抽奖试手气！",
-    "text_block_list": [
-        {
-            "name": "旁白",
-            "text": "与爱如往昔一同，\n购买训练用具的回去的路上——"
-        },
-        {
-            "text": "真是，相当热闹呢……。",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "商店街的人",
-            "text": "来来，现在正在举行新春・祭典大抽奖活动～！  \n特等奖竟然是『温泉旅行券』！",
-            "color_text_info_list": [
-                "温泉旅行券"
-            ]
-        },
-        {
-            "name": "商店街的人",
-            "text": "1等奖是『特级胡萝卜汉堡肉』  \n2等奖是『一大堆胡萝卜』  \n3等奖是『一根胡萝卜』！"
-        },
-        {
-            "name": "商店街的人",
-            "text": "瞧一瞧看一看啦，激动人心的抽奖活动！  \n各位快来参与吧～！"
-        },
-        {
-            "text": "抽奖……。",
-            "name": "爱如往昔",
-            "choice_data_list": [
-                "要试试吗？"
-            ]
-        },
-        {
-            "name": "旁白",
-            "text": "刚才购物的时候  \n获得了一张抽奖券。  \n本想若，有兴趣的话——"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……训练员先生，  \n那里面有……您感兴趣的东西吗？",
-            "choice_data_list": [
-                "诶？嗯……"
-            ]
-        },
-        {
-            "name": "旁白",
-            "text": "本着奖品送给她的前提，  \n随便看了一眼浏览着奖品清单。  \n果然引人注目的还是——",
-            "choice_data_list": [
-                "若是我自己……会选『温泉旅行券』吧"
-            ]
-        },
-        {
-            "text": "……！",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "既然如此，就尝试挑战一下吧……  \n不，是想要尝试……！"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "那个，大叔。  \n请让，我抽1次奖。"
-        },
-        {
-            "name": "商店街的人",
-            "text": "欢迎光临欢迎光临欢迎光临哟—！  \n来来，哪位要来挑战一下呢～！"
-        },
-        {
-            "text": "那……那个……。",
-            "name": "爱如往昔",
-            "choice_data_list": [
-                "不好意思，我要抽一次奖"
-            ]
-        },
-        {
-            "name": "商店街的人",
-            "text": "哦哦—，好嘞—！  \n那转转盘就交给小姑娘咯？"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "好、好的……  \n拜托您了……！"
-        },
-        {
-            "text": "爱如往昔鼓起勇气  \n转动了抽奖机的把手！",
-            "name": "旁白"
-        },
-        {
-            "text": "结果是——",
-            "name": "旁白"
-        },
-        {
-            "name": "商店街的人",
-            "text": "竟然！恭喜你们啊啊啊！！  \n特等奖『温泉旅行券』，抽出来啦～～～～！！"
-        },
-        {
-            "name": "旁白",
-            "text": "获得了『<itemname>』",
-            "color_text_info_list": [
-                "<itemname>"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "呀……！"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "训……训练员先生……！！",
-            "choice_data_list": [
-                "太厉害了不是吗，爱昔……！",
-                "太厉害了不是吗，爱昔……！"
-            ]
-        },
-        {
-            "text": "是，是的……！",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "商店街的人",
-            "text": "恭喜啊，小姑娘！  \n刚才的气势可真不得了！"
-        },
-        {
-            "text": "看来，你真的非常想去温泉呢。  \n来，请收好！",
-            "name": "商店街的人"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "谢……谢谢您……！"
-        },
-        {
-            "text": "……决定了！",
-            "name": "爱如往昔"
-        },
-        {
-            "text": "那个，训练员先生。  \n这张券就……。",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "旁白",
-            "text": "爱如往昔几乎毫无疑问  \n是打算给我的吧。但是，  \n最该放松的是——",
-            "choice_data_list": [
-                "那张券，就让你用吧",
-                "那张券，就让你用吧"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "诶！  \n但、但是，我……。",
-            "choice_data_list": [
-                "现在正好是能休息的时候，去休息吧"
-            ]
-        },
-        {
-            "text": "啊……。\n……呜……。",
-            "name": "爱如往昔"
-        },
-        {
-            "text": "……那个，训练员先生……！",
-            "name": "爱如往昔",
-            "choice_data_list": [
-                "嗯？"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……果然，我……  \n还是，希望您去温泉。"
-        },
-        {
-            "text": "“若能实现训练员先生的愿望”……  \n我认为正是怀着这样的心愿才中奖的。",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "所以，这张券是为了您的。",
-            "choice_data_list": [
-                "但是……"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "是的。我明白……  \n训练员先生的心意。"
-        },
-        {
-            "text": "因此……――",
-            "name": "爱如往昔"
-        },
-        {
-            "text": "……。",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "我……我也想，  \n和您一起去，您觉得怎么样？",
-            "choice_data_list": [
-                "诶……"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……彼此慰劳，慢慢休息……  \n不是，很好吗？"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "不、不需要现在回复。  \n现在……这样就好……。"
-        },
-        {
-            "name": "爱如往昔",
-            "choice_data_list": [
-                "……啊、谢谢你",
-                "……嗯、谢谢你"
-            ],
-            "text": "等各种事情安定下来后……  \n我会，再邀请您的。"
-        },
-        {
-            "text": "腼腆的爱如往昔。  \n那不经意的模样……  \n不知为何，令人感到无比心酸。",
-            "name": "爱如往昔"
-        },
-        {
-            "text": "恭喜您，抽中了1等奖～！  \n奖品是『特级胡萝卜汉堡肉』！",
-            "name": "商店街的人"
-        },
-        {
-            "name": "旁白",
-            "text": "获得了『<itemname>』",
-            "color_text_info_list": [
-                "<itemname>"
-            ]
-        },
-        {
-            "text": "嘛啊……！",
-            "name": "爱如往昔"
-        },
-        {
-            "text": "特级胡萝卜汉堡肉……。",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……啊，但是，特等奖的话……。",
-            "choice_data_list": [
-                "已经非常厉害了不是吗！",
-                "已经非常厉害了不是吗！"
-            ]
-        },
-        {
-            "text": "！",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "choice_data_list": [
-                "当然了！"
-            ],
-            "text": "训练员先生……  \n汉堡肉，也让很您开心吗？"
-        },
-        {
-            "text": "……。\n那就、太好了……♪",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "事不宜迟，我们快回去吧。  \n我也，在意它的味道呢。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "――因为非常烫，  \n请小心哦。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "我开动了……。",
-            "choice_data_list": [
-                "我开动了"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "哈呼……哈呼……  \n嗯，啊啊……舌尖仿佛要融化了……♪"
-        },
-        {
-            "name": "旁白",
-            "text": "肉汁滴落的汉堡肉，  \n似乎很合她的口味……  \n她正细细地慢慢享用着。"
-        },
-        {
-            "name": "商店街的人",
-            "text": "2等奖～！！\n奖品是『一大堆胡萝卜』！"
-        },
-        {
-            "text": "获得了『<itemname>』",
-            "color_text_info_list": [
-                "<itemname>"
-            ],
-            "name": "旁白"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "好厉害……  \n这分量……！",
-            "choice_data_list": [
-                "简直要堆成山了……",
-                "简直要堆成山了……"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "该怎么办呢。  \n吃得完吗……。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……对了，  \n分发给学园的各位吧。"
-        },
-        {
-            "name": "爱如往昔",
-            "choice_data_list": [
-                "我觉得很不错哟"
-            ],
-            "text": "既然是胡萝卜，  \n大部分人都喜欢吧……。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "那么，就由我来分发吧。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "那个……  \n请收下，这些胡萝卜……。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……我放这里了哦。  \n请务必品尝一下。"
-        },
-        {
-            "name": "同班同学A",
-            "text": "……嗯？啊嘞？  \n这怎么有根胡萝卜！"
-        },
-        {
-            "name": "同班同学B",
-            "text": "真的！而且你看，  \n还系着不同的丝带……！  \n好可爱……！这莫非是——"
-        },
-        {
-            "name": "同班同学A&B",
-            "text": "精灵！？"
-        },
-        {
-            "name": "旁白",
-            "text": "数日后，与爱如往昔  \n途经农田时……在胡萝卜田的区域，  \n发现了几位双手合十的赛马娘。"
-        },
-        {
-            "name": "赛马娘A",
-            "text": "胡萝卜精灵大人，  \n今日也感谢您的守护！  \n多亏您我才顺利上完课了！"
-        },
-        {
-            "name": "赛马娘B",
-            "text": "胡萝卜精灵大人，拜托了。  \n请赐予我向喜欢的那个孩子传达心意的  \n勇气……！",
-            "choice_data_list": [
-                "……啊嘞，这是什么情况？"
-            ]
-        },
-        {
-            "text": "……？",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "商店街的人",
-            "text": "3等奖～！\n奖品是『一根胡萝卜』！"
-        },
-        {
-            "text": "获得了『<itemname>』",
-            "name": "旁白",
-            "color_text_info_list": [
-                "<itemname>"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……只有一根，是吗",
-            "choice_data_list": [
-                "爱昔，吃掉它吧"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "诶……  \n但是，这抽奖是……"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……是啊。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "一人一半，怎么样？",
-            "choice_data_list": [
-                "一人一半？"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "是的。",
-            "choice_data_list": [
-                "但是那样的话，胡萝卜会变小哦",
-                "但是那样的话，胡萝卜会变小哦"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "呵呵……没关系的。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "若是与您分享，而变小的话……  \n定会变得更加珍贵。"
-        },
-        {
-            "name": "旁白",
-            "text": "分成两半而变小的胡萝卜。  \n但看着它，爱如往昔  \n却显得有些开心。"
-        },
-        {
-            "name": "商店街的人",
-            "text": "遗憾，没抽中！  \n参与奖是『卫生纸』哦～。"
-        },
-        {
-            "text": "获得了『<itemname>』",
-            "color_text_info_list": [
-                "<itemname>"
-            ],
-            "name": "旁白"
-        },
-        {
-            "text": "啊……。",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "非……非常抱歉……  \n没能中奖……。",
-            "choice_data_list": [
-                "嘛，常有的事啦"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "但是……。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "训练员先生……  \n我想，给您……。"
-        },
-        {
-            "text": "……呜呜……。",
-            "name": "爱如往昔",
-            "choice_data_list": [
-                "真、真的不用在意啦……",
-                "真、真的别在意啦……"
-            ]
-        },
-        {
-            "name": "旁白",
-            "text": "虽然我自己是无所谓的心态，  \n但爱如往昔似乎特别认真。  \n变得非常消沉……。"
-        }
-    ]
+  "Title": "抽奖试手气！",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "在我和爱如往昔一起、\n采买完训练用品回去的路上――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "好像、很热闹啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "瞧一瞧看一看、现在正在举办新春・大抽奖～！\n特等奖可是『温泉旅行券』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "温泉旅行券"
+      ]
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "一等奖是『上等胡萝卜肉排汉堡』\n二等奖是『一筐胡萝卜』\n三等奖是『一根胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "来来来、快乐又开心的抽奖哦！\n任何人都可以来试一试～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "抽奖……。",
+      "ChoiceDataList": [
+        "要试试吗？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "刚才购物的时候拿到了一张抽奖券。\n我想着既然往昔有兴趣的话――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……训练员、\n有没有……看中的奖品呢？",
+      "ChoiceDataList": [
+        "咦？嗯……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我本就打算把奖品给她、\n所以随便的浏览了一下奖品清单。\n最引我注目的果然是――",
+      "ChoiceDataList": [
+        "我的话……『温泉旅行券』吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "既然如此、就试试手气吧！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "那个、叔叔。\n我想抽一次奖。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "来来来呀――！\n来玩吧、任何人都可以来试一试～！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "那……那个……。",
+      "ChoiceDataList": [
+        "您好、我们想抽奖"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "哎哟喂、好啊！\n是这位小姑娘来转吗？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "是、是的……。\n麻烦您了……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "爱如往昔鼓足勇气\n转动器抽奖机的把手！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "结果是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "不得了！\u3000恭喜你啊啊啊啊！！\n抽到了特等奖『温泉旅行券』呀～～～～！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "呀……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "训……训练员……！！",
+      "ChoiceDataList": [
+        "你好厉害呀、往昔……！",
+        "你好厉害呀、往昔……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "嗯、嗯……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "恭喜你、小姑娘！\n刚才真是霸气十足啊！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "看来非常想去温泉啊。\n给你、拿好！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "非……非常感谢……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……好呀！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "那个、训练员。\n关于这张券……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "看来爱如往昔肯定打算送给我吧。\n但是、现在最需要修养的――",
+      "ChoiceDataList": [
+        "这张券、你好好用吧",
+        "这张券、你好好用吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "诶！\n但、但是、我……。",
+      "ChoiceDataList": [
+        "现在正值休整期、好好放松吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "啊……。\n……呜……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……那个、训练员……！",
+      "ChoiceDataList": [
+        "嗯？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……果然、我……。\n想和你一起泡温泉。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "也许、正是因为祈愿着……\n能实现训练员的心愿、我才抽到的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "所以、这是属于你的券。",
+      "ChoiceDataList": [
+        "可是……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "嗯。训练员的心意……我明白的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "那么……――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "我……我也、\n和你一起去、可以吗？",
+      "ChoiceDataList": [
+        "诶……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……互相慰劳、静静地休息……\n不是、也、挺好吗。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "不、不必现在答复。\n现在这样……就好……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "待到诸事落定之后……\n我再、邀请你。",
+      "ChoiceDataList": [
+        "……嗯、谢谢你",
+        "……嗯、谢谢你"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "羞涩的爱如往昔低下头。\n那不经意的姿态……\n不知为何、令我心头泛起一丝酸涩。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "恭喜你、1等奖～！\n奖品是『上等胡萝卜肉排汉堡』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "哎呀……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "上等胡萝卜肉排汉堡……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……啊、でも、特等奖就……。",
+      "ChoiceDataList": [
+        "已经很厉害啦！",
+        "已经很厉害啦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "训练员……。\n汉堡肉も、也让你很开心吗？",
+      "ChoiceDataList": [
+        "当然啦！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……。\n那就、好……♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "那我们趁热、快回去吃吧。\n我也、挺好奇它的味道呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "――因为很烫、\n吃的时候要小心哦。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "我开动了……。",
+      "ChoiceDataList": [
+        "我开动了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "哈姆……哈姆……。\n嗯、啊啊……舌尖仿佛要融化了……♪",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "肉汁四溢的汉堡肉、\n似乎很合她的口味……\n我们一同悠哉地细细品味着。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "2等奖～！！\n奖品是『一筐胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "好厉害……\n竟然这么多……！",
+      "ChoiceDataList": [
+        "简直要堆成山了……",
+        "简直要堆成山了……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "怎么办好呢。\n吃得完吗……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……对了、\n分发给学园的各位吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "既然是胡萝卜、\n大部分人都喜欢吧……。",
+      "ChoiceDataList": [
+        "我觉得不错"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "那么，就由我来分发吧。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "那个……\n请收下，这些胡萝卜……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……我放这里了哦。\n请务必品尝一下。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同班同学A",
+      "Text": "……嗯？\u3000啊咧？\n为什么这里有胡萝卜！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同班同学B",
+      "Text": "真的欸！\u3000而且你看、\n还系着不同的丝带……！\n好可爱……！\u3000该不会是――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "同班同学A&B",
+      "Text": "妖精送的！？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "几天后、我和爱如往昔途经农田的时候\n……在胡萝卜田的区域、\n见到了几位双手合十的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "胡萝卜妖精大人、\n今天也感谢您的保佑！\n多亏您我才顺利上完了课！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘B",
+      "Text": "胡萝卜妖精大人、求求您。\n请赐予我向最喜欢的那孩子传达心意的、\n勇气……！",
+      "ChoiceDataList": [
+        "……那是、在干嘛？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "不知道……？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "3等奖～！\n奖品是『一根胡萝卜』！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……只有、一根啊。",
+      "ChoiceDataList": [
+        "往昔、你吃了吧"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "咦……。\n但是、这是抽奖……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……对了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "一人一半、怎么样。",
+      "ChoiceDataList": [
+        "一人一半？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "嗯。",
+      "ChoiceDataList": [
+        "但是那样的话，胡萝卜会变小哦",
+        "但是那样的话，胡萝卜会变小哦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "呵呵……没关系的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "若是因为与你分享、而变小的话……\n一定会变得更加珍贵。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "胡萝卜因为分为两半而变小了。\n但是端详着它的爱如往昔、\n却显得有些开心。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "商店街的人",
+      "Text": "可惜、没抽中！\n参加奖是『卫生纸』啊～。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "获得了『<itemname>』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": [
+        "<itemname>"
+      ]
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "非……非常抱歉……。\n没能中奖……。",
+      "ChoiceDataList": [
+        "嘛啊，常有的事啦"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "但是……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "训练员……。\n我想给你……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……呜呜……。",
+      "ChoiceDataList": [
+        "真、真的不用在意啦……",
+        "真、真的不用在意啦……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "虽然我是一向是无所谓的、\n爱如往昔却似乎格外认真。\n她变得非常消沉……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }
