@@ -1,434 +1,613 @@
 {
-    "title": "Still in...",
-    "text_block_list": [
-        {
-            "text": "与爱如往昔共度的最初三年结束，\n开始认真面对身体的不适。"
-        },
-        {
-            "text": "检查住院持续了很长时间。或许得益于暂时离开工作\n好好休息……身体逐渐恢复了以往的状态。"
-        },
-        {
-            "text": "――身体不适的原因，最终仍不明了。"
-        },
-        {
-            "text": "而住院期间，爱如往昔\n一次都没有联系过我。",
-            "choice_data_list": [
-                "（一点联系都没有，是发生什么了吗……？）",
-                "（一点联系都没有，是发生什么了吗……？）"
-            ]
-        },
-        {
-            "text": "担心着她的事，\n出院后立刻前往学园。\n结果——",
-            "choice_data_list": [
-                "你是……",
-                "你是……"
-            ]
-        },
-        {
-            "name": "新宇宙",
-            "text": "这条“轨道”的，终点。"
-        },
-        {
-            "name": "新宇宙",
-            "text": "爱如往昔，“LOS”。\n已经……『不在了』哦。"
-        },
-        {
-            "name": "骏川手纲",
-            "text": "――是的。爱如往昔小姐，\n不久前提交了退学申请。",
-            "choice_data_list": [
-                "退、退学……！？"
-            ]
-        },
-        {
-            "name": "骏川手纲",
-            "text": "是、是的……作为特雷森学园，\n我们当然试图挽留过，但—"
-        },
-        {
-            "name": "骏川手纲",
-            "choice_data_list": [
-                "怎么会……"
-            ],
-            "text": "简直像烟一样，\n消失不见了……。"
-        },
-        {
-            "name": "骏川手纲",
-            "text": "……果然，训练员先生\n您也不知道啊。"
-        },
-        {
-            "name": "骏川手纲",
-            "text": "退学申请目前尚未被受理。\n我们认为也需要听取您的意见。"
-        },
-        {
-            "name": "骏川手纲",
-            "text": "但是，如果她一直不回来的话——"
-        },
-        {
-            "text": "爱如往昔，消失了。\n被这一事实击垮……\n仍处于混乱中，走到走廊时——"
-        },
-        {
-            "name": "新宇宙",
-            "text": "――给。",
-            "choice_data_list": [
-                "诶！？这是……什么？"
-            ]
-        },
-        {
-            "text": "“FLPT”……收集齐了哦。",
-            "name": "新宇宙"
-        },
-        {
-            "name": "新宇宙",
-            "text": "新宇宙也……\n祈愿着爱如往昔的『幸福』。"
-        },
-        {
-            "text": "将它们连接起来。\n拼出爱如往昔的“心”。",
-            "name": "新宇宙"
-        },
-        {
-            "text": "从新宇宙那里得到的袋子里，\n装着被撕得粉碎的信件碎片。"
-        },
-        {
-            "text": "或许能找到关于她下落的线索。\n怀着这样的想法，拼命拼接起来——"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "敬启　致温柔的您"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "还请原谅我\n寄出这样的信。"
-        },
-        {
-            "text": "一直以来，\n我都是“孤身一人”。",
-            "name": "爱如往昔"
-        },
-        {
-            "text": "毕竟，我是……\n正如您所知的，那样的人。",
-            "name": "爱如往昔"
-        },
-        {
-            "text": "但是，是您……。\n找到了我。",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "因此，让您痛苦了。\n我不认为道歉就能得到原谅。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "但请相信这一点。\n我一直，只祈求着\n您的幸福。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "非常感谢您。\n祝您，永远健康。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "我，会一直"
-        },
-        {
-            "text": "――攥紧信纸，我奔跑起来。\n已经坐立难安。\n想快点，找到她。",
-            "choice_data_list": [
-                "呐，你们……！",
-                "呐，你们……！"
-            ]
-        },
-        {
-            "name": "赛马娘们",
-            "text": "哇！\n怎、怎么了……？",
-            "choice_data_list": [
-                "见到爱昔了吗！？"
-            ]
-        },
-        {
-            "name": "赛马娘Ａ",
-            "choice_data_list": [
-                "……诶？"
-            ],
-            "text": "……爱昔？\n是——谁啊？"
-        },
-        {
-            "name": "赛马娘Ｂ",
-            "text": "有那样的孩子吗……？\n嗯——……。",
-            "choice_data_list": [
-                "就是，第二个三后冠赛马娘！"
-            ]
-        },
-        {
-            "name": "赛马娘Ａ",
-            "text": "…………那是谁来着。\n唔—嗯，想不起来了……。"
-        },
-        {
-            "name": "赛马娘Ｂ",
-            "text": "呐，比起那个！\n接下来要出道的三后冠路线的孩子们，\n好像是超级大热门——",
-            "choice_data_list": [
-                "（怎么会，骗人的吧……为什么——）"
-            ]
-        },
-        {
-            "choice_data_list": [
-                "（难不成真的，从这个世界消失――）"
-            ],
-            "text": "眼前一黑。她确实\n是个没什么存在感的孩子。但绝不可能\n被彻底遗忘……！"
-        },
-        {
-            "name": "爱慕律动",
-            "text": "是爱如往昔同学。"
-        },
-        {
-            "name": "赛马娘Ａ",
-            "text": "诶？\n啊，爱律同学……！"
-        },
-        {
-            "name": "爱慕律动",
-            "text": "第二位三后冠赛马娘，\n是爱如往昔哦。"
-        },
-        {
-            "name": "爱慕律动",
-            "text": "……为什么大家，\n都忘记了那个人呢。",
-            "choice_data_list": [
-                "爱律……！爱昔她……！"
-            ]
-        },
-        {
-            "name": "爱慕律动",
-            "text": "我知道。\n但是，我不知道那个人现在在哪里。"
-        },
-        {
-            "name": "爱慕律动",
-            "text": "……快点找到她吧。",
-            "choice_data_list": [
-                "……但说不定，已经哪里都——"
-            ]
-        },
-        {
-            "name": "爱慕律动",
-            "text": "她还在哦。"
-        },
-        {
-            "name": "爱慕律动",
-            "text": "……在的。\n那个人，绝对在某个地方。"
-        },
-        {
-            "name": "爱慕律动",
-            "choice_data_list": [
-                "……！"
-            ],
-            "text": "然后――一直在等着您。"
-        },
-        {
-            "name": "爱慕律动",
-            "text": "……请转告那个人。\n如果不快点的话，\n可就追不上我了。"
-        },
-        {
-            "text": "爱慕律动说得对。\n如果我现在放弃的话……\n肯定再也见不到她了。",
-            "choice_data_list": [
-                "但是，该去哪里——"
-            ]
-        },
-        {
-            "name": "小马娘",
-            "text": "呐，大哥哥。"
-        },
-        {
-            "text": "呐，大姐姐。",
-            "name": "小马娘"
-        },
-        {
-            "text": "这时向我搭话的……\n是抱着爱如往昔玩偶的\n一个小马娘。"
-        },
-        {
-            "name": "小马娘",
-            "text": "爱昔酱，去哪里了？"
-        },
-        {
-            "name": "小马娘",
-            "text": "朋友们都说，没有这个人。\n但是我知道她还在。"
-        },
-        {
-            "text": "想再见见她……。",
-            "name": "小马娘",
-            "choice_data_list": [
-                "……没事的"
-            ]
-        },
-        {
-            "text": "轻抚着那孩子的头，我下定决心。\n绝不能让她就这样消失。"
-        },
-        {
-            "choice_data_list": [
-                "一定要……见到她"
-            ],
-            "text": "最重要的是——我想再次，\n见到爱如往昔。"
-        },
-        {
-            "text": "自那之后，不知过了多长时间。\n自从决心要见她，时间感逐渐模糊——\n我又开始犯困了。"
-        },
-        {
-            "text": "……我已经明白了。\n越是靠近她，\n自己作为人的形态就越是逐渐丧失。",
-            "choice_data_list": [
-                "即便如此也无妨。必须去迎接她……"
-            ]
-        },
-        {
-            "text": "日复一日。\n日复一日日复一日日复一日日复一日\n日复一日日复一日日复一日不断前行。"
-        },
-        {
-            "text": "然后――"
-        },
-        {
-            "text": "…………。",
-            "name": "爱如往昔",
-            "choice_data_list": [
-                "爱昔……"
-            ]
-        },
-        {
-            "text": "……！！",
-            "name": "爱如往昔"
-        },
-        {
-            "text": "训练员先生……！？",
-            "name": "爱如往昔",
-            "choice_data_list": [
-                "抱歉，这次……花了时间长了些"
-            ]
-        },
-        {
-            "text": "……。",
-            "name": "爱如往昔",
-            "choice_data_list": [
-                "回去吧，爱昔……我们一起"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……！\n这……我做不到……！"
-        },
-        {
-            "text": "这次的话……\n您也无法安然无恙。",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "一定，察觉到了吧？\n进一步的变化……。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "原本缓缓交融的血液……\n因分离而逐渐淡薄。"
-        },
-        {
-            "text": "若再次倾注其中——\n过于浓稠的血液，会将容器……。",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "支离破碎。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "而且……。"
-        },
-        {
-            "text": "我，已经……\n不再是我了。",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "我回不去了。\n那里……已经……。",
-            "choice_data_list": [
-                "那我就留在这里",
-                "那我就留在这里"
-            ]
-        },
-        {
-            "text": "……。",
-            "name": "爱如往昔"
-        },
-        {
-            "text": "啊……您……\n为什么……。",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "为什么，要做到这种地步……",
-            "choice_data_list": [
-                "我说过的吧，会一直守护你",
-                "我说过的吧，会一直守护你"
-            ]
-        },
-        {
-            "text": "『――无论发生什么，这次我一定会守护你』"
-        },
-        {
-            "text": "――――",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "仅仅……\n就是，为了这个……？",
-            "choice_data_list": [
-                "而且，我……只是，想再见见你而已",
-                "而且，我……只是，想再见见你而已"
-            ]
-        },
-        {
-            "name": "爱如往昔",
-            "text": "训练员先生……。"
-        },
-        {
-            "text": "我向爱如往昔伸出了手。\n不会再，让她孤身一人了。\n即便现在……――",
-            "choice_data_list": [
-                "――我的想法在这里也依旧没有改变"
-            ]
-        },
-        {
-            "text": "……。",
-            "name": "爱如往昔"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……狡猾。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "狡猾……太狡猾了……。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "我也……\n想要守护您……啊！"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "希望您……\n能一直幸福……啊。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……但是。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "其实……\n我一直……。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "一直……在等着您。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "期待与您……相见的时刻。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "希望能待在您身边的……。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "……我也是。\n我的心意……也一直未曾改变。"
-        },
-        {
-            "name": "爱如往昔",
-            "text": "我对您――爱如往昔。"
-        }
-    ]
+  "Title": "Still in...",
+  "TextBlockList": [
+    {
+      "Name": "",
+      "Text": "我与爱如往昔最初三年时光刚结束、\n自己的身体便垮掉了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "接着便住院检查了好久。\n也许因为脱离工作得到了休息……\n我的身体渐渐地恢复到了以前的状态。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――至于其中的原因、最后也不了了之。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "但是在我住院期间、\n爱如往昔一次也没有联系过我。",
+      "ChoiceDataList": [
+        "（没有联系是不是因为出了什么事啊……？）",
+        "（没有联系是不是因为出了什么事啊……）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我实在在意她的情况、\n一出院便快马加鞭地来到学园。\n然后――",
+      "ChoiceDataList": [
+        "你是……",
+        "你是……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "这里是“轨道”的、终点。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "爱如往昔、“LOS”。\n她已经……『不在』了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川缰绳",
+      "Text": "――是的。爱如往昔同学前不久、\n递交了退学申请书。",
+      "ChoiceDataList": [
+        "退、退学……！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川缰绳",
+      "Text": "是、是的……作为特雷森学院校方、\n自然是对她进行了挽留――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川缰绳",
+      "Text": "可她就像一缕烟一样、\n就这么消失不见了……。",
+      "ChoiceDataList": [
+        "怎么会……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川缰绳",
+      "Text": "……果然、训练员您也不清楚这回事呢。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川缰绳",
+      "Text": "不过我们还没有受理她的退学申请。\n希望您能找到她聊聊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "骏川缰绳",
+      "Text": "但是、要是她一直没有回来的话――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "爱如往昔她、消失了。\n这一事实令我大受打击……\n头脑混乱之中、我来到了走廊里――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "――给你。",
+      "ChoiceDataList": [
+        "咦！？这是……什么？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "“FLPT”……我都收集起来了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "新宇宙……\n也会为爱如往昔『幸福』、\n祈祷。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "新宇宙",
+      "Text": "把它们拼起来吧。\n拼回爱如往昔的“心”。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "新宇宙递给我的袋子里、\n装的都是被撕碎的信纸碎片。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "也许这能让我找到她。\n这样想着、我绞尽脑汁把它们拼回了一起――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "致\u3000温柔的你",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "请原谅我无法将这样的信送到你手中。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……我一直以来、\n都是“孤身一人”。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "因为、我就是……\n这样的赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "但是、你……\n找到了我。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "也因此、让你遭受了痛苦。\n我知道道歉是没有用的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "但是还请你相信这一点。\n我一直、都希望你能获得幸福。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "谢谢你。\n今后还请多多保重。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "我会一直",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "――紧握手中的信纸、我立马飞奔而出。\n这个时候干站着也无济于事。\n要尽快找到她才行。",
+      "ChoiceDataList": [
+        "请问、你们……！",
+        "请问、你们……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "哇！\n什、什么事……？",
+      "ChoiceDataList": [
+        "最近有看到往昔吗！？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "……往昔？\n这――谁啊？",
+      "ChoiceDataList": [
+        "……咦？"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘B",
+      "Text": "这叫这个名字的吗……？\n唔嗯……。",
+      "ChoiceDataList": [
+        "就是、第二个三后冠的！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "…………那是、谁来着。\n唔嗯、想不起来啊……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘B",
+      "Text": "哎、别管那么多了！\n据说有接下来打算出道走后冠路线的孩子们、\n竞争可激烈了――",
+      "ChoiceDataList": [
+        "（怎么会、假的吧……为什么――）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我不禁眼前一黑。\n她的确没有什么存在感。\n但是、不可能这么容易被遗忘的啊……！",
+      "ChoiceDataList": [
+        "（该不会真的、已经从这个世界消――）"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕律动",
+      "Text": "爱如往昔同学。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "赛马娘A",
+      "Text": "咦？\n啊、律动同学……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕律动",
+      "Text": "第二个三后冠赛马娘、\n就叫爱如往昔啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕律动",
+      "Text": "……为什么你们会、\n忘记那个人啊。",
+      "ChoiceDataList": [
+        "律动……！往昔她……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕律动",
+      "Text": "我知道。\n但是、我也不清楚那个人现在在哪。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕律动",
+      "Text": "……你快去把他找回来吧。",
+      "ChoiceDataList": [
+        "……她该不会、已经不在――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕律动",
+      "Text": "在的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕律动",
+      "Text": "……她在的。\n那个人、一定在某个地方。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕律动",
+      "Text": "而且――她在等你。",
+      "ChoiceDataList": [
+        "……！"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱慕律动",
+      "Text": "……帮我告诉那个人。\n再不快点回来的话、\n会被我赶上的。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "爱慕律动说的一点也没错。\n要是我现在就放弃的话……\n恐怕再也见不到她了。",
+      "ChoiceDataList": [
+        "但是、我该去哪――"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩子赛马娘",
+      "Text": "呐、大哥哥。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩子赛马娘",
+      "Text": "呐、大姐姐。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这时、有个声音在叫我……\n是一个抱着爱如往昔玩偶的年幼赛马娘。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩子赛马娘",
+      "Text": "往昔酱、去哪里了啊？",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩子赛马娘",
+      "Text": "朋友们都说没有这个人。\n可我明明记得啊。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "小孩子赛马娘",
+      "Text": "好想见她……。",
+      "ChoiceDataList": [
+        "……没事的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我温柔地摸了摸她的头、然后下定决心。\n绝不能让她就这样消失。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "更重要的是――我想再一次、\n见到爱如往昔。",
+      "ChoiceDataList": [
+        "一定会……找到你的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "这之后、也不知道过了多久。\n自从我下定决心要把她找出来后、\n逐渐丧失了时间观念――困意再度席卷而来。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "……我早就知道的。\n越是靠近她、\n自己便越会失去人形。",
+      "ChoiceDataList": [
+        "那又如何。我必须去接她……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "日子一天天地、一天天地。\n一天天地一天天地一天天地一天天地一天天地\n一天天地一天天地一天天地过去。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "终于――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "…………。",
+      "ChoiceDataList": [
+        "往昔……"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……！！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "训练员……！？",
+      "ChoiceDataList": [
+        "抱歉、这次……让你久等了"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……。",
+      "ChoiceDataList": [
+        "回去吧、往昔……我们一起"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……呜！\n那……不行的……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "这次……\n你肯定、不能平安无事。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "肯定有感觉到的吧？\n进一步地蜕变……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "缓慢交融的血……\n在分离一次后会变得稀薄。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "要是再度注入的话――\n无法承受比以往还要浓烈的血的、容器会……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "分崩离析。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "而且……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "我已经……\n不再是我了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "那里……我已经不能回去了……。",
+      "ChoiceDataList": [
+        "那么、我也留在这里",
+        "那么、我也留在这里"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "啊……。你……为什么……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "要做到、这种地步……。",
+      "ChoiceDataList": [
+        "我说过了吧、要保护你的",
+        "我说过了吧、要保护你的"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "『――不论发生什么、这次我一定会保护好你』",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "――――",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "只是……\n因为、这个吗……？",
+      "ChoiceDataList": [
+        "而且、我也……只是、想要见到你",
+        "而且、我也……只是、想要见到你"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "训练员……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "",
+      "Text": "我朝爱如往昔伸出手。\n她已经不再是、孤身一人了。\n即使是现在……――",
+      "ChoiceDataList": [
+        "――我的想法也依然不变"
+      ],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……呜。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……太狡猾了。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "你真的……好狡猾……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "我也……\n想要保护你啊……！",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "我也……\n希望你能幸福……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……但是。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "我其实……。\n一直……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "一直……在等你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "一直……想见你。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "一直想要陪在你的身边……。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "……我也。\n我的……想法也依然不变。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    },
+    {
+      "Name": "爱如往昔",
+      "Text": "我爱你――一如往昔。",
+      "ChoiceDataList": [],
+      "ColorTextInfoList": []
+    }
+  ]
 }
