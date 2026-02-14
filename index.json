@@ -245,13 +245,13 @@
     },
     {
       "path": "assets/atlas/common/common.diff.png",
-      "hash": "989a228d21c4b29410a1f0c1ab1bfcf7985abd3d8ceb72a45492b824dbe9ea22",
-      "size": 114381
+      "hash": "f0c274613f7327794c016cf8df4465643a190d6d37b2b5a67d12f8471cab7bc9",
+      "size": 126803
     },
     {
       "path": "assets/atlas/heroes/heroes.diff.png",
-      "hash": "3dc9b0a7fc8db946264f2e10f7ce72a09721ccfcab73a6d60f05c1d82e9fb0f3",
-      "size": 398222
+      "hash": "76d8a671d3d73ca323e3740eaf0c0b3cd4050fc3db129c2453ef7f127fb6bcdd",
+      "size": 499525
     },
     {
       "path": "assets/atlas/home/home.diff.png",
@@ -85910,8 +85910,8 @@
     },
     {
       "path": "localize_dict.json",
-      "hash": "236649adc630b82f405b4472f781665eeaa9ea69007cebadaf4a7b1920a17983",
-      "size": 439155
+      "hash": "38e3f755e2d4a57ea42be764bb7adf5e4e3aac550858b81a6ad67b0e38915ea8",
+      "size": 441027
     },
     {
       "path": "race_jikkyo_comment_dict.json",
@@ -85925,8 +85925,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "41a549978c7aa013a24f67d9956d0d06a90fb963dc291ecec2add8b017257477",
-      "size": 4925897
+      "hash": "94f25c73be68b71006f37c334309492af2c0a733748c99f364d96defe9fca9e5",
+      "size": 4925895
     }
   ]
 }
