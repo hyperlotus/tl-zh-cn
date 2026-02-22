@@ -5,6 +5,10 @@
 
 This is the Simplified Chinese translation repository for Hachimi.
 
+---
+
+欢迎加入我们的 [QQ频道](https://pd.qq.com/s/ghab2rsuy) 以提出反馈/问题或参与游戏内容讨论。
+
 # 感谢
 - 维护者: yingyingyingqwq
 
@@ -17,7 +21,7 @@ This is the Simplified Chinese translation repository for Hachimi.
 </a>
 
 
-如您也想要贡献自己的翻译，可参阅 [`Hachimi 翻译指南`](https://hachimi.leadrdrk.com/zh-cn/docs/translation-guide/welcome.html) ，这应该会对您有很大帮助。
+如您也想要贡献自己的翻译，可参阅 [`Hachimi 翻译指南`](https://hachimi.noccu.art/zh-cn/docs/translation-guide/welcome.html) ，这应该会对您有很大帮助。
 
 ## 说明
 本译文仓库的一些文件由 [`Trainers' Legend G 译文仓库`](https://github.com/MinamiChiwa/Trainers-Legend-G-TRANS) 移植而来，使用 [`署名-非商业性使用-相同方式共享 4.0 国际 (CC BY-NC-SA 4.0)`](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议。
