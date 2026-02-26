@@ -15,8 +15,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_champions_result_roundadvance00/tx_uTex_fl_champions_result_roundadvance00_0.diff.png",
-      "hash": "136eb7fb32bd14be0ec9bcadf1e23da16255db4092d8260a63443cc27975043c",
-      "size": 353705
+      "hash": "9efe1e46549a8333bba5f20f7ea184e08c7347f046610d5a6ea02330f956e461",
+      "size": 218060
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_champions_txt_round_reward00/tx_uTex_fl_champions_txt_round_reward00_0.diff.png",
@@ -62,6 +62,56 @@
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_break_resultpoint_record00/tx_uTex_fl_singlemode_break_resultpoint_record00_0.diff.png",
       "hash": "d14d8df3f5c01b1fe4d821b2859a460786b720f41805ae047365d9005a5aee70",
       "size": 209402
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_btn_teamsptraining00/tx_uTex_fl_singlemode_breeders_btn_teamsptraining00_0.diff.png",
+      "hash": "6cd3f332b7bcea0c0656cbce3dce0fe02a5537004b4b46d79b2eac0f73abbbd9",
+      "size": 8970
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_event_join00/tx_uTex_fl_singlemode_breeders_event_join00_0.diff.png",
+      "hash": "653c4dc1c1018b472311597d019f3b2ceebb8cd8295e5dac3636ae6190c8cf60",
+      "size": 64810
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_header_turncounter00/tx_uTex_fl_singlemode_breeders_header_turncounter00_0.diff.png",
+      "hash": "f3810c27717017571a04245b663b6fed20a9850be05d39246f5ee44e247e0f51",
+      "size": 6005
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_next_target00/tx_uTex_fl_singlemode_breeders_next_target00_0.diff.png",
+      "hash": "a4a7811155432fe259521d846d73f1bcec74b8a46ec5568e0f6104bac44f47af",
+      "size": 103388
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_teammeeting_graph00/tx_uTex_fl_singlemode_breeders_teammeeting_graph00_0.diff.png",
+      "hash": "4278f189db2be459c08608759d7112233f4b788c267d452c98df36ac3e7c74c9",
+      "size": 22653
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_teamparameter_lv_maxup00/tx_uTex_fl_singlemode_breeders_teamparameter_lv_maxup00_0.diff.png",
+      "hash": "a7fa2a429eaa84f5aa56f2873768320466f75a93a148590b5b0b28dd80d953ee",
+      "size": 94043
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_teamrank_progress_text00/tx_uTex_fl_singlemode_breeders_teamrank_progress_text00_0.diff.png",
+      "hash": "714a87878d86d892e0ac6366af24da82e5c67f5966e651b54224d4b56661e93d",
+      "size": 74325
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_teamsptraining_efficacy00/tx_uTex_fl_singlemode_breeders_teamsptraining_efficacy00_0.diff.png",
+      "hash": "75f8a3d9a229421bd73156816e6713cf17bfdf31a682409f9adc79dd72b3469a",
+      "size": 76789
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_teamsptrainingstock_up00/tx_uTex_fl_singlemode_breeders_teamsptrainingstock_up00_0.diff.png",
+      "hash": "b060ee34e576eb7427fc74a41f0059e4d5b8e7736a45a70a64651ebc7a3d9c9f",
+      "size": 87869
+    },
+    {
+      "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_breeders_teamtask_progress00/tx_uTex_fl_singlemode_breeders_teamtask_progress00_0.diff.png",
+      "hash": "dfb06cbe4b6ed8bd791d950c2fefb191e41b11d3f074e96b739c3adcb9fbf4d0",
+      "size": 8266
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_btn_factor_succession00/tx_uTex_fl_singlemode_btn_factor_succession00_0.diff.png",
@@ -175,8 +225,8 @@
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_result_chararank00/tx_uTex_fl_singlemode_result_chararank00_0.diff.png",
-      "hash": "973f7bfb83c45acb7a26122e10c696947aa9bf42eade743716b44e70a9bc23fb",
-      "size": 623897
+      "hash": "c5582d5a9d4c976c7c5ac28b2c02fc82f2453fbcd2eebe441bc8bc0d46c2cb28",
+      "size": 26911
     },
     {
       "path": "assets/an_texture_sets/as_uMeshParam_fl_singlemode_result_scenariorecord00/tx_uTex_fl_singlemode_result_scenariorecord00_0.diff.png",
@@ -275,8 +325,8 @@
     },
     {
       "path": "assets/atlas/singlemodescenariobreeders/singlemodescenariobreeders.diff.png",
-      "hash": "ac0430ff1ace9bb140206dd2bff9e296ffa45af5b0315a77c2d62d12293b794d",
-      "size": 42331
+      "hash": "ba349a6d0ba874f3e32bf51cbb8e720638da1b603596b80114d159a2fd89d735",
+      "size": 63913
     },
     {
       "path": "assets/atlas/singlemodescenarioonsen/singlemodescenarioonsen.diff.png",
@@ -295,8 +345,8 @@
     },
     {
       "path": "assets/atlas/teamstadium/teamstadium.diff.png",
-      "hash": "7cb4aca2fe766f427dfb69d5a6599a9e8e422ca173bfd36f0e3baeffd1dd0e53",
-      "size": 1230530
+      "hash": "2f34b77859ea48580f7b670b2e36baa2a17533a78243d3c9b013e8f0943863c6",
+      "size": 22712
     },
     {
       "path": "assets/home/data/00000/01/hometimeline_00000_01_1001001.json",
@@ -5154,6 +5204,11 @@
       "size": 3435
     },
     {
+      "path": "assets/lyrics/m1177_lyrics.json",
+      "hash": "c89a02067528fb79cf87307d98c2d6690a2a66db7d3963efcbb5703d8a94f804",
+      "size": 2361
+    },
+    {
       "path": "assets/lyrics/m9051_lyrics.json",
       "hash": "f436cfd88b3636fba028a50c7beb078f7ce8df2fa48d1563c711f9dc4c422691",
       "size": 934
@@ -9787,6 +9842,11 @@
       "path": "assets/story/data/08/0000/storytimeline_080000012.json",
       "hash": "4b6dc3ac3e3d4ba3dac06c45dfb4a577366fc63caff7787d482849a4fd3d5222",
       "size": 1997
+    },
+    {
+      "path": "assets/story/data/08/0000/storytimeline_080000013.json",
+      "hash": "8f020286ca14abb640d5e398b5f2f9cf066c16eebce7e5eb962a94c7d24eeb5b",
+      "size": 2738
     },
     {
       "path": "assets/story/data/09/0001/storytimeline_090001001.json",
@@ -87515,8 +87575,8 @@
     },
     {
       "path": "text_data_dict.json",
-      "hash": "4793b85e6b15d98790b3083214f7989728751c5a6fcfba0e13689e33feb69b4b",
-      "size": 5047224
+      "hash": "8f17c25d4406dad7c52f36abd6f8514c66c0a46c32cdb5a321f919101239b20b",
+      "size": 5062295
     }
   ]
 }
