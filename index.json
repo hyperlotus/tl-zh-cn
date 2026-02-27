@@ -80864,6 +80864,16 @@
       "size": 5853
     },
     {
+      "path": "assets/story/data/80/1138/storytimeline_801138001.json",
+      "hash": "ce8ba496c89c2bb530c43acb70014263b45f45128603f44be426553741a349bc",
+      "size": 7538
+    },
+    {
+      "path": "assets/story/data/80/1138/storytimeline_801138002.json",
+      "hash": "53be4e018f4021ce6323a979fd0baca490f442badee9e3c660a31840991daf32",
+      "size": 5888
+    },
+    {
       "path": "assets/story/data/80/9001/storytimeline_809001001.json",
       "hash": "6a3f147ab64c1524403a03f4fba6e03cf80fb7967a4b5d57c694bde801908d10",
       "size": 3377
@@ -84464,6 +84474,21 @@
       "size": 7525
     },
     {
+      "path": "assets/story/data/83/0289/storytimeline_830289001.json",
+      "hash": "4045a6fab0f6616e73d779801357dba85f1d9f896759307f70372e7fc22160ff",
+      "size": 7033
+    },
+    {
+      "path": "assets/story/data/83/0289/storytimeline_830289002.json",
+      "hash": "bee440a3cee441f4e1c198491248c058351e1fd6f5544cfb5279ec05f7c7a282",
+      "size": 11588
+    },
+    {
+      "path": "assets/story/data/83/0289/storytimeline_830289003.json",
+      "hash": "93fb80f6576b3237a54de696a2221685c7b6807b1b84eb4230e31f51f88dd480",
+      "size": 9126
+    },
+    {
       "path": "assets/textures/gacha/charaname/rarity_1/gacha_chrname_1001_01.png",
       "hash": "fa5c13f590b3edc1ba48282e888c13004deb30c497c7e1acfb53c1651bea0ce7",
       "size": 97978
@@ -87535,8 +87560,8 @@
     },
     {
       "path": "character_system_text_dict.json",
-      "hash": "30365d01ed9670a318337b5647516b086908f72a4281e696f5a3afb91fd5268a",
-      "size": 2409465
+      "hash": "f5d358c686f8cf12e8b3adec1c593b76ad1ab6beaee390046f248c07ac938654",
+      "size": 2463064
     },
     {
       "path": "config.json",
@@ -87565,18 +87590,18 @@
     },
     {
       "path": "race_jikkyo_comment_dict.json",
-      "hash": "76e66555cdb41ea75c4903898dcdaf9446314aeca70ae56f79926011fcaadeb3",
-      "size": 30468
+      "hash": "9ed3577ff6144ec0b66f76b333826dce61e8a032f2b39b6a843f51adf30894de",
+      "size": 35333
     },
     {
       "path": "race_jikkyo_message_dict.json",
-      "hash": "d0f4c3ef870f2e9009e3090a2d07361bf0e3eabb796320f0a2d7408079294bbd",
-      "size": 269520
+      "hash": "a318b8858724c0296ebd41c13d3001c36a25e18bcf961cbcdb9045ba2a7a9300",
+      "size": 288458
     },
     {
       "path": "text_data_dict.json",
-      "hash": "8f17c25d4406dad7c52f36abd6f8514c66c0a46c32cdb5a321f919101239b20b",
-      "size": 5062295
+      "hash": "64a7e6c9f7339acc6bab5094fe9468b039fa4c8c84f54dbef5ff69986c8c3791",
+      "size": 5067762
     }
   ]
 }
